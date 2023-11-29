@@ -1,0 +1,3117 @@
+[
+  {
+    "id": "het_857",
+    "text": "Those whose child is going through a'phase'may wish they had a phaser.",
+    "output": true,
+    "ambiguity": "The pun word 'phase' supports two plausible interpretations of 'phase' meaning a stage in development and 'phaser' which is a weapon.",
+    "distinctiveness": "In the given sentence, the words 'child' relates to 'phase' while 'wish they had' refers to the second interpretation of 'phaser'. Both of these are distinct where one refers to a child's stage in development and the other refers to a weapon."
+  },
+  {
+    "id": "het_368",
+    "text": "Bureaucrats cut red tape-- lengthwise.",
+    "output": true,
+    "ambiguity": "The pun word 'red tape' supports two plausible interpretations of 'red tape' meaning bureaucratic procedures and 'red tape' as a physical object.",
+    "distinctiveness": "In the given sentence, the words 'bureaucrats' relates to 'red tape' while 'cut' refers to the second interpretation of 'tape' as a physical object. Both of these are distinct where one refers to people involved in bureaucracy and the other refers to an action done on a physical object."
+  },
+  {
+    "id": "het_1204",
+    "text": "If they say you look good in glasses that would be an optical allusion.",
+    "output": true,
+    "ambiguity": "The pun word 'allusion' supports two plausible interpretations of 'allusion' meaning a reference to something and 'illusion' meaning a misleading or false impression.",
+    "distinctiveness": "In the given sentence, the words 'optical' relates to 'allusion' while 'glasses' refers to the second interpretation of 'illusion'. Both of these are distinct where one is related to vision and the other refers to a deceptive appearance."
+  },
+  {
+    "id": "het_1043",
+    "text": "Nearing the end of his sentence, the convicted Wall Street wizard, feeling both oddly safe in his spartan confinement but not quite penitent for his overzealous trading misdeeds, feared and anticipated his release, nightly dreaming of his long cherished hard sell.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1098",
+    "text": "A logger went to his doctor because of a problem with the lumbar.",
+    "output": true,
+    "ambiguity": "The pun word 'lumbar' supports two plausible interpretations of 'lumber' meaning wood and 'lumbar' meaning lower back.",
+    "distinctiveness": "In the given sentence, the words 'logger' relates to 'lumber' while 'doctor' refers to the second interpretation of 'lumbar' meaning lower back. Both of these are distinct where one refers to a profession that works with wood and the other refers to a medical professional who deals with the lower back."
+  },
+  {
+    "id": "het_1634",
+    "text": "In ancient times, seagoing vessels were much more fuel efficient. They got thousands of miles to the galleon.",
+    "output": true,
+    "ambiguity": "The pun word 'galleon' supports two plausible interpretations of 'galleon' as a type of ship and 'gallon' as a unit of measurement.",
+    "distinctiveness": "In the given sentence, the words 'ancient times', 'seagoing vessels' and 'thousands of miles' relate to the first interpretation of 'galleon' as a type of ship. The word 'miles' relates to the second interpretation of 'gallon' as a unit of measurement."
+  },
+  {
+    "id": "het_1190",
+    "text": "Do you play the guitar?, Tom asked callously.",
+    "output": true,
+    "ambiguity": "The pun word 'guitar' supports two plausible interpretations of 'guitar' as a musical instrument and 'guitar' as a type of fish.",
+    "distinctiveness": "In the given sentence, the words 'Do you play' relates to the first interpretation of 'guitar' being a musical instrument while 'Tom asked callously' refers to the second interpretation of 'guitar' as a type of fish. Both of these are distinct where one refers to a question about playing an instrument and the other refers to a person asking insensitively."
+  },
+  {
+    "id": "het_1442",
+    "text": "When it comes to drinks, citrus fruit juices are always in the limelight.",
+    "output": false,
+    "ambiguity": "The word 'limelight' does not have any ambiguity as it only supports one interpretation.",
+    "distinctiveness": "There is no other word in the sentence that provides distinctiveness to the single interpretation of 'limelight'."
+  },
+  {
+    "id": "het_895",
+    "text": "You should massage a cow's back before putting it out to posture.",
+    "output": false,
+    "ambiguity": "There is no word in the sentence that has two similarly likely interpretations.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_155",
+    "text": "If screwups were dollars, I'd be a millionaire!!",
+    "output": true,
+    "ambiguity": "The pun word 'screwups' supports two plausible interpretations of 'screwups' meaning mistakes and 'screw ups' referring to the act of fastening screws.",
+    "distinctiveness": "In the given sentence, the words 'dollars', 'millionaire' relates to the first interpretation of 'screwups' as mistakes while 'If' refers to the second interpretation of 'screw ups' as the act of fastening screws. Both of these are distinct where one is about financial gain due to mistakes and the other is about a physical action."
+  },
+  {
+    "id": "het_873",
+    "text": "If you buy quality, you only cry once.",
+    "output": true,
+    "ambiguity": "The pun word 'cry' supports two plausible interpretations of 'cry' meaning to shed tears and 'buy' meaning to obtain goods.",
+    "distinctiveness": "In the given sentence, the words 'quality' relates to 'cry' while 'only' refers to the second interpretation of 'buy'. Both of these are distinct where one refers to an emotional response while the other refers to a purchasing decision."
+  },
+  {
+    "id": "het_774",
+    "text": "Good riding at two anchors, men have told, for if the one fails, the other may hold.",
+    "output": true,
+    "ambiguity": "The pun word 'anchors' supports two plausible interpretations of 'anchors' meaning a device used to moor ships and 'anchors' as in male genitalia.",
+    "distinctiveness": "In the given sentence, the words 'riding', 'good', 'told', 'fails', 'may', 'hold' are distinct from each other and support the two different interpretations of 'anchors'."
+  },
+  {
+    "id": "het_1638",
+    "text": "Mothers everywhere want their children to give peas a chance.",
+    "output": true,
+    "ambiguity": "The pun word 'peas' supports two plausible interpretations of 'peas' meaning green legumes and 'peace' meaning harmony or lack of conflict.",
+    "distinctiveness": "In the given sentence, the words 'Mothers everywhere' relates to 'peas' as in a type of food while 'give' refers to the second interpretation of 'peace'. Both of these are distinct where one is about mothers wanting their children to try a certain type of food and the other is about mothers wanting their children to promote harmony."
+  },
+  {
+    "id": "het_821",
+    "text": "The dentist decided he was going to try a new path to fame and fortune, and this time he would choose a different root.",
+    "output": true,
+    "ambiguity": "In the sentence, the word 'root' supports two plausible interpretations of 'root' meaning the base or foundation of something and 'root' as in the part of a plant that grows into the ground.",
+    "distinctiveness": "The words 'dentist', 'path', 'fame', 'fortune', 'choose' and 'different' provide distinctiveness to the two interpretations. The first interpretation relates to the dentist's profession while the second interpretation refers to a plant."
+  },
+  {
+    "id": "het_17",
+    "text": "I deny everything, said Tom knowingly.",
+    "output": false,
+    "ambiguity": "There is no word in the sentence that has two similarly likely interpretations.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_584",
+    "text": "''I haven't had my photographs developed yet ,'' said Tom negatively.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1569",
+    "text": "A cloth maker's daughter told him she was too young to dye.",
+    "output": true,
+    "ambiguity": "The pun word 'dye' supports two plausible interpretations of 'dye' meaning a process of coloring and 'die' meaning to pass away.",
+    "distinctiveness": "In the given sentence, the words 'cloth maker' relates to 'dye' while 'told him she was too young' refers to the second interpretation of 'die'. Both of these are distinct where one is about a profession and the other is about the end of life."
+  },
+  {
+    "id": "het_1212",
+    "text": "' Volts'- the dance you perform after an electric shock.",
+    "output": true,
+    "ambiguity": "The pun word 'Volts' supports two plausible interpretations of 'Volts' as a unit of electrical potential and 'volts' as in the plural form of 'volt' which is a type of dance move.",
+    "distinctiveness": "In the given sentence, the words 'dance' relates to 'volt' (the dance move) while 'perform' refers to the first interpretation of 'Volts' (unit of electrical potential). Both of these are distinct where one refers to a type of dance and the other refers to a measurement of energy."
+  },
+  {
+    "id": "het_1687",
+    "text": "A pickle maker fell into one of the vats at work. At hospital it was determined he had a brine injury.",
+    "output": true,
+    "ambiguity": "The pun word 'brine' supports two plausible interpretations of 'brine' meaning a salty liquid used for preserving food and 'brain' meaning the organ that controls our thoughts.",
+    "distinctiveness": "In the given sentence, the words 'pickle maker' relates to 'brine' while 'hospital' refers to the second interpretation of 'brain'. Both of these are distinct where one refers to a person who makes pickles and the other refers to an organ that is injured in an accident."
+  },
+  {
+    "id": "het_937",
+    "text": "He who makes false teeth is an indentured labourer.",
+    "output": true,
+    "ambiguity": "The pun word 'false' supports two plausible interpretations of 'false' meaning not genuine and 'false' as in making a copy or imitation.",
+    "distinctiveness": "In the given sentence, the words 'labourer' relates to the second interpretation of 'false' as in making a copy or imitation. Both of these are distinct where one refers to a person who is not genuine while the other refers to an action done by someone who makes false teeth."
+  },
+  {
+    "id": "het_402",
+    "text": "Blessed are the meek, for they make great scapegoats.",
+    "output": true,
+    "ambiguity": "The pun word 'meek' supports two plausible interpretations of 'meek' meaning gentle and 'meek' meaning weak.",
+    "distinctiveness": "In the given sentence, the words 'blessed', 'are', 'the', 'for', 'they', 'make' relate to the interpretation of 'meek' as gentle while 'great scapegoats' relates to the second interpretation of 'meek' as weak."
+  },
+  {
+    "id": "het_315",
+    "text": "Some people who cut hair can be quite barbarous.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_583",
+    "text": "Someone led me to believe that graphite was discovered in Pennsylvania.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_57",
+    "text": "Better an egg today than a hen tomorrow.",
+    "output": false,
+    "ambiguity": "The word 'egg' does not have any ambiguous interpretations.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1473",
+    "text": "Looting a drugstore is called Pillaging.",
+    "output": true,
+    "ambiguity": "The pun word 'pillaging' supports two plausible interpretations of 'pillaging' meaning stealing items and 'pilling' meaning small balls of fluff that form on fabric.",
+    "distinctiveness": "In the given sentence, the words 'looting a drugstore' relates to 'pillaging' while 'is called' refers to the second interpretation of 'pilling'. Both of these are distinct where one refers to an action of stealing items and the other refers to a process that occurs on fabric."
+  },
+  {
+    "id": "het_1104",
+    "text": "I keep reading'The Lord of the Rings'over and over. I guess it's just force of hobbit.",
+    "output": true,
+    "ambiguity": "The pun word 'hobbit' supports two plausible interpretations of 'hobbit' meaning a character from the book and 'habit' meaning something that is regularly repeated.",
+    "distinctiveness": "In the given sentence, the words 'force' relates to the second interpretation of 'habit' while 'of' refers to the first interpretation of 'hobbit'. Both of these are distinct where one refers to a character from the book and the other refers to something that is regularly repeated."
+  },
+  {
+    "id": "het_392",
+    "text": "Who digs a trap for others ends up in it himself.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1243",
+    "text": "Bees make money by celling their honey.",
+    "output": false,
+    "ambiguity": "The word 'celling' does not have any ambiguity in the sentence.",
+    "distinctiveness": "There are no other words in the sentence that provide distinctiveness to the interpretation of 'celling' as a verb meaning to put a ceiling on something."
+  },
+  {
+    "id": "het_1598",
+    "text": "Vampires are always looking for their necks victim.",
+    "output": true,
+    "ambiguity": "The pun word 'necks' supports two plausible interpretations of 'necks' meaning a part of the body and 'victim' meaning someone who is hurt or killed.",
+    "distinctiveness": "In the given sentence, the words 'Vampires' relates to 'necks' while 'looking for their' refers to the second interpretation of 'victim' which is a person being hunted or harmed."
+  },
+  {
+    "id": "het_126",
+    "text": "When gossip finally led to the landlady's arrest for murdering her tenants and scattering parts of their bodies around town, her only comment was ,'' Well, that's what comes of spreading roomers.''",
+    "output": true,
+    "ambiguity": "The pun word 'roomers' supports two plausible interpretations of 'roomers' meaning gossip and 'roomers' meaning tenants who rent rooms.",
+    "distinctiveness": "In the given sentence, the words 'landlady', 'arrest', 'murdering' relate to the first interpretation of 'gossip' while 'parts of their bodies' and 'scattering' refer to the second interpretation of 'tenants who rent rooms'. Both of these are distinct where one refers to a landlady dealing with gossip while the other refers to a landlady dealing with tenants."
+  },
+  {
+    "id": "het_1335",
+    "text": "A pun is its own reword.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1155",
+    "text": "He drove his car until the day of wreckoning.",
+    "output": true,
+    "ambiguity": "The pun word 'wreckoning' supports two plausible interpretations of 'wreckoning' meaning a day of judgment and 'wrecking' meaning damaging something.",
+    "distinctiveness": "In the given sentence, the words 'drove' relates to the first interpretation of 'wreckoning' while 'car' refers to the second interpretation of 'wrecking'. Both of these are distinct where one refers to a day of judgment and the other refers to damaging a vehicle."
+  },
+  {
+    "id": "het_248",
+    "text": "''3. 14159265 ,'' Tom said piously.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_267",
+    "text": "I haven't developed my photographs yet, said Tom negatively.",
+    "output": true,
+    "ambiguity": "The pun word 'developed' supports two plausible interpretations of 'developed' meaning to grow or advance and 'developed' as in having fully processed photographs.",
+    "distinctiveness": "In the given sentence, the words 'haven't', 'photographs', and 'yet' relate to the first interpretation while 'Tom negatively' refers to the second interpretation of 'developed'."
+  },
+  {
+    "id": "het_1377",
+    "text": "No man is an island.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_239",
+    "text": "A perfectly spherical pumpkin makes good pi.",
+    "output": true,
+    "ambiguity": "The pun word 'pi' supports two plausible interpretations of 'pi' as in the mathematical constant and 'pie' as a dessert.",
+    "distinctiveness": "In the given sentence, the words 'perfectly spherical pumpkin' relates to 'pi' as a mathematical constant while 'makes good' refers to the second interpretation of 'pie' as a dessert. Both of these are distinct where one refers to a mathematical concept and the other refers to a type of food."
+  },
+  {
+    "id": "het_788",
+    "text": "The big new clock at city hall was the tock of the town.",
+    "output": true,
+    "ambiguity": "The pun word 'tock' supports two plausible interpretations of 'tock' meaning a sound made by a clock and 'talk' meaning conversation.",
+    "distinctiveness": "In the given sentence, the words 'big', 'new', 'clock', 'city hall' relate to the first interpretation of 'tock' as a sound made by a clock. The word 'town' relates to the second interpretation of 'talk' meaning conversation."
+  },
+  {
+    "id": "het_839",
+    "text": "One might as well be hanged for a sheep as a lamb.",
+    "output": true,
+    "ambiguity": "The pun word 'sheep' supports two plausible interpretations of 'sheep' meaning a type of animal and 'ship' meaning a watercraft.",
+    "distinctiveness": "In the given sentence, the words 'might as well be hanged for' relates to the first interpretation of 'sheep' while 'a lamb' refers to the second interpretation of 'lamb'. Both of these are distinct where one refers to a type of animal and the other refers to a young one."
+  },
+  {
+    "id": "het_1244",
+    "text": "A bunch of robins followed the priest wherever he went. Birds of a father flock together.",
+    "output": true,
+    "ambiguity": "The pun word 'robins' supports two plausible interpretations of 'robins' meaning birds and 'robins' meaning followers of the priest.",
+    "distinctiveness": "In the given sentence, the words 'priest' relates to 'followed' while 'birds' refers to the second interpretation of 'robins' as a group of people. Both of these are distinct where one refers to a type of bird and the other refers to a group of followers."
+  },
+  {
+    "id": "het_1329",
+    "text": "An argument over puppy selection is a pique of the litter.",
+    "output": true,
+    "ambiguity": "The pun word 'pique' supports two plausible interpretations of 'pique' meaning a sudden strong feeling of annoyance or displeasure and 'pique' as in a sharp pointed end.",
+    "distinctiveness": "In the given sentence, the words 'argument' relates to 'a sudden strong feeling of annoyance or displeasure' while 'selection' refers to the second interpretation of 'a sharp pointed end'. Both of these are distinct where one refers to an argument over a selection process and the other refers to the sharp points on a puppy."
+  },
+  {
+    "id": "het_28",
+    "text": "The cobbler was asked how many shoes he had soled by a well",
+    "output": false,
+    "ambiguity": "There is no word in the sentence that supports two plausible interpretations.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1339",
+    "text": "Time flies when you \u2019 re following the son",
+    "output": true,
+    "ambiguity": "The pun word 'time' supports two plausible interpretations of 'time' meaning a period and 'time' as in following someone.",
+    "distinctiveness": "In the given sentence, the words 'flies' relates to the first interpretation of 'time' meaning a period while 'following' refers to the second interpretation of 'time' as in following someone. Both of these are distinct where one refers to the passage of time and the other refers to the action of following."
+  },
+  {
+    "id": "het_260",
+    "text": "Some horses cause their owners a lot of woe.",
+    "output": true,
+    "ambiguity": "The pun word 'horses' supports two plausible interpretations of 'horses' and 'hoarse' which are homonyms.",
+    "distinctiveness": "In the given sentence, the words 'cause' relates to 'horses' while 'owners' refers to the second interpretation of 'hoarse' meaning a person who has lost their voice. Both of these are distinct where one refers to horses causing problems and the other refers to people who have lost their voice."
+  },
+  {
+    "id": "het_731",
+    "text": "When a problem or dilemma arises :'' As plumbers say, it's not drain surgery.''",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1050",
+    "text": "A cat that swallowed a ball of wool had mittens.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1216",
+    "text": "Modern fashion designs are often presented with tongue in chic.",
+    "output": false,
+    "ambiguity": "The word 'tongue' does not have any ambiguity here.",
+    "distinctiveness": "There is no other word in the sentence that provides distinctiveness to the interpretation of 'tongue'."
+  },
+  {
+    "id": "het_406",
+    "text": "''I wish I could remember the name of that card game ,'' said Tom wistfully.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_258",
+    "text": "OLD GOSSIPS never die they just lose their confidants",
+    "output": true,
+    "ambiguity": "The pun word 'confidants' supports two plausible interpretations of 'confidants' meaning trusted friends and 'confidential' meaning secret.",
+    "distinctiveness": "In the given sentence, the words 'OLD GOSSIPS' relates to 'confidants' while 'never die' refers to the second interpretation of 'confidential'. Both of these are distinct where one refers to a group of people sharing secrets and the other refers to the nature of information."
+  },
+  {
+    "id": "het_1545",
+    "text": "A church fair is a bazaar experience.",
+    "output": false,
+    "ambiguity": "The word 'bazaar' does not have any ambiguity in the sentence.",
+    "distinctiveness": "There are no other words in the sentence that provide distinctiveness to the interpretation of 'bazaar'."
+  },
+  {
+    "id": "het_1102",
+    "text": "A good surgeon has an eagle's eye, a lion's heart, and a lady's hand.",
+    "output": true,
+    "ambiguity": "The pun word 'lady' supports two plausible interpretations of 'lady' meaning a woman and 'lady' as in a female deer.",
+    "distinctiveness": "In the given sentence, the words 'surgeon', 'eagle's eye', 'lion's heart' relate to the first interpretation while 'lady's hand' relates to the second interpretation. These are distinct where one refers to a surgeon's skill and the other refers to an animal."
+  },
+  {
+    "id": "het_1475",
+    "text": "When Caesar entered the Senate all hail broke loose.",
+    "output": true,
+    "ambiguity": "The pun word 'hail' supports two plausible interpretations of 'hail' meaning a form of precipitation and 'hail' as a greeting.",
+    "distinctiveness": "In the given sentence, the words 'Caesar', 'entered', 'Senate' relate to the first interpretation of 'hail' as a form of precipitation. The word 'all' supports the second interpretation of 'hail' as a greeting."
+  },
+  {
+    "id": "het_1506",
+    "text": "OLD BATHING BEAUTIES never die, they just wade away.",
+    "output": true,
+    "ambiguity": "The pun word 'die' supports two plausible interpretations of 'die' meaning to cease living and 'wade' meaning to walk through water.",
+    "distinctiveness": "In the given sentence, the words 'Old Bathing Beauties' relates to 'die' while 'never' refers to the second interpretation of 'wade away'. Both of these are distinct where one refers to the end of life and the other refers to a form of movement in water."
+  },
+  {
+    "id": "het_1387",
+    "text": "You should always use basil the day you buy it-as they say, herb today, gone tomorrow.",
+    "output": false,
+    "ambiguity": "The word 'basil' does not have any ambiguity in this sentence.",
+    "distinctiveness": "There are no other words in the sentence that provide distinctiveness to the interpretation of 'basil' as an herb."
+  },
+  {
+    "id": "het_854",
+    "text": "I thought that the penny I was looking for would have belonged to a man, but I detected the cent of a woman.",
+    "output": true,
+    "ambiguity": "The pun word 'penny' supports two plausible interpretations of 'penny' meaning a small coin and 'penny' as in the female body part.",
+    "distinctiveness": "In the given sentence, the words 'thought', 'looking for', 'belonged to', and 'detected' relate to the first interpretation of 'penny' as a small coin. The word 'cent' relates to the second interpretation of 'penny' as in the female body part."
+  },
+  {
+    "id": "het_68",
+    "text": "Sufficient unto the day is the evil thereof.",
+    "output": false,
+    "ambiguity": "There is no word in the sentence that has two similarly likely interpretations.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1779",
+    "text": "I wonder how much an anagram weighs?",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_705",
+    "text": "My name is Gail. I'm a meteorologist",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_656",
+    "text": "He stared at his belly button so much, he was promoted to navel officer.",
+    "output": true,
+    "ambiguity": "The pun word 'navel' supports two plausible interpretations of 'navel' meaning a naval officer and 'belly button'.",
+    "distinctiveness": "In the given sentence, the words 'stared', 'belly', 'button' and 'promoted' relate to the first interpretation of 'navel' as in belly button while 'officer' relates to the second interpretation of 'navel' as in a naval officer. Both interpretations are distinct where one refers to a body part and the other refers to a profession."
+  },
+  {
+    "id": "het_1726",
+    "text": "The statistician attended the dance stag. He didn't have any data.",
+    "output": true,
+    "ambiguity": "In this sentence, the word 'data' is ambiguous as it can be interpreted in two ways - either as a type of information or as a reference to the person who attends a dance stag.",
+    "distinctiveness": "The words 'statistician' and 'dance stag' provide distinctiveness to the two interpretations. The first interpretation relates to the profession of the statistician while the second interpretation refers to the event he attended."
+  },
+  {
+    "id": "het_864",
+    "text": "''I've mailed the letter ,'' Tom assented.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_977",
+    "text": "When some people open their mouth they put their feat in.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1062",
+    "text": "I get my large circumference from too much pi.",
+    "output": true,
+    "ambiguity": "The pun word 'pi' supports two plausible interpretations of 'pi' as the mathematical constant and 'pie' as a dessert.",
+    "distinctiveness": "In the given sentence, the words 'large circumference' relates to the first interpretation of 'pi' as a mathematical concept while 'too much' refers to the second interpretation of 'pie' as a dessert. Both of these are distinct where one refers to a large circumference related to pi and the other refers to eating too much pie."
+  },
+  {
+    "id": "het_1516",
+    "text": "How do they get the deer to cross at the signs?",
+    "output": false,
+    "ambiguity": "The word 'deer' does not have any ambiguous interpretation in this sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1135",
+    "text": "It's a long lane that has no turning.",
+    "output": false,
+    "ambiguity": "There is no word in the sentence that supports two plausible interpretations.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_32",
+    "text": "\" I drank WHAT?!?!\"- Socrates",
+    "output": false,
+    "ambiguity": "The word 'WHAT' does not have any ambiguous interpretation in this sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1225",
+    "text": "The bullfighter's display of timidity left macho to be desired.",
+    "output": true,
+    "ambiguity": "In the sentence, the word 'desired' supports two plausible interpretations of 'desired' meaning wanted or needed and 'desired' meaning a wish or aspiration.",
+    "distinctiveness": "The words 'bullfighter', 'timidity', 'macho' and 'display' provide distinctiveness to the two interpretations. The first interpretation refers to the bullfighter's lack of bravery, while the second interpretation refers to a wish or aspiration that was left unfulfilled."
+  },
+  {
+    "id": "het_64",
+    "text": "''I've been listening to the Brandenburg Concertos ,'' Tom barked.",
+    "output": true,
+    "ambiguity": "The pun word 'barked' supports two plausible interpretations of 'barked' meaning to speak in a loud voice and 'barked' as the sound made by a dog.",
+    "distinctiveness": "In the given sentence, the words 'Brandenburg Concertos' relates to the first interpretation of 'barked' while 'Tom' refers to the second interpretation of 'barked' which is the sound made by a dog."
+  },
+  {
+    "id": "het_1284",
+    "text": "''A dog bit me ,'' said Tom rabidly.",
+    "output": true,
+    "ambiguity": "The pun word 'rabidly' supports two plausible interpretations of 'rabidly' meaning both 'in a furious or violent manner' and 'having rabies'.",
+    "distinctiveness": "In the given sentence, the words 'dog' relates to 'rabidly' while 'bit me' refers to the second interpretation of 'rabies'. Both of these are distinct where one refers to a furious manner and the other refers to an action done by a dog with rabies."
+  },
+  {
+    "id": "het_1301",
+    "text": "Romance isn't a science-it's a heart.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_858",
+    "text": "When one door closes, another door opens.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_147",
+    "text": "Dentist's famous last words :\"You won't feel a thing... \"",
+    "output": true,
+    "ambiguity": "The pun word 'thing' supports two plausible interpretations of 'thing' meaning an object and 'feeling a thing' which is a phrase used to mean experiencing something.",
+    "distinctiveness": "In the given sentence, the words 'famous last words' relates to the first interpretation of 'thing' as an object while 'You won't feel a thing' refers to the second interpretation of 'feeling a thing' which is a phrase used to mean experiencing something. Both of these are distinct where one refers to an object and the other refers to not experiencing pain during a dental procedure."
+  },
+  {
+    "id": "het_1059",
+    "text": "The best defence is a good offence.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_887",
+    "text": "The cheque is in the post, Tom assented.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1724",
+    "text": "After getting pranked by his friends and getting hit with a basket, Aron knew they had a wickerd sense of humour.",
+    "output": true,
+    "ambiguity": "The pun word 'wickerd' supports two plausible interpretations of 'wickerd' meaning clever or tricky and 'wicker' meaning a material made from interwoven twigs.",
+    "distinctiveness": "In the given sentence, the words 'pranked', 'basket' and 'humour' relate to the first interpretation of 'wickerd' as in clever or tricky, while 'Aron' relates to the second interpretation of 'wicker'."
+  },
+  {
+    "id": "het_103",
+    "text": "You go to heaven... God sneezes... What do you say?",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1291",
+    "text": "The eight chicken farmers jumped in their rowing shell and put their cox up in front.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_550",
+    "text": "When making butter there is little margarine for error.",
+    "output": true,
+    "ambiguity": "The pun word 'margarine' supports two plausible interpretations of 'margarine' meaning a dairy product and 'margin error' which refers to an error in the context of making butter.",
+    "distinctiveness": "In the given sentence, the words 'making', 'butter', and 'error' provide distinctiveness to the two interpretations. The first interpretation relates to the process of making butter while the second one is related to errors that can occur during this process."
+  },
+  {
+    "id": "het_468",
+    "text": "My sofa was repaired, but I was surprised to find an item on the bill for upholstery tacks.",
+    "output": true,
+    "ambiguity": "The pun word 'tacks' supports two plausible interpretations of 'tacks' meaning nails and 'tacks' as in a unit of weight.",
+    "distinctiveness": "In the given sentence, the words 'sofa' relates to 'upholstery tacks' while 'bill' refers to the second interpretation of 'item on the bill'. Both of these are distinct where one refers to an item related to a sofa and the other refers to a financial transaction."
+  },
+  {
+    "id": "het_984",
+    "text": "That gas pump must be sick. It doesn't fill well.",
+    "output": true,
+    "ambiguity": "The pun word 'fill' supports two plausible interpretations of 'fill' meaning to cause something to become full and 'fill' as in the action of filling a car with gas.",
+    "distinctiveness": "In the given sentence, the words 'gas pump' relates to the first interpretation of 'fill' meaning to cause something to become full while 'doesn't fill well' refers to the second interpretation of 'fill' as in the action of filling a car with gas. Both of these are distinct where one is about health and the other is about functionality."
+  },
+  {
+    "id": "het_769",
+    "text": "Traveling on a flying carpet is a rugged experience.",
+    "output": false,
+    "ambiguity": "The word 'carpet' does not have any ambiguity in the sentence.",
+    "distinctiveness": "There are no other words in the sentence that provide distinctiveness to the single interpretation of 'carpet'."
+  },
+  {
+    "id": "het_123",
+    "text": "I used to do rock climbing as a youth, but I was much boulder back then.",
+    "output": true,
+    "ambiguity": "The pun word 'boulder' supports two plausible interpretations of 'boulder' meaning a large stone and 'bolder' meaning more courageous or confident.",
+    "distinctiveness": "In the given sentence, the words 'rock climbing' relates to 'boulder' while 'youth' refers to the second interpretation of 'bolder'. Both of these are distinct where one refers to a type of activity and the other refers to a characteristic."
+  },
+  {
+    "id": "het_629",
+    "text": "Two mining companies merged and became alloys.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_393",
+    "text": "For meat some people eat lamb and mutton else.",
+    "output": false,
+    "ambiguity": "The word 'meat' does not have any ambiguity in this sentence.",
+    "distinctiveness": "There are no other words in the sentence that provide distinctiveness to the two interpretations, the sentence is not a pun."
+  },
+  {
+    "id": "het_827",
+    "text": "When the cattlemen's association sponsored a track and field competition, followed by a barbecue, the commemorative T-shirt read ,'' We loved the meet.''",
+    "output": true,
+    "ambiguity": "The pun word 'meet' supports two plausible interpretations of 'meet' meaning a gathering or event and 'meat' referring to food.",
+    "distinctiveness": "In the given sentence, the words 'cattlemen's association' relates to 'meet' as an event while 'barbecue' refers to the second interpretation of 'meat'. Both of these are distinct where one refers to a gathering or event and the other refers to food."
+  },
+  {
+    "id": "het_1585",
+    "text": "Junk-stuff we throw away. Stuff-junk we keep.",
+    "output": false,
+    "ambiguity": "The sentence does not have any word that supports two plausible interpretations.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_480",
+    "text": "A crow in a telephone booth had no money so he had to make a collect caw.",
+    "output": true,
+    "ambiguity": "The pun word 'caw' supports two plausible interpretations of 'caw' meaning the sound made by a crow and 'cow' meaning an animal.",
+    "distinctiveness": "In the given sentence, the words 'telephone booth' relates to 'caw' while 'collect' refers to the second interpretation of 'cow'. Both of these are distinct where one is related to the sound a crow makes and the other is related to an animal."
+  },
+  {
+    "id": "het_365",
+    "text": "I was going to study the work of Sigmund Freud, but I was too Jung to understand it.",
+    "output": true,
+    "ambiguity": "The pun word 'Jung' supports two plausible interpretations of 'Jung' as a surname and 'young' meaning not fully developed or inexperienced.",
+    "distinctiveness": "In the given sentence, the words 'too' relates to the second interpretation of 'young' while 'understand it' refers to the first interpretation of 'Jung' as a surname. Both of these are distinct where one refers to being too young or inexperienced to understand and the other refers to understanding someone with the surname Jung."
+  },
+  {
+    "id": "het_207",
+    "text": "Politeness costs nothing and gains everything.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_973",
+    "text": "He doesn't talk much does he?He's just a little horse.",
+    "output": true,
+    "ambiguity": "The pun word 'horse' supports two plausible interpretations of 'horse' meaning a large four-legged mammal and 'hoarse' meaning having a harsh or rough voice.",
+    "distinctiveness": "In the given sentence, the words 'doesn't talk much' relates to 'hoarse' while 'little' refers to the second interpretation of 'horse'. Both of these are distinct where one refers to a horse that doesn't speak much and the other refers to a small horse."
+  },
+  {
+    "id": "het_206",
+    "text": "A paramedic got a new job as a chauffeur : an ambiance driver.",
+    "output": true,
+    "ambiguity": "The pun word 'ambiance' supports two plausible interpretations of 'ambiance' meaning atmosphere and 'ambiance' meaning a person who drives.",
+    "distinctiveness": "In the given sentence, the words 'paramedic' relates to 'ambiance' as a person while 'chauffeur' refers to the second interpretation of 'driver'. Both of these are distinct where one refers to a medical professional and the other refers to a job role."
+  },
+  {
+    "id": "het_1022",
+    "text": "Noah wasn't the first off the ark. He came forth.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1038",
+    "text": "Most samurai refused to shave. They were bushi.",
+    "output": true,
+    "ambiguity": "The pun word 'bushi' supports two plausible interpretations of 'bushi' meaning a warrior and 'busy' meaning occupied or engaged in activity.",
+    "distinctiveness": "In the given sentence, the words 'samurai' relates to 'bushi' while 'refused' refers to the second interpretation of 'busy'. Both of these are distinct where one refers to a warrior and the other refers to an action done due to being occupied."
+  },
+  {
+    "id": "het_881",
+    "text": "An hourglass is a waist of time.",
+    "output": true,
+    "ambiguity": "The pun word 'waist' supports two plausible interpretations of 'waist' meaning a narrow part of the body and 'waist' spelled as 'waist' meaning a waist of time.",
+    "distinctiveness": "In the given sentence, the words 'hourglass' relates to 'waist' while 'time' refers to the second interpretation of 'waist' spelled as 'waist'. Both of these are distinct where one refers to an object used for measuring time and the other refers to a unit of time."
+  },
+  {
+    "id": "het_55",
+    "text": "After burning a batch of cookies a baker felt very crummy.",
+    "output": true,
+    "ambiguity": "The pun word 'crummy' supports two plausible interpretations of 'crummy' meaning in poor condition and 'crummy' as a slang term for cookies.",
+    "distinctiveness": "In the given sentence, the words 'baker' relates to 'cookies' while 'felt' refers to the second interpretation of 'crummy' being a slang term for cookies. Both of these are distinct where one refers to a baker's profession and the other refers to an emotional state after burning cookies."
+  },
+  {
+    "id": "het_1070",
+    "text": "''I won't finish in fifth place ,'' Tom held forth.",
+    "output": false,
+    "ambiguity": "There is no word in the sentence that has two similarly likely interpretations.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1534",
+    "text": "But honey, I wouldn't be up so late on a faster machine!",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1186",
+    "text": "''Stop, horse!Stop!'' cried Tom woefully.",
+    "output": true,
+    "ambiguity": "The pun word 'horse' supports two plausible interpretations of 'horse' as an animal and 'hoarse' as a voice quality.",
+    "distinctiveness": "In the given sentence, the words 'Stop' relates to the first interpretation of 'horse' while 'Tom' refers to the second interpretation of 'hoarse'. Both of these are distinct where one is a command to an animal and the other is a description of Tom's voice."
+  },
+  {
+    "id": "het_203",
+    "text": "Those who have icicles keep a stiff upper drip.",
+    "output": true,
+    "ambiguity": "The pun word 'drip' supports two plausible interpretations of 'drip' meaning water droplets and 'drip' as in someone who is not very cheerful or positive.",
+    "distinctiveness": "In the given sentence, the words 'icicles' relates to 'drip' while 'stiff upper' refers to the second interpretation of 'upper drip'. Both of these are distinct where one refers to a physical object and the other refers to an expression or attitude."
+  },
+  {
+    "id": "het_1325",
+    "text": "A good name is the best of all treasures.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1512",
+    "text": "They were married by candle-light, but the marriage lasted only a wick.",
+    "output": true,
+    "ambiguity": "The pun word 'wick' supports two plausible interpretations of 'wick' meaning a thin strip used in candles and 'week' meaning a period of seven days.",
+    "distinctiveness": "In the given sentence, the words 'married' relates to 'wick' while 'lasted only a' refers to the second interpretation of 'week'. Both of these are distinct where one refers to a thin strip used in candles while the other refers to a period of seven days."
+  },
+  {
+    "id": "het_1430",
+    "text": "Without temptation there is no victory.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1765",
+    "text": "Hospitals that buy in bulk get a valium discount.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_933",
+    "text": "Some moss took a lichen to a tree.",
+    "output": true,
+    "ambiguity": "The pun word 'lichen' supports two plausible interpretations of 'lichen' meaning a type of fungus and 'like in' meaning having an affection or liking for.",
+    "distinctiveness": "In the given sentence, the words 'moss' relates to 'lichen' while 'took a' refers to the second interpretation of 'like in'. Both of these are distinct where one refers to a moss growing on a lichen while the other refers to an action done with affection which is taking a liking to."
+  },
+  {
+    "id": "het_1292",
+    "text": "The sun was bright on a dry, cloudless morning, but later it waned.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_651",
+    "text": "''Let's take a vacation in the south of France ,'' said Tom nicely.",
+    "output": false,
+    "ambiguity": "There is no word in the sentence that has two similarly likely interpretations.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1777",
+    "text": "' Come see my fishpond', she said coyly.",
+    "output": true,
+    "ambiguity": "The pun word 'fishpond' supports two plausible interpretations of 'fishpond' meaning a pond with fish and 'fishtpond' meaning a pond for fishing.",
+    "distinctiveness": "In the given sentence, the words 'Come see my' relates to the first interpretation of 'fishpond' while 'she said coyly' refers to the second interpretation of 'fishtpond'."
+  },
+  {
+    "id": "het_1336",
+    "text": "The nuclear physicist took a vacation for a fission trip.",
+    "output": true,
+    "ambiguity": "In the given sentence, the word 'fission' supports two plausible interpretations of 'fission' meaning a process in nuclear physics and 'fission' as a trip.",
+    "distinctiveness": "The words 'nuclear physicist' relates to the first interpretation of 'fission' being a process in nuclear physics while 'trip' refers to the second interpretation of 'fission' as a journey. Both these interpretations are distinct from each other."
+  },
+  {
+    "id": "het_1546",
+    "text": "The tired playgoers decided to bypass the new production of'' Othello'' despite the good reviews ; having just returned from a long trip, they didn't feel like seeing any moor of Venice.",
+    "output": true,
+    "ambiguity": "The pun word 'moor' supports two plausible interpretations of 'moor' meaning a type of land and 'more' as in additional.",
+    "distinctiveness": "In the given sentence, the words 'tired playgoers', 'new production', 'Othello', 'good reviews', 'long trip', and 'Venice' provide distinctiveness to the two interpretations. The first interpretation refers to a type of land in Venice while the second interpretation refers to an additional thing they didn't feel like seeing."
+  },
+  {
+    "id": "het_928",
+    "text": "The electricity was off and they couldn't found out watt was the problem.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_631",
+    "text": "''Has my magazine arrived?'' Tom asked periodically.",
+    "output": false,
+    "ambiguity": "The word 'magazine' does not have any ambiguity in this sentence.",
+    "distinctiveness": "There are no other words in the sentence that provide distinctiveness to the interpretation of 'magazine' as a publication."
+  },
+  {
+    "id": "het_922",
+    "text": "3. 142 Tom enumerated piously.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1033",
+    "text": "It was such a big piece of gold, he didn't know what to assay.",
+    "output": true,
+    "ambiguity": "The pun word 'assay' supports two plausible interpretations of 'assay' meaning an analysis or test and 'assay' as a noun referring to a gold miner.",
+    "distinctiveness": "In the given sentence, the words 'big piece of gold' relates to the first interpretation of 'assay' as an analysis or test while 'didn't know what to' refers to the second interpretation of 'assay' as a noun referring to a gold miner. Both of these are distinct where one is about testing something and the other is about a profession related to mining."
+  },
+  {
+    "id": "het_1632",
+    "text": "Praise the day at sunset.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_620",
+    "text": "No viruses detected. Must be a pair of Nanites.",
+    "output": false,
+    "ambiguity": "The word 'Nanites' does not have any ambiguous interpretations.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1086",
+    "text": "She said she wasn't pregnant but contractions speak louder then words.",
+    "output": true,
+    "ambiguity": "The pun word 'contractions' supports two plausible interpretations of 'contractions' meaning both the process of giving birth and the act of going against something.",
+    "distinctiveness": "In the given sentence, the words 'said she wasn't pregnant' relates to one interpretation while 'but contractions speak louder than words' refers to the second interpretation. Both of these are distinct where one is about denying pregnancy and the other is about the loudness of contractions in comparison to spoken words."
+  },
+  {
+    "id": "het_355",
+    "text": "Burn not your house to rid it of the mouse.",
+    "output": true,
+    "ambiguity": "The pun word 'mouse' supports two plausible interpretations of 'mouse' meaning a small rodent and 'louse' meaning a parasitic insect.",
+    "distinctiveness": "In the given sentence, the words 'house' relates to 'mouse' while 'burn not' refers to the second interpretation of 'louse'. Both of these are distinct where one is about protecting your home from rodents and the other is about getting rid of parasites."
+  },
+  {
+    "id": "het_1494",
+    "text": "Have a ride in my new ambulance, said Tom hospitably.",
+    "output": true,
+    "ambiguity": "The pun word 'ambulance' supports two plausible interpretations of 'ambulance' meaning an emergency vehicle and 'ambulance' meaning a ride in a vehicle.",
+    "distinctiveness": "In the given sentence, the words 'ride' relates to the second interpretation of 'ambulance' as a ride in a vehicle while 'new' refers to the first interpretation of 'ambulance' being an emergency vehicle. Both of these are distinct where one refers to a ride in a specific type of vehicle and the other refers to a vehicle used for emergencies."
+  },
+  {
+    "id": "het_1110",
+    "text": "She was only a Coal dealer's daughter, but, oh, where she had bin.",
+    "output": true,
+    "ambiguity": "The pun word 'bin' supports two plausible interpretations of 'bin' as in a container and 'bin' as in the past tense of 'be'.",
+    "distinctiveness": "In the given sentence, the words 'Coal dealer's daughter' relates to the first interpretation of 'bin' as a container while 'where she had bin' refers to the second interpretation of 'bin' as the past tense of 'be'. Both of these are distinct where one is about her profession and the other is about her past experiences."
+  },
+  {
+    "id": "het_274",
+    "text": "Some days you get the bear, other days the bear gets you.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1143",
+    "text": "At a pet store :'buy one dog, get one flea'.",
+    "output": true,
+    "ambiguity": "The pun word 'flea' supports two plausible interpretations of 'flea' meaning a small insect and 'free' meaning not having to pay.",
+    "distinctiveness": "In the given sentence, the words 'buy one dog' relates to 'flea' as an insect while 'get one flea' refers to the second interpretation of 'free'. Both of these are distinct where one is about purchasing a pet and the other is about not having to pay."
+  },
+  {
+    "id": "het_572",
+    "text": "Bought friends are not friends indeed.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_983",
+    "text": "Faith doesn \u2019 t fall apart at the seems",
+    "output": false,
+    "ambiguity": "The word 'seems' does not have any ambiguity in this sentence.",
+    "distinctiveness": "There are no other words in the sentence that provide distinctiveness to the interpretation of 'seams'."
+  },
+  {
+    "id": "het_733",
+    "text": "Patience is a virtue heavy in wait",
+    "output": false,
+    "ambiguity": "The word 'heavy' does not have any ambiguity in this sentence.",
+    "distinctiveness": "There are no other words in the sentence that provide distinctiveness to the interpretation of 'heavy'."
+  },
+  {
+    "id": "het_1684",
+    "text": "Every little helps.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1646",
+    "text": "80 percent of life is showing up.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1200",
+    "text": "The candle-making machine broke down when someone threw a spanner in the wax.",
+    "output": true,
+    "ambiguity": "The pun word 'spanner' supports two plausible interpretations of 'spanner' meaning a wrench and 'spanner' as an unexpected event or problem.",
+    "distinctiveness": "In the given sentence, the words 'candle-making machine' relates to 'spanner' as a wrench while 'threw' refers to the second interpretation of 'spanner' as an unexpected event. Both of these are distinct where one refers to a tool used in machinery and the other refers to an action that caused a problem."
+  },
+  {
+    "id": "het_466",
+    "text": "A bird with a headache might just migrane south.",
+    "output": true,
+    "ambiguity": "The pun word 'migrane' supports two plausible interpretations of 'migrane' meaning a type of headache and 'migrane' as a misspelled form of 'migrate'.",
+    "distinctiveness": "In the given sentence, the words 'bird' relates to 'migrane' while 'south' refers to the second interpretation of 'migrate'. Both of these are distinct where one refers to a bird's action and the other refers to a direction."
+  },
+  {
+    "id": "het_409",
+    "text": "Russia was slow to recover after WW2 because it kept Stalin around.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_765",
+    "text": "The cd salesman said ,'' The classical music section is right over there ,'' as he smoothed his pencil-thin mustache and spread another handful of Brylcreem on his hair.",
+    "output": true,
+    "ambiguity": "The pun word 'cd' supports two plausible interpretations of 'cd' meaning a compact disc and 'cd' meaning a central processing unit.",
+    "distinctiveness": "In the given sentence, the words 'salesman', 'classical music section', 'right over there', 'smoothed his pencil-thin mustache', 'spread another handful of Brylcreem on his hair' are all distinct and support the two interpretations."
+  },
+  {
+    "id": "het_98",
+    "text": "All are not thieves that dogs bark at.",
+    "output": true,
+    "ambiguity": "The pun word 'thieves' supports two plausible interpretations of 'thieves' meaning people who steal and 'thieves' meaning dogs.",
+    "distinctiveness": "In the given sentence, the words 'dogs' relates to 'thieves' while 'bark at' refers to the second interpretation of 'thieves' as barking is an action done by dogs."
+  },
+  {
+    "id": "het_960",
+    "text": "I came, I saw, I confused.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_696",
+    "text": "I can keep a secret, it's the people I tell who can't.",
+    "output": true,
+    "ambiguity": "The pun word 'secret' supports two plausible interpretations of 'secret' meaning something hidden and 'secretary' meaning an administrative assistant.",
+    "distinctiveness": "In the given sentence, the words 'I can keep' relates to the first interpretation of 'secret' while 'it's the people I tell who can't' refers to the second interpretation of 'secretary'. Both of these are distinct where one is about keeping a secret and the other is about people who can't keep secrets."
+  },
+  {
+    "id": "het_849",
+    "text": "Britain is a wet place since the queen has had a long reign.",
+    "output": true,
+    "ambiguity": "The pun word 'reign' supports two plausible interpretations of 'reign' meaning a period of time and 'rain' meaning precipitation.",
+    "distinctiveness": "In the given sentence, the words 'Britain', 'queen', and 'long' relate to the first interpretation of 'reign' while 'wet place' relates to the second interpretation of 'rain'. Both of these are distinct where one refers to a country ruled by a queen and the other refers to a wet condition due to rain."
+  },
+  {
+    "id": "het_451",
+    "text": "The race horse went lame early. It was the first out of its gait.",
+    "output": true,
+    "ambiguity": "The pun word 'gait' supports two plausible interpretations of 'gait' meaning a way of walking or running and 'gate' meaning an entrance or exit.",
+    "distinctiveness": "In the given sentence, the words 'race horse' relates to 'gait' while 'early' refers to the second interpretation of 'gate'. Both of these are distinct where one refers to a horse's way of moving and the other refers to an entrance or exit."
+  },
+  {
+    "id": "het_1774",
+    "text": "In a billiard hall life can be pretty rough at the wrong end of the queue.",
+    "output": true,
+    "ambiguity": "The pun word 'queue' supports two plausible interpretations of 'queue' meaning a line of people waiting and 'cue' as in a stick used to direct the path of a ball in billiards.",
+    "distinctiveness": "In the given sentence, the words 'billiard hall' relates to 'cue' while 'life can be pretty rough at the wrong end' refers to the second interpretation of 'queue' as in a line of people waiting. Both of these are distinct where one is related to the game and the other is related to the situation."
+  },
+  {
+    "id": "het_472",
+    "text": "My name is Russell, I'm a cattle thief",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_722",
+    "text": "The son can warm you forever",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_182",
+    "text": "He that stays in the valley will not get over the hill.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_137",
+    "text": "When I phoned my friend yesterday we mainly talked about the weather and our upcomimg exams, and we both agreed that the poring was sickening.",
+    "output": true,
+    "ambiguity": "The pun word 'poring' supports two plausible interpretations of 'poring' meaning 'pouring' and 'boring'.",
+    "distinctiveness": "In the given sentence, the words 'weather' relates to 'pouring' while 'upcoming exams' refers to the second interpretation of 'boring'."
+  },
+  {
+    "id": "het_240",
+    "text": "The invisible cows were herd but not seen.",
+    "output": true,
+    "ambiguity": "In this sentence, 'herd' is an ambiguous word that can be interpreted as a group of animals or to hear something.",
+    "distinctiveness": "The words 'invisible cows' and 'heard' provide distinctiveness to the two interpretations. The first interpretation refers to invisible cows being heard while the second one refers to hearing about unseen cows."
+  },
+  {
+    "id": "het_734",
+    "text": "No man can serve two masters.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_52",
+    "text": "Guns don't kill people. Bullets kill people.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1460",
+    "text": "Scaldophobia : Fear the toilet will flush while showering.",
+    "output": true,
+    "ambiguity": "The pun word 'scaldophobia' supports two plausible interpretations of 'scaldophobia' meaning a fear of hot water and 'scalophobia' meaning a fear of scales.",
+    "distinctiveness": "In the given sentence, the words 'fear', 'toilet', 'flush' and 'showering' are distinctly related to the two interpretations. The first interpretation is about a fear related to hot water in showering while the second one is about a fear of scales in the toilet."
+  },
+  {
+    "id": "het_1327",
+    "text": "''Do you buy and sell stolen goods?'' asked Tom offensively.",
+    "output": false,
+    "ambiguity": "There is no word in the sentence that supports two plausible interpretations.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_871",
+    "text": "Lions don't have to worry about every little detail in life... just the mane thing.",
+    "output": true,
+    "ambiguity": "The pun word 'main' supports two plausible interpretations of 'mane' meaning a lion's mane and 'main' meaning important or central.",
+    "distinctiveness": "In the given sentence, the words 'lions' relates to 'mane' while 'worry' refers to the second interpretation of 'main'. Both of these are distinct where one refers to a lion's physical feature while the other refers to an action done in concern which is worrying."
+  },
+  {
+    "id": "het_215",
+    "text": "My name is Manuel, I write instruction books.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1481",
+    "text": "''You resemble a goat ,'' said Tom satirically.",
+    "output": false,
+    "ambiguity": "There is no word in the sentence that has two similarly likely interpretations.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_59",
+    "text": "When it got stuck in the mud my car had to be toad.",
+    "output": true,
+    "ambiguity": "The pun word 'toad' supports two plausible interpretations of 'toad' meaning a type of amphibian and 'towed' meaning being pulled by another vehicle.",
+    "distinctiveness": "In the given sentence, the words 'car' relates to 'toad' while 'got stuck in the mud' refers to the second interpretation of 'towed'. Both of these are distinct where one is an animal and the other is an action done to a car."
+  },
+  {
+    "id": "het_173",
+    "text": "Poets are born, but orators are trained.",
+    "output": false,
+    "ambiguity": "There is no word in the sentence that has two similarly likely interpretations.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_161",
+    "text": "I may have my faults, but being wrong ain't one of them.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_349",
+    "text": "No need of words, trust deeds.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1138",
+    "text": "Insulting an East Indian chef will bring you bad Korma.",
+    "output": true,
+    "ambiguity": "The pun word 'Korma' supports two plausible interpretations of 'Korma' meaning a type of curry dish and 'karmic' meaning related to the principle of cause and effect.",
+    "distinctiveness": "In the given sentence, the words 'insulting' relates to the first interpretation of 'Korma' as a dish while 'bring you bad' refers to the second interpretation of 'karmic' which is related to the principle of cause and effect. Both of these are distinct where one refers to an action done in anger which is insulting someone and the other refers to a consequence or result of an action."
+  },
+  {
+    "id": "het_278",
+    "text": "''Congratulations ; you graduated ,'' said Tom diplomatically.",
+    "output": true,
+    "ambiguity": "The pun word 'diplomatically' supports two plausible interpretations of 'diplomatically' meaning in a manner that is both tactful and skillful and 'diploma-cally' meaning related to diplomas or degrees.",
+    "distinctiveness": "In the given sentence, the words 'Congratulations' relates to 'diploma-cally' while 'graduated' refers to the first interpretation of 'diplomatically'. Both of these are distinct where one is a form of congratulation and the other is an action done in relation to diplomas or degrees."
+  },
+  {
+    "id": "het_1124",
+    "text": "I'd love to, but my favorite commercial is on TV.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_652",
+    "text": "On the way to the church our car broke down. I desperately tried to find some succor to help us resume our journey.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_140",
+    "text": "It's amazing what two or more sinners can achieve together with synergy.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1032",
+    "text": "''You must be my host ,'' Tom guessed.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_279",
+    "text": "Never mind the star, get those camels off my lawn!",
+    "output": true,
+    "ambiguity": "The pun word 'star' supports two plausible interpretations of 'star' meaning a celestial body and 'star' as in a famous person.",
+    "distinctiveness": "In the given sentence, the words 'Never mind', 'get those camels off my lawn!' relates to the first interpretation of 'star' as a celestial body while 'my lawn' refers to the second interpretation of 'star' as in a famous person. Both of these are distinct where one is about ignoring something and the other is about removing camels from your property."
+  },
+  {
+    "id": "het_848",
+    "text": "I wanted to be a clarinettist but I couldn't reed music.",
+    "output": true,
+    "ambiguity": "The pun word 'reed' supports two plausible interpretations of 'reed' meaning a type of plant and 'read' meaning to be able to understand or interpret.",
+    "distinctiveness": "In the given sentence, the words 'wanted' relates to the first interpretation of 'reed' as a plant while 'couldn't' refers to the second interpretation of 'read' which is an ability. Both of these are distinct where one is about wanting to be a musician and the other is about not being able to understand music."
+  },
+  {
+    "id": "het_427",
+    "text": "I went out for a run this morning and tripped over, I could have been wearing the wrong size shoes, I haven't seen the footage yet.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_566",
+    "text": "Computer programs for gambling need beta testing.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_681",
+    "text": "She was small, slender with doe like eyes.'' Oh, my deer ,'' he whispered.",
+    "output": true,
+    "ambiguity": "The pun word 'deer' supports two plausible interpretations of 'deer' meaning a female of the species and 'dear' meaning someone or something that is loved.",
+    "distinctiveness": "In the given sentence, the words 'small', 'slender', 'with doe like eyes' relate to the interpretation of 'deer' as an animal while 'Oh, my dear,' he whispered relates to the second interpretation of 'dear' meaning someone or something that is loved."
+  },
+  {
+    "id": "het_314",
+    "text": "Be the soul supporter of your children.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_477",
+    "text": "What you seize is what you get.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_844",
+    "text": "If you say you have bad skin, I'd say that was a pore excuse.",
+    "output": true,
+    "ambiguity": "The pun word 'pore' supports two plausible interpretations of 'pore' meaning a small opening or hole and 'pour' meaning to flow freely.",
+    "distinctiveness": "In the given sentence, the words 'bad skin' relates to 'pore' meaning a small opening or hole while 'excuse' refers to the second interpretation of 'pour' meaning to flow freely. Both of these are distinct where one is related to physical appearance and the other is related to an explanation."
+  },
+  {
+    "id": "het_909",
+    "text": "In a bakery buns usually play a small role.",
+    "output": false,
+    "ambiguity": "There is no word in the sentence that supports two plausible interpretations.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_306",
+    "text": "''I think I've broken my leg'', reported Tom lamely.",
+    "output": true,
+    "ambiguity": "The pun word 'lamely' supports two plausible interpretations of 'lamely' meaning in an awkward or clumsy manner and 'lamely' as a reference to the word 'Tom'.",
+    "distinctiveness": "In the given sentence, the words 'I think I've broken my leg' relates to the first interpretation of 'lamely' while 'reported Tom' refers to the second interpretation. Both of these are distinct where one is a description of an action and the other is a reference to a person."
+  },
+  {
+    "id": "het_61",
+    "text": "When in doubt, do nothing.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1476",
+    "text": "The book about Teflon contained no frictional characters.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_975",
+    "text": "Where there is a will, there is a way.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_640",
+    "text": "Those who find bargain antiques like to junk for joy.",
+    "output": true,
+    "ambiguity": "The pun word 'junk' supports two plausible interpretations of 'junk' meaning rubbish and 'junk' as in the act of searching for something.",
+    "distinctiveness": "In the given sentence, the words 'like to' relates to the first interpretation of 'junk' meaning rubbish while 'searching for' refers to the second interpretation of 'junk' as in the act of searching. Both of these are distinct where one refers to finding something valuable and the other refers to the action of looking for something."
+  },
+  {
+    "id": "het_333",
+    "text": "When priests have a good idea they are supposed to parish the thought.",
+    "output": true,
+    "ambiguity": "The pun word 'parish' supports two plausible interpretations of 'parish' meaning a church and 'parish' meaning to abandon or reject.",
+    "distinctiveness": "In the given sentence, the words 'priests' relates to 'parish' meaning a church while 'supposed to' refers to the second interpretation of 'parish' meaning to abandon or reject. Both of these are distinct where one refers to religious context and the other refers to an action done by priests."
+  },
+  {
+    "id": "het_1185",
+    "text": "In middle east outdoor markets you can find bazaar items for sale.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_313",
+    "text": "The vendor at the Arab market resented how I haggled and told me to take a haik.",
+    "output": true,
+    "ambiguity": "In the given sentence, the word 'haik' supports two plausible interpretations of 'haik' meaning a traditional Arabic poem and 'hike' meaning a walk or journey.",
+    "distinctiveness": "The words 'vendor', 'Arab market', 'resented', 'haggled', 'told me to take' are distinct from the two interpretations. The word 'haik' is related to the Arabic culture and context, while 'hike' refers to a journey or walk."
+  },
+  {
+    "id": "het_878",
+    "text": "I'm dangerous when I know what I'm doing.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1005",
+    "text": "I met some cult members who worshiped soup serving utensils. I said ,'Oh ye of ladle faith. '",
+    "output": true,
+    "ambiguity": "The pun word 'ladle' supports two plausible interpretations of 'ladle' meaning a type of spoon used for serving soup and 'ladle' as in a person who leads or guides others.",
+    "distinctiveness": "In the given sentence, the words 'cult members' relates to 'ladle' while 'worshiped' refers to the second interpretation of 'ladle' meaning a person who leads or guides others. Both of these are distinct where one refers to an object used in serving soup and the other refers to a person leading others."
+  },
+  {
+    "id": "het_1061",
+    "text": "''I've struck oil!'' said Tom crudely.",
+    "output": true,
+    "ambiguity": "The pun word 'oil' supports two plausible interpretations of 'oil' meaning a black viscous liquid and 'oil' as in the verb to strike oil which means to make a significant discovery or find something valuable.",
+    "distinctiveness": "In the given sentence, the words 'Tom crudely' relates to the first interpretation of 'oil' meaning a black viscous liquid while 'said' refers to the second interpretation of 'oil' as in the verb to strike oil. Both of these are distinct where one refers to a substance and the other refers to an action done by Tom."
+  },
+  {
+    "id": "het_1333",
+    "text": "Your nose is in the scenter of your face.",
+    "output": false,
+    "ambiguity": "The word 'scenter' does not have any ambiguity as it only supports one interpretation.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_154",
+    "text": "There's nothing to stop me putting things in tins, said Tom cannily.",
+    "output": true,
+    "ambiguity": "The pun word 'tins' supports two plausible interpretations of 'tins' meaning metal containers and 'thins' meaning becoming thin or less.",
+    "distinctiveness": "In the given sentence, the words 'nothing', 'stop', 'me', 'putting', 'in', 'things' relate to the first interpretation of 'tins' as in tins of food. The word 'cannily' relates to the second interpretation of 'thins' meaning becoming thin or less."
+  },
+  {
+    "id": "het_613",
+    "text": "A man is known by the company he keeps.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_648",
+    "text": "Whatever you do, act wisely, and consider the end.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1505",
+    "text": "Sweet potatoes?I yam impressed!",
+    "output": true,
+    "ambiguity": "The pun word 'yam' supports two plausible interpretations of 'yam' as a starchy vegetable and 'I am' as a phrase.",
+    "distinctiveness": "In the given sentence, the words 'Sweet potatoes?' relates to 'yam' while 'impressed' refers to the second interpretation of 'I am'. Both of these are distinct where one is a type of food and the other is an expression of admiration."
+  },
+  {
+    "id": "het_968",
+    "text": "He that sows the wind shall reap the whirlwind.",
+    "output": false,
+    "ambiguity": "There is no word in the sentence that has two similarly likely interpretations.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1344",
+    "text": "\" All my hidden skills are undiscovered.\"- Clinton",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_370",
+    "text": "Pablo and Jose waited for a signal from Pilar to join her in the Church Tower, but neither responded to the chiming because they didn't know for whom the belle was tolling.",
+    "output": true,
+    "ambiguity": "The pun word 'belle' supports two plausible interpretations of 'belle' meaning a beautiful woman and 'bell' meaning a musical instrument.",
+    "distinctiveness": "In the given sentence, the words 'chiming' relates to the second interpretation of 'bell' while 'for whom the belle was tolling' refers to the first interpretation of 'belle'. Both of these are distinct where one refers to a beautiful woman and the other refers to a musical instrument."
+  },
+  {
+    "id": "het_62",
+    "text": "She wanted the large estate quite badly but, she dared not mansion it to her frugal husband.",
+    "output": true,
+    "ambiguity": "The pun word 'mansion' supports two plausible interpretations of 'mansion' meaning a large house and 'manage' meaning to handle or control.",
+    "distinctiveness": "In the given sentence, the words 'wanted', 'large estate', 'badly', 'dared not' relate to the first interpretation of 'mansion' as a large house. The word 'husband' relates to the second interpretation of 'manage' meaning to handle or control."
+  },
+  {
+    "id": "het_244",
+    "text": "The overweight fighter pilot was grounded for violating the rules of engorgement.",
+    "output": true,
+    "ambiguity": "The pun word 'grounded' supports two plausible interpretations of being unable to fly due to weight issues and being stopped from flying due to rule violation.",
+    "distinctiveness": "In the given sentence, the words 'overweight fighter pilot' relates to the first interpretation while 'rules of engorgement' refers to the second interpretation. Both of these are distinct where one refers to a person's weight and the other refers to a specific rule violation."
+  },
+  {
+    "id": "het_1116",
+    "text": "Balls!Tom said roundly.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_476",
+    "text": "Can you repeat the part after'Listen very carefully'?",
+    "output": false,
+    "ambiguity": "The word 'part' does not have any ambiguity in this sentence.",
+    "distinctiveness": "There are no other words in the sentence that provide distinctiveness to the interpretation of 'part'."
+  },
+  {
+    "id": "het_1728",
+    "text": "Old white blood cells lymph around the body.",
+    "output": false,
+    "ambiguity": "The word 'lymph' does not have any ambiguity in this sentence.",
+    "distinctiveness": "There are no other words in the sentence that provide distinctiveness to different interpretations."
+  },
+  {
+    "id": "het_666",
+    "text": "The Spaniard's wife was always up before the Don.",
+    "output": true,
+    "ambiguity": "In the sentence, the word 'Don' supports two plausible interpretations of 'Don' as in a Spanish title and 'don' as in an abbreviation for 'before the dawn'.",
+    "distinctiveness": "The words 'Spaniard's wife' relate to the first interpretation of 'Don' as a Spanish title, while 'always up before' relates to the second interpretation of 'don' as in 'before the dawn'. Both interpretations are distinct and provide ambiguity."
+  },
+  {
+    "id": "het_47",
+    "text": "The ultimate liquid measure is the supreme quart.",
+    "output": true,
+    "ambiguity": "The pun word 'quart' supports two plausible interpretations of 'quart' meaning a unit of measurement and 'quart' as in a male goat.",
+    "distinctiveness": "In the given sentence, the words 'ultimate liquid measure' relate to the first interpretation of 'quart' being a unit of measurement while 'supreme' refers to the second interpretation of 'quart' as in a male goat. Both of these are distinct where one refers to a unit of measurement and the other refers to an animal."
+  },
+  {
+    "id": "het_665",
+    "text": "I like the latest horror movie so much that I've arranged a private screaming.",
+    "output": true,
+    "ambiguity": "The pun word 'screaming' supports two plausible interpretations of 'screaming' meaning an act of expressing fear or excitement and 'screening' meaning to look at or examine something carefully.",
+    "distinctiveness": "In the given sentence, the words 'latest horror movie' relates to 'screaming' while 'private' refers to the second interpretation of 'screening'. Both of these are distinct where one refers to an act of expressing fear due to a movie and the other refers to a private event of examining something carefully."
+  },
+  {
+    "id": "het_302",
+    "text": "The Jedi Knight traded in his light saber for a light dagger. He had gone over to the dirk side.",
+    "output": true,
+    "ambiguity": "The pun word 'dagger' supports two plausible interpretations of 'dagger' meaning a weapon and 'dirk' which is another type of knife.",
+    "distinctiveness": "In the given sentence, the words 'Jedi Knight' relates to 'light saber' while 'gone over to the dirk side' refers to the second interpretation of 'dagger'. Both of these are distinct where one refers to a Jedi's weapon while the other refers to a change in allegiance which is going to the dark side."
+  },
+  {
+    "id": "het_954",
+    "text": "The discovery of how to make steel was ironic.",
+    "output": true,
+    "ambiguity": "The pun word 'ironic' supports two plausible interpretations of 'ironic' meaning coincidental and 'iron' as a metal.",
+    "distinctiveness": "In the given sentence, the words 'discovery' relates to 'ironic' while 'how to make steel' refers to the second interpretation of 'iron' as a metal. Both of these are distinct where one refers to an unexpected event and the other refers to a process of making a metal."
+  },
+  {
+    "id": "het_775",
+    "text": "Water leaking through wallboard is usually a ceiling problem.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1683",
+    "text": "My brother told me that serpentine is what you use to get paint off a boa constrictor.",
+    "output": true,
+    "ambiguity": "The pun word 'serpentine' supports two plausible interpretations of 'serpentine' meaning a winding path or road and 'serpent' referring to a snake.",
+    "distinctiveness": "In the given sentence, the words 'brother', 'told', 'me', 'that', 'use', 'to', 'get', 'paint', 'off', 'a', 'boa', 'constrictor' provide distinctiveness to the two interpretations. The first interpretation relates to a winding path or road while the second refers to an action done by a snake."
+  },
+  {
+    "id": "het_1729",
+    "text": "Happy Halloween!Tom said gravely.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1174",
+    "text": "I'm not a crook, Nixon said resignedly.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_537",
+    "text": "The hotel regrets that you do not find your rooms satisfactory ; I will send up our sweet manager right away.",
+    "output": true,
+    "ambiguity": "In the sentence 'you do not find your rooms satisfactory', the word 'rooms' supports two plausible interpretations of 'rooms' meaning hotel rooms and 'room's' meaning a space or place.",
+    "distinctiveness": "The words 'hotel' and 'manager' provide distinctiveness to the two interpretations. 'Hotel' relates to the first interpretation of 'rooms' as hotel rooms, while 'manager' refers to the second interpretation of 'room's' meaning a space or place."
+  },
+  {
+    "id": "het_843",
+    "text": "Two lovers who had been apart for some time were reunited on a foggy day. One whispered to the other'I mist you'.",
+    "output": true,
+    "ambiguity": "The pun word 'mist' supports two plausible interpretations of 'mist' meaning a type of cloud and 'miss' meaning to be without someone.",
+    "distinctiveness": "In the given sentence, the words 'lovers', 'apart', 'reunited', 'whispered', 'other', 'foggy day' relate to the first interpretation of 'mist' as a type of cloud. The word 'I mist you' is distinct from these words and relates to the second interpretation of 'miss' meaning to be without someone."
+  },
+  {
+    "id": "het_357",
+    "text": "I had to pay to get into the annual local carnival. But that was the county fare.",
+    "output": true,
+    "ambiguity": "The pun word 'fare' supports two plausible interpretations of 'fare' meaning a price or fee and 'fare' as in a journey or trip.",
+    "distinctiveness": "In the given sentence, the words 'county' relates to 'fare' meaning a price or fee while 'annual local carnival' refers to the second interpretation of 'fare' as in a journey or trip. Both of these are distinct where one refers to a cost and the other refers to an event."
+  },
+  {
+    "id": "het_369",
+    "text": "This is the Netherlands, Tom stated flatly.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1189",
+    "text": "Know thyself.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1134",
+    "text": "I didn't want to buy leather shoes, but eventually I was suede.",
+    "output": true,
+    "ambiguity": "The pun word 'suede' supports two plausible interpretations of 'suede' meaning a type of fabric and 'sued' meaning past tense of the verb 'to sue'.",
+    "distinctiveness": "In the given sentence, the words 'leather shoes' relates to 'suede' while 'eventually I was' refers to the second interpretation of 'sued' which is a past tense of the verb 'to sue'. Both of these are distinct where one refers to a type of fabric for shoes and the other refers to a legal action."
+  },
+  {
+    "id": "het_130",
+    "text": "I don't have a solution but I really admire the problem.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1456",
+    "text": "The soup was so bad it was gruel and unusual punishment.",
+    "output": true,
+    "ambiguity": "The pun word 'gruel' supports two plausible interpretations of 'gruel' meaning a watery porridge and 'unusual punishment' as in an atypical form of punishment.",
+    "distinctiveness": "In the given sentence, the words 'soup', 'bad', 'was' relate to the first interpretation of 'gruel' while 'unusual', 'punishment' refers to the second interpretation of 'gruel' as a type of punishment."
+  },
+  {
+    "id": "het_1270",
+    "text": "Repetition is the mother of memory.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1542",
+    "text": "If you believe restaurants always overcook steaks, then you probably order them rarely.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_326",
+    "text": "She was so thrifty she could smell a bargain a mall away.",
+    "output": true,
+    "ambiguity": "The pun word 'mall' supports two plausible interpretations of 'mall' meaning a shopping center and 'mall' as in the fur of an animal.",
+    "distinctiveness": "In the given sentence, the words 'thrifty' relates to 'bargain' while 'a mall away' refers to the second interpretation of 'mall' as in the fur of an animal. Both of these are distinct where one refers to being frugal and the other refers to a place where animals live."
+  },
+  {
+    "id": "het_1731",
+    "text": "A cannibal's favourite game is'swallow the leader'.",
+    "output": true,
+    "ambiguity": "The pun word 'leader' supports two plausible interpretations of 'leader' meaning a person in charge and 'leader' as in the front part of a fish.",
+    "distinctiveness": "In the given sentence, the words 'cannibal' relates to 'leader' where one refers to a person in charge while the other refers to the front part of a fish. Both of these are distinct interpretations."
+  },
+  {
+    "id": "het_1300",
+    "text": "I used to enjoy kabuki theatre, but now I prefer noh drama.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1467",
+    "text": "The Ennui Society elected a new chairman of the bored.",
+    "output": true,
+    "ambiguity": "The pun word 'bored' supports two plausible interpretations of 'bored' meaning tired or weary and 'bored' as in the Ennui Society.",
+    "distinctiveness": "In the given sentence, the words 'Ennui Society' relates to 'bored' while 'elected' refers to the second interpretation of 'chairman' which is a position of leadership. Both of these are distinct where one refers to a society based on boredom and the other refers to an action done in an organization."
+  },
+  {
+    "id": "het_1343",
+    "text": "It's easier to ask forgiveness than permission.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1386",
+    "text": "He who hesitates is bossed.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_294",
+    "text": "I love your old worn-out jacket covered with all those slogans, but I can't read the frays at the end of the sleeves.",
+    "output": true,
+    "ambiguity": "The pun word 'frays' supports two plausible interpretations of 'frays' meaning worn-out fabric and 'frays' meaning edges that are unraveling.",
+    "distinctiveness": "In the given sentence, the words 'love', 'jacket', 'covered', 'slogans', 'can't read', 'end', 'sleeves' provide distinctiveness to the two interpretations. The first interpretation refers to affection towards a jacket with slogans while the second interpretation refers to inability to read the edges of the sleeves."
+  },
+  {
+    "id": "het_1431",
+    "text": "''The policeman charged me twenty bucks for speeding ,'' said Tom finally.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_750",
+    "text": "Failure is the path of least persistence.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_304",
+    "text": "What goes up must come down.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1680",
+    "text": "All is fish that comes to the net.",
+    "output": false,
+    "ambiguity": "The word 'fish' does not have any ambiguity in this sentence.",
+    "distinctiveness": "There are no other words in the sentence that provide distinctiveness to the interpretation of 'fish' as a type of food."
+  },
+  {
+    "id": "het_558",
+    "text": "''This steamroller is amazing ,'' said Tom flatteringly.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_802",
+    "text": "The garden club visited the nursery and found themselves in a hosta environment.",
+    "output": true,
+    "ambiguity": "The pun word 'hosta' supports two plausible interpretations of 'hosta', which is a type of plant and 'host' meaning to provide hospitality.",
+    "distinctiveness": "In the given sentence, the words 'garden club' relates to 'hosta' as a type of plant while 'found themselves in' refers to the second interpretation of 'host' meaning to provide hospitality. Both of these are distinct where one refers to a place related to plants and the other refers to being welcomed or provided for."
+  },
+  {
+    "id": "het_674",
+    "text": "While attempting to decipher complicated technical instructions :'' It's all Geek to me.''",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_358",
+    "text": "A successful diet is the triumph of mind over platter.",
+    "output": true,
+    "ambiguity": "The pun word 'platter' supports two plausible interpretations of 'platter' meaning a large flat dish and 'plate' as in a flat dish for food.",
+    "distinctiveness": "In the given sentence, the words 'triumph' relates to the first interpretation of 'platter' while 'mind over' refers to the second interpretation of 'plate'. Both of these are distinct where one refers to a large flat dish and the other refers to a flat dish for food."
+  },
+  {
+    "id": "het_1178",
+    "text": "I am the Marlboro Man of Borg. I ( cough ) will assim-( choke, wheeze )..",
+    "output": true,
+    "ambiguity": "The pun word 'Marlboro Man' supports two plausible interpretations of 'Marlboro Man' referring to a famous advertising figure and 'marlboro man' referring to a male individual.",
+    "distinctiveness": "In the given sentence, the words 'I am' relates to the first interpretation of 'Marlboro Man' as an advertising figure while 'of Borg' refers to the second interpretation of 'marlboro man' as a male individual. Both of these are distinct where one is a famous advertising figure and the other is a reference to a person."
+  },
+  {
+    "id": "het_1443",
+    "text": "We believe in separation of church and hate",
+    "output": true,
+    "ambiguity": "The pun word 'church' supports two plausible interpretations of 'church' meaning a place of worship and 'hate' as an emotion or action.",
+    "distinctiveness": "In the given sentence, the words 'believe' relates to the first interpretation of 'church' while 'separation' refers to the second interpretation of 'hate'. Both of these are distinct where one refers to a belief in a place of worship and the other refers to an action of separating from an emotion or action."
+  },
+  {
+    "id": "het_1744",
+    "text": "''What are these berries?'' Tom rasped.",
+    "output": false,
+    "ambiguity": "The word 'berries' does not have any ambiguous interpretation in the given sentence.",
+    "distinctiveness": "There are no other words in the sentence that provide distinctiveness to the single interpretation of 'berries'. The sentence is not a pun."
+  },
+  {
+    "id": "het_728",
+    "text": "If you believe in telekinesis, please raise my hand.",
+    "output": true,
+    "ambiguity": "The pun word 'raise' supports two plausible interpretations of 'raise' meaning to lift something up and 'raise' as in increase the amount.",
+    "distinctiveness": "In the given sentence, the words 'believe', 'telekinesis', 'please', 'my', 'hand' are distinct from each other and support the two different interpretations of 'raise'."
+  },
+  {
+    "id": "het_372",
+    "text": "Never lie to your doctor.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_178",
+    "text": "Ignorance is bliss.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_673",
+    "text": "If you're in a hole, stop digging.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_866",
+    "text": "A lot of big delivery companies are always trying to courier favour.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1267",
+    "text": "He is my friend that succoreth me, not he that pitieth me.",
+    "output": true,
+    "ambiguity": "The pun word 'succoreth' supports two plausible interpretations of 'succoreth' meaning to provide help and 'pitieth' meaning to feel pity.",
+    "distinctiveness": "In the given sentence, the words 'friend' relates to 'succoreth' while 'not he that pitieth me' refers to the second interpretation of 'pity'. Both of these are distinct where one refers to a friend providing help and the other refers to not feeling pity."
+  },
+  {
+    "id": "het_1014",
+    "text": "He only knew how to drive a fork lift in reverse. He was the backup man.",
+    "output": false,
+    "ambiguity": "The word 'fork lift' does not have any ambiguous interpretations.",
+    "distinctiveness": "There are no other words in the sentence that provide distinctiveness to the interpretation of 'fork lift'."
+  },
+  {
+    "id": "het_604",
+    "text": "A problem shared is a problem halved.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_564",
+    "text": "In times like these the value of Chinese currency should make Americans pay attention. Instead, too many of us just yuan.",
+    "output": true,
+    "ambiguity": "The pun word 'yuan' supports two plausible interpretations of 'yuan' meaning a unit of Chinese currency and 'yuan' as a homophone for the English word 'you own'.",
+    "distinctiveness": "In the given sentence, the words 'Chinese', 'currency', 'Americans', 'pay attention' relate to the first interpretation while 'Instead', 'too many of us', 'just' refer to the second interpretation. Both these interpretations are distinct where one refers to a type of currency and the other refers to possession."
+  },
+  {
+    "id": "het_713",
+    "text": "Hot water Heaters : hot water needs heating?",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_285",
+    "text": "The Keystone Kops were frequently criticized for excessive use of farce.",
+    "output": true,
+    "ambiguity": "In the given sentence, the word 'farce' supports two plausible interpretations of 'farce' meaning a type of comedy and 'force' meaning physical strength.",
+    "distinctiveness": "The words 'Keystone Kops', 'criticized', 'excessive use' relate to the first interpretation of 'farce' as a type of comedy, while 'physical strength' relates to the second interpretation of 'force'. Both interpretations are distinct and provide the pun."
+  },
+  {
+    "id": "het_1464",
+    "text": "My name is Dustin. I'm a school custodian",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1733",
+    "text": "Avoid the pleasure which will bite tomorrow.",
+    "output": true,
+    "ambiguity": "The pun word 'bite' supports two plausible interpretations of 'bite' meaning to harm or to eat.",
+    "distinctiveness": "In the given sentence, the words 'pleasure' and 'tomorrow' relate to the two interpretations of 'bite' where one refers to a harmful action and the other refers to an action that can be done in the future."
+  },
+  {
+    "id": "het_751",
+    "text": "Old programmers never die, they just can't C as well.",
+    "output": true,
+    "ambiguity": "The pun word 'C' supports two plausible interpretations of 'C' meaning the programming language and 'can't see' which is a phrase used to express inability.",
+    "distinctiveness": "In the given sentence, the words 'programmers', 'die', 'never', 'they', 'just', 'as well' are distinct from the words 'C' and 'can't see'."
+  },
+  {
+    "id": "het_1647",
+    "text": "When a skunk walked in, the judge said ,'odor in the court'.",
+    "output": true,
+    "ambiguity": "The pun word 'odor' supports two plausible interpretations of 'odor' meaning smell and 'order' meaning instruction.",
+    "distinctiveness": "In the given sentence, the words 'skunk' relates to 'odor' while 'court' refers to the second interpretation of 'order'. Both of these are distinct where one refers to a skunk's smell while the other refers to an instruction in a legal setting."
+  },
+  {
+    "id": "het_1588",
+    "text": "My bid for this contract aims to please, said Tom tenderly.",
+    "output": true,
+    "ambiguity": "The pun word 'tenderly' supports two plausible interpretations of 'tenderly' meaning gently and 'tenderly' as an adjective referring to a type of meat.",
+    "distinctiveness": "In the given sentence, the words 'bid', 'contract', 'aims' and 'please' relate to the first interpretation of 'tenderly' meaning gently. The word 'Tom' relates to the second interpretation of 'tenderly' as an adjective referring to a type of meat."
+  },
+  {
+    "id": "het_548",
+    "text": "A test-tube baby has a womb with a view.",
+    "output": true,
+    "ambiguity": "The pun word 'womb' supports two plausible interpretations of 'womb' meaning a part of the female reproductive system and 'womb' meaning a room or space within a building.",
+    "distinctiveness": "In the given sentence, the words 'test-tube baby' relates to the first interpretation of 'womb' as a part of the female reproductive system while 'has a womb with a view' refers to the second interpretation of 'womb' as a room or space within a building. Both of these are distinct where one refers to a baby conceived artificially and the other refers to a room with a scenic view."
+  },
+  {
+    "id": "het_494",
+    "text": "The fine print is usually a clause for suspicion.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_324",
+    "text": "Two wrongs can make a riot.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1305",
+    "text": "The first scientists who studied fog were mistified.",
+    "output": true,
+    "ambiguity": "The pun word 'mist' supports two plausible interpretations of 'mist' meaning a type of cloud and 'mistified' as a misspelled version of 'misunderstood'.",
+    "distinctiveness": "In the given sentence, the words 'scientists', 'studied', 'fog' relate to the first interpretation of 'mist' as a type of cloud while 'who', 'were', 'mistified' refer to the second interpretation of 'mist' as misunderstood. Both of these are distinct where one refers to scientists studying a natural phenomenon and the other refers to people not understanding something."
+  },
+  {
+    "id": "het_449",
+    "text": "Piano players are considered to be Baldwin they lose their hair.",
+    "output": true,
+    "ambiguity": "The pun word 'Baldwin' supports two plausible interpretations of 'Baldwin' as a famous piano brand and 'bald win' meaning a person who has lost hair.",
+    "distinctiveness": "In the given sentence, the words 'piano players' relate to 'Baldwin' as a piano brand while 'lose their hair' refers to the second interpretation of 'bald win'. Both of these are distinct where one refers to a musical instrument and the other refers to a situation where someone loses their hair."
+  },
+  {
+    "id": "het_511",
+    "text": "I may look busy, but I'm just confused!",
+    "output": false,
+    "ambiguity": "The word 'busy' does not support two plausible interpretations.",
+    "distinctiveness": "There are no other words in the sentence that provide distinctiveness to the interpretation of 'busy'."
+  },
+  {
+    "id": "het_254",
+    "text": "The Vatican's supplier of duck eggs is elected by sacred balut.",
+    "output": true,
+    "ambiguity": "The pun word 'balut' supports two plausible interpretations of 'balut' meaning a Filipino snack and 'ballet' which is a form of dance.",
+    "distinctiveness": "In the given sentence, the words 'Vatican', 'supplier', 'duck eggs', 'elected' relate to the first interpretation of 'balut' as a Filipino snack while 'sacred' refers to the second interpretation of 'ballet'."
+  },
+  {
+    "id": "het_113",
+    "text": "The self-conscious shipbuilder tried to recruit extremely sycophantic sailors to compliment her newly designed destroyer.",
+    "output": true,
+    "ambiguity": "In the sentence, the word 'her' is ambiguous as it can refer to either the shipbuilder or the destroyer.",
+    "distinctiveness": "The words 'self-conscious', 'shipbuilder', 'recruit', 'sailors', 'compliment', 'newly designed', and 'destroyer' provide distinctiveness between the two interpretations of 'her'. The first interpretation refers to a person (the shipbuilder) while the second interpretation refers to an object (the destroyer)."
+  },
+  {
+    "id": "het_1024",
+    "text": "Can you read music?the bandleader asked notably.",
+    "output": true,
+    "ambiguity": "The pun word 'read' supports two plausible interpretations of 'read' meaning to understand or interpret and 'red' as a color.",
+    "distinctiveness": "In the given sentence, the words 'music', 'bandleader' and 'notably' relate to the first interpretation of 'read' meaning to understand or interpret. The word 'can' is distinctly related to the second interpretation of 'red' as a color."
+  },
+  {
+    "id": "het_1129",
+    "text": "A six foot poet stanza very tall.",
+    "output": true,
+    "ambiguity": "The pun word 'stanza' supports two plausible interpretations of 'stanza' meaning a group of lines in poetry and 'stands' meaning to be on one's feet.",
+    "distinctiveness": "In the given sentence, the words 'six foot poet' relates to 'stanza' while 'very tall' refers to the second interpretation of 'stands'. Both of these are distinct where one refers to a poetic structure and the other refers to a physical action."
+  },
+  {
+    "id": "het_56",
+    "text": "The boating store had its best sail ever.",
+    "output": true,
+    "ambiguity": "In the given sentence, the word 'sail' supports two plausible interpretations of 'sail' meaning a piece of material used to catch wind and 'sail' as in having the best experience.",
+    "distinctiveness": "The words 'boating store' relates to the first interpretation of 'sail' being a noun related to boating, while 'best' and 'ever' relate to the second interpretation of 'sail' meaning an excellent experience."
+  },
+  {
+    "id": "het_92",
+    "text": "OLD BUTCHERS never die, they only meat their fate.",
+    "output": true,
+    "ambiguity": "The pun word 'meat' supports two plausible interpretations of 'meat' meaning food and 'meet' meaning to encounter.",
+    "distinctiveness": "In the given sentence, the words 'old butchers' relates to 'meat' while 'never die' refers to the second interpretation of 'meet'. Both of these are distinct where one refers to a butcher's food and the other refers to an encounter."
+  },
+  {
+    "id": "het_1628",
+    "text": "Adam ate the apple, and our teeth still ache.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1341",
+    "text": "It's a cracked pitcher that goes longest to the well.",
+    "output": true,
+    "ambiguity": "The pun word 'cracked' supports two plausible interpretations of 'cracked' meaning broken and 'cracked' as in related to a pitcher.",
+    "distinctiveness": "In the given sentence, the words 'pitcher' relates to 'cracked' meaning related to a pitcher while 'well' refers to the second interpretation of 'cracked' meaning broken."
+  },
+  {
+    "id": "het_252",
+    "text": "''I prefer trout to salmon ,'' Tom said officiously.",
+    "output": true,
+    "ambiguity": "The pun word 'officiously' supports two plausible interpretations of 'officiously' meaning in an official manner and 'officious' meaning meddlesome or interfering.",
+    "distinctiveness": "In the given sentence, the words 'prefer', 'trout' and 'salmon' relate to the first interpretation of 'officiously' as in an official manner. The word 'said' relates to the second interpretation of 'officious' meaning meddlesome or interfering."
+  },
+  {
+    "id": "het_553",
+    "text": "The cost of a galvanized hull is enough to zinc a ship.",
+    "output": true,
+    "ambiguity": "The pun word 'zinc' supports two plausible interpretations of 'zinc' meaning the metal and 'zinc' as a short form of 'cents'.",
+    "distinctiveness": "In the given sentence, the words 'cost', 'galvanized hull', 'enough to', and 'a ship' provide distinctiveness to the two interpretations. The first interpretation refers to the cost of a metal coating for a ship while the second interpretation refers to the amount of money needed to purchase a ship."
+  },
+  {
+    "id": "het_1382",
+    "text": "What is a duck's favorite game to play?Billiards.",
+    "output": true,
+    "ambiguity": "The pun word 'duck' supports two plausible interpretations of 'duck' as a water bird and 'duck' as an informal term for a male person.",
+    "distinctiveness": "In the given sentence, the words 'favorite game to play' relate to the first interpretation of 'duck' as a water bird while 'Billiards' refers to the second interpretation of 'duck' as an informal term for a male person. Both of these are distinct where one is related to a bird and the other is related to a male person."
+  },
+  {
+    "id": "het_1615",
+    "text": "They took soft drinks off the menu just to sprite people.",
+    "output": true,
+    "ambiguity": "The pun word 'sprite' supports two plausible interpretations of 'sprite' meaning a type of soft drink and 'sprite' meaning a supernatural being.",
+    "distinctiveness": "In the given sentence, the words 'took off the menu' relates to the first interpretation of 'sprite' as a soft drink while 'just to sprite people' refers to the second interpretation of 'sprite' as a supernatural being. Both of these are distinct where one is about removing an item from a menu and the other is about causing mischief or confusion."
+  },
+  {
+    "id": "het_101",
+    "text": "''Boy, that's a bright star ,'' said Tom seriously.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1360",
+    "text": "Sin and bear it",
+    "output": false,
+    "ambiguity": "The word 'bear' does not have any ambiguity in the sentence.",
+    "distinctiveness": "There are no other words in the sentence that provide distinctiveness to the interpretation of 'bear' as a type of animal."
+  },
+  {
+    "id": "het_177",
+    "text": "You should never take rocks for granite.",
+    "output": true,
+    "ambiguity": "The pun word 'rocks' supports two plausible interpretations of 'rocks' meaning stones and 'rocks' as in taking someone or something for granted.",
+    "distinctiveness": "In the given sentence, the words 'never', 'take', 'for', and 'granite' provide distinctiveness to the two interpretations. The first interpretation refers to not accepting rocks as stones while the second interpretation refers to not appreciating someone or something."
+  },
+  {
+    "id": "het_1564",
+    "text": "The nail that sticks up will be hammered down.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_766",
+    "text": "Insanity is doing the same thing over and over, expecting different results.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_679",
+    "text": "Constant dropping wears away the stone.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_945",
+    "text": "Some music stores are in a CD part of town.",
+    "output": false,
+    "ambiguity": "The word 'CD' does not support two plausible interpretations.",
+    "distinctiveness": "There is no other word in the sentence that provides distinctiveness to the interpretation of 'CD' as a type of music storage."
+  },
+  {
+    "id": "het_226",
+    "text": "Blood is thicker than water.",
+    "output": true,
+    "ambiguity": "The pun word 'blood' supports two plausible interpretations of 'blood' meaning a red liquid and 'blood' as in family relationships.",
+    "distinctiveness": "In the given sentence, the words 'thicker than water' provide distinctiveness to the two interpretations. 'Thicker than water' refers to the saying that family is more important than friends, while 'water' refers to a liquid."
+  },
+  {
+    "id": "het_1682",
+    "text": "Talk is cheap-- supply exceeds demand!",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_515",
+    "text": "Diplomacy : Saying\"Nice doggie\"until you can find a rock",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_120",
+    "text": "This is your brain. Postscript on brain your is This.",
+    "output": false,
+    "ambiguity": "There are no words in the sentence that have two similarly likely interpretations.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1306",
+    "text": "paranoia : believing this tagline is about you.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_698",
+    "text": "OLD FARMERS never die, they just spade away.",
+    "output": true,
+    "ambiguity": "The pun word 'spade' supports two plausible interpretations of 'spade' meaning a gardening tool and 'spade' as in the number eight.",
+    "distinctiveness": "In the given sentence, the words 'old farmers' relates to 'never die' while 'spade away' refers to the second interpretation of 'eight' which is a number. Both of these are distinct where one refers to age and death while the other refers to a numerical value."
+  },
+  {
+    "id": "het_1011",
+    "text": "The cartoon animator felt imprisoned by his job. He could not free himself from his cel.",
+    "output": true,
+    "ambiguity": "In the sentence, the word 'cel' supports two plausible interpretations of 'cel' meaning a cell in a prison and 'cel' as short for celluloid, which is a type of plastic used in animation.",
+    "distinctiveness": "The words 'cartoon animator' relates to the second interpretation of 'cel' as it refers to an artist who works with celluloid. The word 'imprisoned' supports the first interpretation of 'cel' meaning a prison cell."
+  },
+  {
+    "id": "het_346",
+    "text": "Gallup and Harris are poller opposites.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1573",
+    "text": "Death is life's way of telling you you've been fired.",
+    "output": true,
+    "ambiguity": "The pun word 'fired' supports two plausible interpretations of 'fired' meaning to be dismissed from a job and 'fired' as in being let go by death.",
+    "distinctiveness": "In the given sentence, the words 'Death is life's way' relates to 'fired' meaning to be dismissed from a job while 'you've been fired' refers to the second interpretation of 'fired' as in being let go by death. Both of these are distinct where one refers to job dismissal and the other refers to death."
+  },
+  {
+    "id": "het_235",
+    "text": "The thief broke into the music store and stole the lute.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_194",
+    "text": "Truckers like houses with long haulways.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_914",
+    "text": "Life is fragile, handle with prayer",
+    "output": true,
+    "ambiguity": "The pun word 'prayer' supports two plausible interpretations of 'prayer' meaning a religious practice and 'pray' as in to ask for something.",
+    "distinctiveness": "In the given sentence, the words 'Life is fragile' relates to 'prayer' while 'handle with' refers to the second interpretation of 'pray'. Both of these are distinct where one refers to a religious practice and the other refers to handling something carefully."
+  },
+  {
+    "id": "het_707",
+    "text": "I used to jog, but the ice kept falling out of my glass.",
+    "output": true,
+    "ambiguity": "The pun word 'ice' supports two plausible interpretations of 'ice' meaning frozen water and 'ice' as in a shortened form of 'eyes'.",
+    "distinctiveness": "In the given sentence, the words 'jog' relates to the first interpretation of 'ice' meaning frozen water while 'glass' refers to the second interpretation of 'ice' as in a shortened form of 'eyes'. Both of these are distinct where one refers to physical activity and the other refers to an object that holds liquid."
+  },
+  {
+    "id": "het_192",
+    "text": "Enter any 11-digit prime number to continue",
+    "output": true,
+    "ambiguity": "The pun word 'prime' supports two plausible interpretations of 'prime' meaning a mathematical term and 'prime' meaning the first in a series.",
+    "distinctiveness": "In the given sentence, the words 'number' relates to the mathematical term interpretation of 'prime' while 'to continue' refers to the second interpretation of 'prime' as the first in a series. Both of these are distinct where one refers to a number and the other refers to an action that continues."
+  },
+  {
+    "id": "het_930",
+    "text": "Cane sugar can't be beet.",
+    "output": true,
+    "ambiguity": "The pun word 'beet' supports two plausible interpretations of 'beet' meaning a vegetable and 'beat' meaning to overcome or surpass.",
+    "distinctiveness": "In the given sentence, the words 'cane sugar' relates to the first interpretation of 'beet' as a vegetable while 'can't be beat' refers to the second interpretation of 'beat' meaning to overcome or surpass. Both of these are distinct where one refers to a type of sugar and the other refers to an expression of superiority."
+  },
+  {
+    "id": "het_30",
+    "text": "Features should be discovered, not documented!",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1145",
+    "text": "Men leap over where the hedge is lower.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1755",
+    "text": "The mime wanted to say something, but he wasn't aloud.",
+    "output": true,
+    "ambiguity": "In the given sentence, the word 'aloud' supports two plausible interpretations of 'aloud' meaning able to be heard and 'allowed'.",
+    "distinctiveness": "The words 'mime' relates to the first interpretation of 'aloud' meaning able to be heard while 'wanted to say something' refers to the second interpretation of 'aloud' meaning allowed."
+  },
+  {
+    "id": "het_354",
+    "text": "Kennebunkport was George Bush's maine vacation spot.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_658",
+    "text": "Women were meant to be loved, not understood.",
+    "output": false,
+    "ambiguity": "There is no word in the sentence that has two similarly likely interpretations.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_663",
+    "text": "Staying at the trendy, new hotel was the inn thing to do.",
+    "output": false,
+    "ambiguity": "The word 'inn' does not have any ambiguous interpretation in this sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1433",
+    "text": "''This is mutiny!'' said Tom bountifully.",
+    "output": false,
+    "ambiguity": "There is no word in the sentence that has two similarly likely interpretations.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_204",
+    "text": "I learned that the antelopes were coming when I heard the gnus.",
+    "output": true,
+    "ambiguity": "The pun word 'gnus' supports two plausible interpretations of 'gnus' meaning a type of African antelope and 'news' meaning information or reports.",
+    "distinctiveness": "In the given sentence, the words 'I learned' relates to the first interpretation of 'gnus' as an animal while 'the antelopes were coming when I heard' refers to the second interpretation of 'gnus' as a type of news."
+  },
+  {
+    "id": "het_1234",
+    "text": "What everybody says must be true.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1438",
+    "text": "On organic farms they till it like it is.",
+    "output": false,
+    "ambiguity": "The word 'till' does not have any ambiguity in this sentence.",
+    "distinctiveness": "There are no other words in the sentence that provide distinctiveness to the interpretation of 'till' as a verb meaning to cultivate or prepare the soil for planting."
+  },
+  {
+    "id": "het_520",
+    "text": "What did the nice girl say when her date invited her home to see his stamp collection?'Philately will get you nowhere'.",
+    "output": true,
+    "ambiguity": "The pun word 'philately' supports two plausible interpretations of 'philately' meaning the hobby of collecting stamps and 'physically' which is an adverb.",
+    "distinctiveness": "In the given sentence, the words 'nice girl' relates to 'philately' while 'will get you nowhere' refers to the second interpretation of 'physically'. Both of these are distinct where one refers to a hobby and the other refers to an action that leads to no progress."
+  },
+  {
+    "id": "het_1581",
+    "text": "Mathematicians are sum worshippers.",
+    "output": false,
+    "ambiguity": "The word 'sum' does not have any ambiguity in this sentence.",
+    "distinctiveness": "There is no other word in the sentence that provides distinctiveness to different interpretations."
+  },
+  {
+    "id": "het_738",
+    "text": "Life is ten percent what happens to you and ninety percent how you respond to it.",
+    "output": false,
+    "ambiguity": "There are no ambiguous words in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_386",
+    "text": "There's a repair shop for baroque musical instruments.",
+    "output": false,
+    "ambiguity": "The word 'baroque' does not have any ambiguous interpretations in this sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_142",
+    "text": "''We have no oranges ,'' Tom said fruitlessly.",
+    "output": true,
+    "ambiguity": "The pun word 'oranges' supports two plausible interpretations of 'oranges' meaning a type of fruit and 'oranges' as in the number zero.",
+    "distinctiveness": "In the given sentence, the words 'We have no' relates to the first interpretation of 'oranges' as a type of fruit while 'Tom said fruitlessly' refers to the second interpretation of 'oranges' as in the number zero. Both of these are distinct where one is about not having a fruit and the other is about Tom's futile attempt."
+  },
+  {
+    "id": "het_1198",
+    "text": "Lead by example.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_552",
+    "text": "The triangular computer monitor business was just a big pyramid screen.",
+    "output": true,
+    "ambiguity": "The pun word 'triangular' supports two plausible interpretations of 'triangular' meaning having three angles and 'triangle' meaning a shape with three angles.",
+    "distinctiveness": "In the given sentence, the words 'computer monitor business' relates to 'triangular' while 'big pyramid screen' refers to the second interpretation of 'triangle' as a shape. Both of these are distinct where one refers to a business type and the other refers to a specific shape."
+  },
+  {
+    "id": "het_1488",
+    "text": "I've been called a rare commodity. I wonder if that makes me silver or gold?I guess I could be either ore.",
+    "output": true,
+    "ambiguity": "The pun word 'ore' supports two plausible interpretations of 'ore' meaning a mineral and 'ore' as in the short form of 'either'.",
+    "distinctiveness": "In the given sentence, the words 'rare', 'commodity', 'silver', 'gold' relate to the first interpretation of 'ore' as a mineral. The word 'I guess I could be either' relates to the second interpretation of 'ore' as in the short form of 'either'. Both these interpretations are distinct where one refers to a type of mineral and the other refers to a choice between two options."
+  },
+  {
+    "id": "het_778",
+    "text": "Keep your own counsel.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_562",
+    "text": "Some rappers are good but others are Ludacris.",
+    "output": true,
+    "ambiguity": "The pun word 'Ludacris' supports two plausible interpretations of 'Ludacris' meaning a famous rapper and 'ludicrous' meaning absurd or unreasonable.",
+    "distinctiveness": "In the given sentence, the words 'rappers' relates to 'Ludacris' while 'others' refers to the second interpretation of 'ludicrous'. Both of these are distinct where one refers to a type of musician and the other refers to an absurd or unreasonable statement."
+  },
+  {
+    "id": "het_1118",
+    "text": "c-h-r-c-h, were missing u",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_167",
+    "text": "A reconciled friend is a double enemy.",
+    "output": false,
+    "ambiguity": "There are no ambiguous words in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_234",
+    "text": "OLD DOCTORS never die they just lose their patience.",
+    "output": true,
+    "ambiguity": "The pun word 'doctors' supports two plausible interpretations of 'doctors' meaning medical professionals and 'doctors' as in people who practice medicine.",
+    "distinctiveness": "In the given sentence, the words 'old' relates to the first interpretation of doctors being medical professionals while 'lose their patience' refers to the second interpretation of doctors practicing medicine. Both of these are distinct where one refers to aging medical professionals and the other refers to a loss of temperament."
+  },
+  {
+    "id": "het_1067",
+    "text": "A reformed arsonist was in confession. He began ,'' Bless me Father for I have singed.''",
+    "output": true,
+    "ambiguity": "The pun word 'singed' supports two plausible interpretations of 'singed' meaning both to have burned slightly and to have confessed.",
+    "distinctiveness": "In the given sentence, the words 'arsonist' relates to 'singed' where it refers to a person who has confessed, while 'Father' refers to the second interpretation of 'singed' which is related to burning."
+  },
+  {
+    "id": "het_987",
+    "text": "Even covered in salad dressing my lettuce looked bare, so I put some cloves on it.",
+    "output": true,
+    "ambiguity": "The pun word 'bare' supports two plausible interpretations of 'bare' meaning naked or empty and 'bear' referring to the animal.",
+    "distinctiveness": "In the given sentence, the words 'covered', 'salad dressing', 'lettuce', 'cloves' provide distinctiveness to the two interpretations where one refers to a state of being undressed while the other refers to an action done with cloves on lettuce."
+  },
+  {
+    "id": "het_1657",
+    "text": "We've taken over the government, the general cooed.",
+    "output": true,
+    "ambiguity": "The pun word 'cooed' supports two plausible interpretations of 'cooed' meaning a soft cry or a sound made by pigeons and 'cooed' meaning whispered.",
+    "distinctiveness": "In the given sentence, the words 'taken over' relates to the first interpretation of 'cooed' as a sound while 'general' refers to the second interpretation of 'cooed' as a whisper."
+  },
+  {
+    "id": "het_519",
+    "text": "Company's coming, Tom guessed.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1423",
+    "text": "One item contributed was a picture of a pretty, kimono-clad girl ; it bore the inscription :'' Maid in Japan''.",
+    "output": false,
+    "ambiguity": "The word 'Maid' does not have any ambiguity in this sentence.",
+    "distinctiveness": "There are no other words in the sentence that provide distinctiveness to the interpretation of 'Maid' as a person or a type of clothing."
+  },
+  {
+    "id": "het_767",
+    "text": "If you want someone to keep a secret, keep it yourself.",
+    "output": false,
+    "ambiguity": "There is no word in the sentence that has two similarly likely interpretations.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_979",
+    "text": "When a cow laughs, does milk come up its nose?",
+    "output": true,
+    "ambiguity": "The pun word 'laughs' supports two plausible interpretations of 'laughs' meaning to express amusement and 'laughs' as a verb referring to the sound produced by a cow.",
+    "distinctiveness": "In the given sentence, the words 'cow' relates to the second interpretation of 'laughs' as a verb referring to the sound produced by a cow. The first interpretation is related to the expression of amusement which is not present in this sentence."
+  },
+  {
+    "id": "het_1622",
+    "text": "Data got into so much trouble, her parents sent her packeting.",
+    "output": true,
+    "ambiguity": "The pun word 'packeting' supports two plausible interpretations of 'packeting' meaning a form of punishment and 'packaging' which is the process of preparing goods to be shipped.",
+    "distinctiveness": "In the given sentence, the words 'parents' relates to 'packeting' while 'sent her' refers to the second interpretation of 'packaging'. Both of these are distinct where one refers to a form of punishment and the other refers to the process of preparing goods."
+  },
+  {
+    "id": "het_1355",
+    "text": "A lawyer's opinion is worth nothing unless paid for.",
+    "output": false,
+    "ambiguity": "There is no word in the sentence that has two similarly likely interpretations.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_919",
+    "text": "Penny wise, pound foolish.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1524",
+    "text": "Just pew it",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_420",
+    "text": "My two uncles bet who would get married first. Then one upped the ante.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1750",
+    "text": "A hermit drove to town and was charged with recluse driving.",
+    "output": true,
+    "ambiguity": "The pun word 'recluse' supports two plausible interpretations of 'recluse' meaning a person who lives in solitude and 'recluse' as an adjective meaning retiring or withdrawing from society.",
+    "distinctiveness": "In the given sentence, the words 'hermit' relates to 'recluse' meaning a person who lives in solitude while 'charged with' refers to the second interpretation of 'recluse' as an adjective. Both of these are distinct where one refers to a hermit's lifestyle and the other refers to a legal charge for a type of driving."
+  },
+  {
+    "id": "het_714",
+    "text": "I'm a ditch digger, said Tom, trenchantly",
+    "output": false,
+    "ambiguity": "The word 'digger' does not have any ambiguous interpretations in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1611",
+    "text": "He made so many mistakes that he had an err about him.",
+    "output": true,
+    "ambiguity": "The pun word 'err' supports two plausible interpretations of 'err' meaning a mistake and 'error' meaning a wrong decision or path.",
+    "distinctiveness": "In the given sentence, the words 'made', 'mistakes', 'had' relate to the first interpretation of 'err' as a mistake, while 'about him' refers to the second interpretation of 'err' as in error or wrong path."
+  },
+  {
+    "id": "het_271",
+    "text": "Time is precious.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1119",
+    "text": "My name is Neal. I lead prayer groups.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1463",
+    "text": "Why was six afraid of seven?Because seven eight nine.",
+    "output": true,
+    "ambiguity": "The pun word 'eight' supports two plausible interpretations of 'eight' meaning a number and 'eight' as in the word 'ate'.",
+    "distinctiveness": "In the given sentence, the words 'six' relates to 'afraid' while 'because' refers to the second interpretation of 'ate'. Both of these are distinct where one is about a numerical fear and the other is about a reason for eating."
+  },
+  {
+    "id": "het_1474",
+    "text": "You should lock up your wine in a cabernet.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_828",
+    "text": "You should never drink beyond the pint of no return.",
+    "output": true,
+    "ambiguity": "The pun word 'pint' supports two plausible interpretations of 'pint' as a unit of measurement for alcohol and 'point' as in a significant moment or turning point.",
+    "distinctiveness": "In the given sentence, the words 'beyond' relates to the first interpretation of 'pint' while 'return' refers to the second interpretation of 'point'. Both of these are distinct where one refers to an alcoholic drink and the other refers to a significant moment or turning point."
+  },
+  {
+    "id": "het_24",
+    "text": "We welcome you with open psalms.",
+    "output": false,
+    "ambiguity": "The word 'psalms' does not have any ambiguity in the sentence.",
+    "distinctiveness": "There are no other words in the sentence that provide distinctiveness to a different interpretation."
+  },
+  {
+    "id": "het_1149",
+    "text": "Where vice goes before, vengeance follows after.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_727",
+    "text": "''I admire East End gangsters ,'' said Tom crazily.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1065",
+    "text": "Kentucky Fried Chicken, looking to expand into the area of low-fat dining alternatives, has begun selling popcorn. Their new motto is ,'' Look for the kernel.''",
+    "output": true,
+    "ambiguity": "The pun word 'kernel' supports two plausible interpretations of 'kernel' meaning a seed or grain and 'kernel' meaning the central part of something.",
+    "distinctiveness": "In the given sentence, the words 'Kentucky Fried Chicken' relates to 'kernel' as in a seed or grain while 'Look for the kernel' refers to the second interpretation of 'kernel' meaning the central part of something. Both of these are distinct where one is related to food and the other is related to finding information."
+  },
+  {
+    "id": "het_538",
+    "text": "I feel empty inside, Tom hollered.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1655",
+    "text": "Today is the first day of the rest of your life.",
+    "output": false,
+    "ambiguity": "There is no word in the sentence that has two similarly likely interpretations.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1412",
+    "text": "On cooking shows, there is little margarine of error.",
+    "output": true,
+    "ambiguity": "The pun word 'margarine' supports two plausible interpretations of 'margarine' meaning a type of butter substitute and 'margin' meaning the small difference between two values.",
+    "distinctiveness": "In the given sentence, the words 'cooking shows' relates to 'margarine' while 'error' refers to the second interpretation of 'margin'. Both of these are distinct where one refers to a type of butter substitute and the other refers to a small difference between two values."
+  },
+  {
+    "id": "het_1538",
+    "text": "''Eating uranium makes me feel funny ,'' said Tom radiantly.",
+    "output": true,
+    "ambiguity": "The pun word 'uranium' supports two plausible interpretations of 'uranium' as a chemical element and 'uranium' as a homophone for 'are you in um?'",
+    "distinctiveness": "In the given sentence, the words 'eating' relates to the first interpretation of 'uranium' while 'makes me feel funny' refers to the second interpretation of 'are you in um?'. Both of these are distinct where one is about a chemical element and the other is about a question."
+  },
+  {
+    "id": "het_758",
+    "text": "Two brothers fought over some sheet music but their mother wanted to keep the piece.",
+    "output": true,
+    "ambiguity": "The pun word 'piece' supports two plausible interpretations of 'piece' meaning a fragment or part and 'piece' as in a musical composition.",
+    "distinctiveness": "In the given sentence, the words 'brothers', 'fought', 'mother', and 'wanted' relate to the first interpretation of 'piece' as a fragment or part. The word 'music' relates to the second interpretation of 'piece' as in a musical composition."
+  },
+  {
+    "id": "het_160",
+    "text": "Smile, and the world smiles with you ; cry, and you cry alone.",
+    "output": false,
+    "ambiguity": "There is no word in the sentence that has two similarly likely interpretations.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_124",
+    "text": "Dateline London : Eccentric ornithologist travels to foreign land to teach pigeon English.",
+    "output": true,
+    "ambiguity": "The pun word 'pigeon' supports two plausible interpretations of 'pigeon' meaning a bird and 'pigeon' meaning an easy prey or victim.",
+    "distinctiveness": "In the given sentence, the words 'ornithologist' relates to the first interpretation of 'pigeon' as a bird while 'teach English' refers to the second interpretation of 'pigeon' as an easy prey or victim. Both of these are distinct where one refers to a bird and the other refers to a metaphorical situation."
+  },
+  {
+    "id": "het_643",
+    "text": "''I bought myself fifty hamburgers and I've only ten left ,'' said Tom with fortitude.",
+    "output": true,
+    "ambiguity": "The pun word 'hamburgers' supports two plausible interpretations of 'hamburgers' meaning a type of food and 'hambergers' meaning a type of mountain.",
+    "distinctiveness": "In the given sentence, the words 'I bought myself fifty' relates to the first interpretation of 'hamburgers' as a type of food while 'and I've only ten left' refers to the second interpretation of 'hambergers' as a type of mountain. Both of these are distinct where one refers to purchasing food items and the other refers to the quantity remaining."
+  },
+  {
+    "id": "het_1662",
+    "text": "''I just bought a woollen sweater ,'' said Tom sheepishly.",
+    "output": false,
+    "ambiguity": "The word 'woollen' does not have any ambiguity in this sentence.",
+    "distinctiveness": "There are no other words in the sentence that provide distinctiveness to the interpretation of 'woollen'."
+  },
+  {
+    "id": "het_754",
+    "text": "OLD RANCHERS never die, they just breed their last.",
+    "output": true,
+    "ambiguity": "The pun word 'breed' supports two plausible interpretations of 'breed' meaning to produce offspring and 'read' as in the act of interpreting text.",
+    "distinctiveness": "In the given sentence, the words 'old ranchers' relates to 'breed' while 'their last' refers to the second interpretation of 'read'. Both of these are distinct where one refers to producing offspring and the other refers to the act of interpreting text."
+  },
+  {
+    "id": "het_1121",
+    "text": "Mind like a steel trap-rusted shut!",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1714",
+    "text": "Southerners are quick on the drawl.",
+    "output": false,
+    "ambiguity": "The word 'drawl' does not have any ambiguity in this sentence.",
+    "distinctiveness": "There is no other word in the sentence that provides distinctiveness to different interpretations."
+  },
+  {
+    "id": "het_1037",
+    "text": "I'll clean the chimney, said Tom, fluently",
+    "output": true,
+    "ambiguity": "The pun word 'fluently' supports two plausible interpretations of 'fluently' meaning speaking or writing with ease and 'flue' which is a passage in a chimney.",
+    "distinctiveness": "In the given sentence, the words 'chimney' relates to 'flue' while 'cleaning' refers to the second interpretation of 'fluently'. Both of these are distinct where one refers to cleaning a part of a chimney and the other refers to speaking or writing with ease."
+  },
+  {
+    "id": "het_181",
+    "text": "''For what we are about to receive, may the Lord make us truly thankful ,'' said Tom gracefully.",
+    "output": false,
+    "ambiguity": "There is no word in the sentence that has two similarly likely interpretations.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_595",
+    "text": "Old chicken farmers never die, they just have a dozen aches.",
+    "output": true,
+    "ambiguity": "The pun word 'dozen' supports two plausible interpretations of 'dozen' meaning twelve and 'dose' meaning a quantity of medicine.",
+    "distinctiveness": "In the given sentence, the words 'chicken farmers' relates to 'dozen' while 'aches' refers to the second interpretation of 'dose' as a medication. Both of these are distinct where one refers to a group of people and the other refers to a type of medicine."
+  },
+  {
+    "id": "het_896",
+    "text": "You can lead a horse to water but you can't make it drink.",
+    "output": true,
+    "ambiguity": "The pun word 'lead' supports two plausible interpretations of 'lead' meaning to guide or direct and 'lead' as in the chemical element.",
+    "distinctiveness": "In the given sentence, the words 'horse' relates to the first interpretation of 'lead' while 'water' refers to the second interpretation of 'lead' as a chemical element. Both of these are distinct where one is about guiding an animal and the other is about a chemical substance."
+  },
+  {
+    "id": "het_245",
+    "text": "There is luck in odd numbers.",
+    "output": false,
+    "ambiguity": "The word 'odd' does not support two plausible interpretations.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_625",
+    "text": "The son shines on the righteous.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1410",
+    "text": "Tweety of Borg : I tawt I attimilated a Puddy Tat!",
+    "output": true,
+    "ambiguity": "The pun word 'tawt' supports two plausible interpretations of 'tawt' meaning 'thought' and 'twat' which is a slang term for female genitalia.",
+    "distinctiveness": "In the given sentence, the words 'Tweety', 'Borg', 'attimilated' and 'Puddy Tat' are distinct from each other providing clear distinction between the two interpretations."
+  },
+  {
+    "id": "het_391",
+    "text": "''I can eat one hundred and forty-four ,'' Tom boasted grossly.",
+    "output": true,
+    "ambiguity": "The pun word 'one hundred and forty-four' supports two plausible interpretations of 'one hundred and forty-four' meaning a number and 'one hundred forty-four' meaning a person's age.",
+    "distinctiveness": "In the given sentence, the words 'I can eat' relates to the first interpretation of 'one hundred and forty-four' as a number while 'Tom boasted grossly' refers to the second interpretation of 'one hundred forty-four' as a person's age. Both of these are distinct where one is about an action and the other is about a person."
+  },
+  {
+    "id": "het_1558",
+    "text": "Our theft of raw gold from the mine site was a fiasco because, as we jumped into the getaway boat, we dropped the ore.",
+    "output": true,
+    "ambiguity": "The pun word 'ore' supports two plausible interpretations of 'ore' meaning unrefined metal and 'or' meaning a conjunction.",
+    "distinctiveness": "In the given sentence, the words 'theft', 'raw gold', 'mine site', 'jumped', 'getaway boat', 'dropped' relate to the interpretation of 'ore' as unrefined metal while 'as we', 'fiasco', and 'boat' relate to the second interpretation of 'or' as a conjunction. Both these sets of words are distinct from each other."
+  },
+  {
+    "id": "het_180",
+    "text": "Today is cancelled due to lack of interest!",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1328",
+    "text": "That's no beagle ; that's a mongrel, Tom muttered.",
+    "output": true,
+    "ambiguity": "The pun word 'beagle' supports two plausible interpretations of 'beagle' as a breed of dog and 'beagle' as a verb meaning to pursue or chase.",
+    "distinctiveness": "In the given sentence, the words 'Tom muttered' relates to the first interpretation of 'beagle' as a breed of dog while 'that's a mongrel' refers to the second interpretation of 'beagle' as a verb meaning to pursue or chase. Both of these are distinct where one is a statement about a specific breed and the other is a comment on the nature of the dog."
+  },
+  {
+    "id": "het_1237",
+    "text": "I heard about this new governing document that says people can only go to the bathroom one per day. It's called the Constipation.",
+    "output": true,
+    "ambiguity": "The pun word 'Constipation' supports two plausible interpretations of 'constipation' meaning a medical condition and 'constitution' meaning the set of principles or beliefs that govern one's actions.",
+    "distinctiveness": "In the given sentence, the words 'governing document' relates to 'constitution' while 'people can only go to the bathroom one per day' refers to the second interpretation of 'constipation'. Both of these are distinct where one refers to a governing principle and the other refers to a medical condition."
+  },
+  {
+    "id": "het_1282",
+    "text": "The humorist's favorite sandwich was smoked tongue on wry.",
+    "output": true,
+    "ambiguity": "The pun word 'wry' supports two plausible interpretations of 'wry' meaning twisted or distorted and 'try' as in an attempt.",
+    "distinctiveness": "In the given sentence, the words 'humorist' relates to 'wry' while 'favorite sandwich' refers to the second interpretation of 'try'. Both of these are distinct where one refers to a humorist's preference for food and the other refers to an action done in an attempt."
+  },
+  {
+    "id": "het_1617",
+    "text": "OLD PRAGUE RESIDENTS never die, they just Czech out.",
+    "output": true,
+    "ambiguity": "The pun word 'Czech' supports two plausible interpretations of 'Czech' meaning a nationality and 'check out' meaning to leave or pass away.",
+    "distinctiveness": "In the given sentence, the words 'Old Prague residents' relates to 'Czech' as in a nationality while 'never die' refers to the second interpretation of 'check out' meaning to pass away. Both of these are distinct where one refers to the nationality and the other refers to an action or event."
+  },
+  {
+    "id": "het_18",
+    "text": "The best things come in small packages.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_335",
+    "text": "As I revived her using mouth to mouth resuscitation, in spite of my lisp, I couldn't help noticing her beautiful breaths!",
+    "output": true,
+    "ambiguity": "The pun word 'breaths' supports two plausible interpretations of 'breaths' meaning the act of breathing and 'breasts' which is a part of the female body.",
+    "distinctiveness": "In the given sentence, the words 'revived', 'mouth to mouth resuscitation', 'lisp', and 'noticing her beautiful' relate to the first interpretation of 'breaths' while 'in spite of my lisp' refers to the second interpretation of 'breasts'. Both of these are distinct where one refers to a medical procedure and the other refers to a part of the female body."
+  },
+  {
+    "id": "het_592",
+    "text": "The cast, after the scene in the forest, took their boughs.",
+    "output": true,
+    "ambiguity": "In the given sentence, the word 'boughs' supports two plausible interpretations of 'boughs' meaning branches of a tree and 'boughs' meaning parts of a play.",
+    "distinctiveness": "In the given sentence, the words 'cast' relates to the first interpretation of 'boughs' as in branches of a tree while 'scene' refers to the second interpretation of 'boughs' as in parts of a play. Both of these are distinct where one refers to a group of actors and the other refers to a part of a performance."
+  },
+  {
+    "id": "het_675",
+    "text": "It's a lengthy article on Japanese Sword Fighters but I can Samurais it for you.",
+    "output": true,
+    "ambiguity": "The pun word 'Samurais' supports two plausible interpretations of 'Samurais' meaning skilled Japanese warriors and 'samurais' meaning to cut or trim.",
+    "distinctiveness": "In the given sentence, the words 'article' relates to 'Samurais' while 'I can' refers to the second interpretation of 'cut or trim'. Both of these are distinct where one refers to a skilled warrior and the other refers to an action done by someone."
+  },
+  {
+    "id": "het_1667",
+    "text": "Don't bite off more than you can chew.",
+    "output": false,
+    "ambiguity": "The word 'bite' does not support two plausible interpretations.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_257",
+    "text": "I've been listening to the Brandenberg Concertos, Tom barked.",
+    "output": true,
+    "ambiguity": "The pun word 'barked' supports two plausible interpretations of 'barked' meaning to make a noise with one's mouth and 'barked' as the past tense of the verb 'to bark'.",
+    "distinctiveness": "In the given sentence, the words 'listening' relates to 'Brandenberg Concertos' while 'Tom' refers to the second interpretation of 'barking' which is a sound made by dogs. Both of these are distinct where one refers to an action done in relation to music and the other refers to an action done by a person or animal."
+  },
+  {
+    "id": "het_332",
+    "text": "Because they moved into an apartment, they didn't need to cut the grass any mow.",
+    "output": true,
+    "ambiguity": "The pun word 'mow' supports two plausible interpretations of 'mow' meaning to cut down and 'moan' which is a sound of pain or sorrow.",
+    "distinctiveness": "In the given sentence, the words 'apartment' relates to 'cutting the grass' while 'they didn't need to' refers to the second interpretation of 'moan'. Both of these are distinct where one is about maintenance and the other is about a reaction."
+  },
+  {
+    "id": "het_575",
+    "text": "A police dog is often the scenter of a drug arrest.",
+    "output": false,
+    "ambiguity": "The word 'scenter' does not have any ambiguity in this sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_243",
+    "text": "Use it or lose it.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_389",
+    "text": "The astronomer made a claim about a well-known star, but it wasn't sirius.",
+    "output": true,
+    "ambiguity": "The pun word 'sirius' supports two plausible interpretations of 'sirius' as a famous star and 'serious' meaning not joking.",
+    "distinctiveness": "In the given sentence, the words 'astronomer' relates to 'star' while 'claim' refers to the second interpretation of 'serious'. Both of these are distinct where one refers to an astronomer's field of study and the other refers to a level of importance or gravity."
+  },
+  {
+    "id": "het_1260",
+    "text": "If a Monk throws a hissy fit, is it a temple tantrum?",
+    "output": true,
+    "ambiguity": "The pun word 'his' supports two plausible interpretations of 'his' meaning possessive pronoun and 'hissy' meaning a type of fit.",
+    "distinctiveness": "In the given sentence, the words 'Monk' relates to 'his' while 'throws' refers to the second interpretation of 'hissy' which is a type of fit. Both of these are distinct where one refers to a monk's possession and the other refers to an action done in anger which is throwing a fit."
+  },
+  {
+    "id": "het_689",
+    "text": "A boy who instinctively waves at people has a natural hi.",
+    "output": true,
+    "ambiguity": "The pun word 'hi' supports two plausible interpretations of 'hi' meaning a greeting and 'I' referring to the subject of the sentence.",
+    "distinctiveness": "In the given sentence, the words 'boy', 'instinctively', 'waves', 'at', 'people' relate to the first interpretation of 'hi' as a greeting while 'natural' refers to the second interpretation of 'I'."
+  },
+  {
+    "id": "het_1245",
+    "text": "Marry in haste, and repent at leisure.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_45",
+    "text": "Fashion is something that goes in one era and out the other.",
+    "output": false,
+    "ambiguity": "There is no word in the sentence that has two similarly likely interpretations.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_450",
+    "text": "My stereo's half-fixed, said Tom monotonously.",
+    "output": true,
+    "ambiguity": "The pun word 'half-fixed' supports two plausible interpretations of 'half-fixed' meaning not completely repaired and 'half-fixed' as in having a mix of both good and bad qualities.",
+    "distinctiveness": "In the given sentence, the words 'stereo' relates to 'half-fixed' while 'Tom monotonously' refers to the second interpretation of 'half-good and half-bad'. Both of these are distinct where one refers to a stereo system being not fully repaired while the other refers to Tom speaking in a monotone manner."
+  },
+  {
+    "id": "het_1589",
+    "text": "To stay out of debt, act your wage.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_308",
+    "text": "We sternly warned the circus clown not to light the fuse while we were inside the cannon, but he did it anyway-- and it really made us soar.",
+    "output": true,
+    "ambiguity": "The pun word 'fuse' supports two plausible interpretations of 'fuse' meaning a string that ignites explosives and 'fuse' meaning to become angry or upset.",
+    "distinctiveness": "In the given sentence, the words 'circus clown' relates to 'fuse' while 'inside the cannon' refers to the second interpretation of 'fuse' meaning to become angry or upset. Both of these are distinct where one refers to a circus clown's action and the other refers to an action done in anger which is lighting the fuse."
+  },
+  {
+    "id": "het_1721",
+    "text": "Cheating on a test can put honorable students in conflict with their principals.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_174",
+    "text": "7 days without prayer makes 1 weak",
+    "output": true,
+    "ambiguity": "The pun word 'days' supports two plausible interpretations of 'days' as a period of time and 'days' as in the Ten Commandments.",
+    "distinctiveness": "In the given sentence, the words 'without' relates to the first interpretation of 'days' as a period of time while 'prayer' refers to the second interpretation of 'days' as in the Ten Commandments. Both of these are distinct where one is about time duration and the other is about religious context."
+  },
+  {
+    "id": "het_412",
+    "text": "''Why shouldn't I stir my coffee with a ballpoint pen?'' Tom bickered.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_375",
+    "text": "Arriving late, Senator Kennedy slipped on a banana peel and fell in a heap, resulting in a humerus break in the midst of the subcommittee's intense discussion.",
+    "output": true,
+    "ambiguity": "The pun word 'humerus' supports two plausible interpretations of 'humerus' as a bone in the human body and 'humorous' which is related to humor.",
+    "distinctiveness": "In the given sentence, the words 'Senator Kennedy' relates to 'humerus' while 'fell in a heap' refers to the second interpretation of 'humorous'. Both of these are distinct where one refers to a Senator's bone while the other refers to an action that is humorous."
+  },
+  {
+    "id": "het_925",
+    "text": "The way to a man's heart is through his stomach.",
+    "output": true,
+    "ambiguity": "The pun word 'heart' supports two plausible interpretations of 'heart' meaning the organ and 'heart' as in romantic interest.",
+    "distinctiveness": "In the given sentence, the words 'to a man's' relates to the first interpretation of 'heart' meaning the organ while 'way' refers to the second interpretation of 'heart' as in romantic interest. Both of these are distinct where one refers to an organ and the other refers to a metaphorical expression."
+  },
+  {
+    "id": "het_221",
+    "text": "If you work in a bakery you may have to take on many roles.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1313",
+    "text": "Fortune favors the brave.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_44",
+    "text": "''Why is this telephone flex always tangled?'' asked Tom coyly.",
+    "output": true,
+    "ambiguity": "The pun word 'flex' supports two plausible interpretations of 'flex' meaning a flexible material and 'flex' as in the action of bending.",
+    "distinctiveness": "In the given sentence, the words 'telephone' relates to 'flex' meaning a flexible material while 'tangled' refers to the second interpretation of 'flex' as an action of bending. Both of these are distinct where one refers to a telephone cord and the other refers to the action of bending."
+  },
+  {
+    "id": "het_1263",
+    "text": "Joy shared, joy doubled : sorrow shared, sorrow halved.",
+    "output": true,
+    "ambiguity": "The pun word 'joy' supports two plausible interpretations of 'joy' meaning happiness and 'joy' as a verb to share something.",
+    "distinctiveness": "In the given sentence, the words 'shared' relates to the second interpretation of 'joy' as a verb while 'doubled' and 'halved' are used to describe the difference in the two interpretations."
+  },
+  {
+    "id": "het_664",
+    "text": "A guilty conscience needs no accuser.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_659",
+    "text": "Golden Rule : He who has the gold makes the rules.",
+    "output": false,
+    "ambiguity": "There is no word in the sentence that supports two plausible interpretations.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_309",
+    "text": "''I have been reading Voltaire ,'' Tom admitted candidly.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1477",
+    "text": "I'm not sure about Heisenberg, said Tom uncertainly.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_999",
+    "text": "Two wrongs don't make a right.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_918",
+    "text": "Hard words break no bones.",
+    "output": false,
+    "ambiguity": "There is no word in the sentence that has two similarly likely interpretations.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1139",
+    "text": "When the cat is away, the mice will play.",
+    "output": true,
+    "ambiguity": "The pun word 'cat' supports two plausible interpretations of 'cat' meaning a feline animal and 'caught' meaning to have in one's possession.",
+    "distinctiveness": "In the given sentence, the words 'away' relates to 'cat' while 'mice' refers to the second interpretation of 'caught'. Both of these are distinct where one refers to a feline animal while the other refers to small rodents."
+  },
+  {
+    "id": "het_1229",
+    "text": "I don't like hanging out at the pancake house, that place gives me the crepes!",
+    "output": true,
+    "ambiguity": "The pun word 'crepes' supports two plausible interpretations of 'crepes' meaning a type of French dish and 'creeps' meaning something or someone that causes discomfort or fear.",
+    "distinctiveness": "In the given sentence, the words 'pancake house' relates to 'crepes' while 'gives me the' refers to the second interpretation of 'creeps'. Both of these are distinct where one refers to a type of food and the other refers to causing discomfort or fear."
+  },
+  {
+    "id": "het_1594",
+    "text": "The stern pirate captain's policy of forcing the worst members of his crew to walk the plank went swimmingly.",
+    "output": true,
+    "ambiguity": "The pun word 'plank' supports two plausible interpretations of 'plank' meaning a wooden board and 'plank' meaning to force someone to walk off a narrow beam into the water.",
+    "distinctiveness": "In the given sentence, the words 'stern pirate captain' relates to 'plank' as a wooden board while 'policy of forcing' refers to the second interpretation of 'plank' meaning to force someone to walk off a narrow beam into the water. Both of these are distinct where one is an object and the other is an action."
+  },
+  {
+    "id": "het_1009",
+    "text": "How can you be so deaf with those huge ears?",
+    "output": true,
+    "ambiguity": "The pun word 'deaf' supports two plausible interpretations of 'deaf' meaning unable to hear and 'def' meaning to prevent or hinder.",
+    "distinctiveness": "In the given sentence, the words 'huge ears' relates to the second interpretation of 'def' where it is used in a humorous way to describe someone's large ears."
+  },
+  {
+    "id": "het_869",
+    "text": "''Someone bumped into me while I was brushing my teeth ,'' said Tom with a gleam in his eye.",
+    "output": true,
+    "ambiguity": "The pun word 'bumped' supports two plausible interpretations of 'bumping' as an action and 'bumps' as lumps on the skin.",
+    "distinctiveness": "In the given sentence, the words 'brushing' relates to the first interpretation of 'bumping' while 'teeth' refers to the second interpretation of 'bumps' on the skin."
+  },
+  {
+    "id": "het_1299",
+    "text": "After Jimmy swallowed a live earthworm, he sat waiting with baited breath to see if he'd get sick.",
+    "output": true,
+    "ambiguity": "The pun word 'earthworm' supports two plausible interpretations of 'earthworm' meaning a type of worm and 'earthworm' meaning a person who works on the earth.",
+    "distinctiveness": "In the given sentence, the words 'Jimmy', 'swallowed', 'live', 'earthworm', 'sat', 'waiting', 'baited breath', 'to see if he'd get sick' are distinct and provide context to both interpretations."
+  },
+  {
+    "id": "het_903",
+    "text": "As Sir Galahad lifted the sacred chalice, the bottom fell out. He had indeed found the holey Grail.",
+    "output": true,
+    "ambiguity": "The pun word 'fell' supports two plausible interpretations of 'fell' meaning to drop down and 'fell' as in a tree that has been cut down.",
+    "distinctiveness": "In the given sentence, the words 'sacred chalice' relates to the first interpretation of 'fell' while 'holey Grail' refers to the second interpretation of 'fell' as in a tree that has been cut down. Both of these are distinct where one is about an object dropping and the other is about a religious artifact."
+  },
+  {
+    "id": "het_1595",
+    "text": "The magician who loved his chocolate could perform a lot of Twix.",
+    "output": true,
+    "ambiguity": "The pun word 'Twix' supports two plausible interpretations of 'Twix' meaning a popular chocolate bar and 'twice' meaning to do something two times.",
+    "distinctiveness": "In the given sentence, the words 'magician', 'chocolate', 'loved', 'perform', 'a lot of' relate to the first interpretation of 'Twix' as a chocolate bar while 'could' and 'Twix' are related to the second interpretation of 'twice'."
+  },
+  {
+    "id": "het_1709",
+    "text": "Shotgun wedding : A case of wife or death.",
+    "output": true,
+    "ambiguity": "The pun word 'shotgun' supports two plausible interpretations of 'shotgun' as a firearm and 'shot gun' as in getting married quickly.",
+    "distinctiveness": "In the given sentence, the words 'wedding' relates to 'shotgun' while 'case' refers to the second interpretation of 'quickly'. Both of these are distinct where one refers to an event and the other refers to a speed."
+  },
+  {
+    "id": "het_1576",
+    "text": "To stay fit the priest exorcises.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_416",
+    "text": "50 Shades of Grace",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1250",
+    "text": "''That's nothing!'' said Tom naughtily.",
+    "output": false,
+    "ambiguity": "There is no word in the sentence that has two similarly likely interpretations.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_384",
+    "text": "There was a lot of equestrian paraphernalia at the bridle shower.",
+    "output": true,
+    "ambiguity": "The pun word 'equestrian' supports two plausible interpretations of 'equestrian' meaning related to horse riding and 'estate' meaning land or property.",
+    "distinctiveness": "In the given sentence, the words 'lot', 'paraphernalia', 'bridle', 'shower' are distinct from each other and provide support for both interpretations. The first interpretation is related to horse riding while the second interpretation refers to a land or property shower."
+  },
+  {
+    "id": "het_366",
+    "text": "I'd really like to know whether her collapse was due to a serious illness or whether it was one of her usual feints.",
+    "output": false,
+    "ambiguity": "The word 'collapse' does have ambiguity here where it supports two plausible interpretations of collapse as in a sudden loss of consciousness and collapse as in the end of something.",
+    "distinctiveness": "There are no other words in the sentence that provide distinctiveness to the two interpretations, the sentence is not a pun."
+  },
+  {
+    "id": "het_748",
+    "text": "I'm writing a book. I've got the page numbers done.",
+    "output": false,
+    "ambiguity": "There is no word in the sentence that has two similarly likely interpretations.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_501",
+    "text": "''I was the first to climb Mount Everest ,'' said Tom hilariously.",
+    "output": false,
+    "ambiguity": "There is no word in the sentence that has two similarly likely interpretations.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_40",
+    "text": "''Be still my hart'' she murmured, thinking how magnificent and stag-like he was.",
+    "output": true,
+    "ambiguity": "The pun word 'hart' supports two plausible interpretations of 'hart' meaning a male deer and 'heart' meaning the organ in one's chest.",
+    "distinctiveness": "In the given sentence, the words 'magnificent' relates to the first interpretation of 'hart' as a male deer while 'stag-like' refers to the second interpretation of 'heart' as an organ in one's chest. Both of these are distinct where one refers to a physical attribute and the other refers to an emotional state."
+  },
+  {
+    "id": "het_1390",
+    "text": "Some orchestra conductors make their mark in the world of opera. They were in the right aria at the right time.",
+    "output": true,
+    "ambiguity": "The pun word 'aria' supports two plausible interpretations of 'aria' meaning a musical composition and 'aria' as in the Italian word for air.",
+    "distinctiveness": "In the given sentence, the words 'orchestra conductors' relates to 'opera' while 'right time' refers to the second interpretation of 'air'. Both of these are distinct where one refers to a musical composition and the other refers to a specific moment in time."
+  },
+  {
+    "id": "het_1553",
+    "text": "A pet store had a bird contest with no perches necessary.",
+    "output": true,
+    "ambiguity": "The pun word 'perches' supports two plausible interpretations of 'perches' meaning bird stands and 'perishes' meaning to die.",
+    "distinctiveness": "In the given sentence, the words 'bird contest' relates to 'perches' while 'no' refers to the second interpretation of 'perishes'. Both of these are distinct where one is about a competition for birds and the other is about dying."
+  },
+  {
+    "id": "het_1047",
+    "text": "My name is Rex. I own a junk yard.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_327",
+    "text": "Any sufficiently advanced bug will become a feature.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1222",
+    "text": "Coins are mint to be.",
+    "output": false,
+    "ambiguity": "The word 'mint' does not have any ambiguity in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1345",
+    "text": "When the fog burns off it won't be mist.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_448",
+    "text": "Governments absorb 100x their weight in excess liberties.",
+    "output": false,
+    "ambiguity": "The word 'absorb' does not have any ambiguity in this sentence.",
+    "distinctiveness": "There are no other words in the sentence that provide distinctiveness to the interpretation of 'absorb'."
+  },
+  {
+    "id": "het_290",
+    "text": "First Rule of Intelligent Tinkering-Save all parts",
+    "output": false,
+    "ambiguity": "There is no word in the sentence that has two similarly likely interpretations.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1520",
+    "text": "In the land of the blind, the one-eyed man is king.",
+    "output": true,
+    "ambiguity": "The pun word 'blind' supports two plausible interpretations of 'blind' meaning unable to see and 'blind' as a location.",
+    "distinctiveness": "In the given sentence, the words 'land' relates to the first interpretation of 'blind' while 'one-eyed man' refers to the second interpretation of 'blind' as a place. Both of these are distinct where one refers to a state of being unable to see and the other refers to a geographical location."
+  },
+  {
+    "id": "het_183",
+    "text": "Before the golfer finished drinking the iced, brewed beverage he dropped his tee on the cart path.",
+    "output": true,
+    "ambiguity": "The pun word 'iced' supports two plausible interpretations of 'iced' meaning cold and 'ice' as in a solid form of water.",
+    "distinctiveness": "In the given sentence, the words 'golfer', 'drinking', 'brewed beverage', 'dropped', and 'tee' relate to the first interpretation of 'iced' as a cold beverage. The word 'cart path' relates to the second interpretation of 'ice' as in solid form of water."
+  },
+  {
+    "id": "het_935",
+    "text": "''This Bud's for you ,'' said Tom lightly.",
+    "output": true,
+    "ambiguity": "The pun word 'Bud's' supports two plausible interpretations of 'Bud' as in a brand of beer and 'bud' as in a young plant or shoot.",
+    "distinctiveness": "In the given sentence, the words 'for you' relates to the first interpretation of 'Bud' meaning a brand of beer while the word 'lightly' refers to the second interpretation of 'bud' as in a young plant or shoot. Both of these are distinct where one refers to offering a beer and the other refers to a casual or easy manner."
+  },
+  {
+    "id": "het_75",
+    "text": "When the florist was running behind in delivering the roses, he had to put the petal to the metal.",
+    "output": true,
+    "ambiguity": "The pun word 'petal' supports two plausible interpretations of 'petal' meaning a part of a flower and 'pedal' meaning an accelerator in a car.",
+    "distinctiveness": "In the given sentence, the words 'florist' relates to 'petal' while 'put' refers to the second interpretation of 'pedal'. Both of these are distinct where one is related to a flower shop and the other refers to an action done in urgency which is putting your foot on the pedal."
+  },
+  {
+    "id": "het_571",
+    "text": "The winter drive-by shooting was a slay ride.",
+    "output": true,
+    "ambiguity": "The pun word 'drive-by' supports two plausible interpretations of 'drive-by' meaning a car driving past and 'drive by' meaning to control or operate.",
+    "distinctiveness": "In the given sentence, the words 'winter', 'shooting', 'slay' and 'ride' provide distinctiveness to the two interpretations. 'Winter' relates to the first interpretation of 'drive-by' as a car driving past in cold weather while 'shooting' and 'slay' relate to the second interpretation of 'drive by' meaning to control or operate."
+  },
+  {
+    "id": "het_1582",
+    "text": "I was caught studying the periodic table in English class. It was an elementary mistake.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_508",
+    "text": "I need to go on a diet, said Tom wastefully.",
+    "output": true,
+    "ambiguity": "The pun word 'wastefully' supports two plausible interpretations of 'wastefully' meaning unnecessarily and 'wastefully' as an adverb related to waste management.",
+    "distinctiveness": "In the given sentence, the words 'I need to go on a diet' relates to the first interpretation while 'Tom' refers to the second interpretation. Both of these are distinct where one is about personal health and the other is about Tom's relation to waste."
+  },
+  {
+    "id": "het_1550",
+    "text": "We now return to your previously-scheduled topics.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1513",
+    "text": "A short cut is the longest distance between two points.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1196",
+    "text": "He that will thrive must first ask his wife.",
+    "output": false,
+    "ambiguity": "The word 'wife' does not have any ambiguous interpretations.",
+    "distinctiveness": "There are no other words in the sentence that provide distinctiveness to different interpretations."
+  },
+  {
+    "id": "het_58",
+    "text": "When asked to picture the perfect modern defensive weapon the Claymore springs to mine.",
+    "output": false,
+    "ambiguity": "The word 'Claymore' does not have any ambiguous interpretations.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_512",
+    "text": "A man too busy to take care of his health is like a mechanic too busy to take care of his tools.",
+    "output": true,
+    "ambiguity": "The pun word 'too' supports two plausible interpretations of 'too' meaning 'also' and 'busy'.",
+    "distinctiveness": "In the given sentence, the words 'man', 'health', 'mechanic', 'tools' are distinctly related to the two interpretations from each other."
+  },
+  {
+    "id": "het_1056",
+    "text": "Today a truck hit my car. I wasn't hurt but I got the freight of my life.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1468",
+    "text": "When I suffered a groin injury I became quite testy.",
+    "output": true,
+    "ambiguity": "The pun word 'testy' supports two plausible interpretations of 'testy' meaning irritable and 'testy' as in related to testing.",
+    "distinctiveness": "In the given sentence, the words 'groin injury' relates to 'testy' while 'became' refers to the second interpretation of 'testing'. Both of these are distinct where one refers to an emotional state and the other refers to a process of examination."
+  },
+  {
+    "id": "het_749",
+    "text": "A pie went for an audition for a part in a play. The casting agent told him he performed well, but it was more of a sausage roll.",
+    "output": true,
+    "ambiguity": "The pun word 'pie' supports two plausible interpretations of 'pie' meaning a baked dish and 'pie' as in the person's name.",
+    "distinctiveness": "In the given sentence, the words 'audition', 'part', 'play', 'casting agent', 'told him', 'performed well', 'more of a sausage roll' are distinct from each other and support the two interpretations."
+  },
+  {
+    "id": "het_863",
+    "text": "Do hotel managers get board with their jobs?",
+    "output": true,
+    "ambiguity": "The pun word 'board' supports two plausible interpretations of 'board' meaning a group of people who govern an organization and 'board' as in the wooden surface on which pieces are moved during a game.",
+    "distinctiveness": "In the given sentence, the words 'hotel managers' relates to 'board' meaning a group of people who govern an organization while 'get board with their jobs' refers to the second interpretation of 'board' as in the wooden surface on which pieces are moved during a game. Both of these are distinct where one is about managing a hotel and the other is about being bored with their job."
+  },
+  {
+    "id": "het_445",
+    "text": "The nudist defended himself by citing his Constitutional right to bare arms.",
+    "output": true,
+    "ambiguity": "In the given sentence, the word 'bare' supports two plausible interpretations of 'bare' meaning naked and 'bare' as in unarmed.",
+    "distinctiveness": "The words 'nudist', 'Constitutional right', and 'arms' provide distinctiveness to the two interpretations. The first interpretation relates to a nudist being naked while the second interpretation refers to a Constitutional right to bear arms."
+  },
+  {
+    "id": "het_530",
+    "text": "A tangled bell ringer tolled himself off.",
+    "output": true,
+    "ambiguity": "The pun word 'tangled' supports two plausible interpretations of 'tangled' meaning a mess and 'tolled' meaning to ring a bell.",
+    "distinctiveness": "In the given sentence, the words 'bell ringer' relates to 'tangled' while 'himself off' refers to the second interpretation of 'tolled' which is an action done by oneself."
+  },
+  {
+    "id": "het_614",
+    "text": "This, too, shall pass.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1154",
+    "text": "Don't have too many irons in the fire.",
+    "output": false,
+    "ambiguity": "The word 'irons' does not support two plausible interpretations.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1272",
+    "text": "Procrastinators suffers from a hardening of the oughteries.",
+    "output": true,
+    "ambiguity": "The pun word 'oughteries' supports two plausible interpretations of 'oughteries' meaning either 'responsibilities' or 'arteries'.",
+    "distinctiveness": "In the given sentence, the words 'Procrastinators' relates to 'responsibilities' while 'hardening' refers to the second interpretation of 'arteries'. Both of these are distinct where one refers to a lack of action due to delaying tasks and the other refers to a medical condition."
+  },
+  {
+    "id": "het_1397",
+    "text": "My name is Shelly, I'm an expert on mollusks",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_837",
+    "text": "Drinking too much of a certain potent potable may require a leave of absinthe.",
+    "output": true,
+    "ambiguity": "The pun word 'potable' supports two plausible interpretations of 'potable' meaning drinkable and 'potable' as in the alcoholic beverage 'absinthe'.",
+    "distinctiveness": "In the given sentence, the words 'certain', 'potent', 'potable' and 'leave' relate to the interpretation of 'potable' as a drinkable substance while 'of a certain potent potable' refers to the alcoholic beverage 'absinthe'. Both interpretations are distinct."
+  },
+  {
+    "id": "het_413",
+    "text": "It's not a BUG, it's an undocumented feature!",
+    "output": true,
+    "ambiguity": "The pun word 'BUG' supports two plausible interpretations of 'BUG' meaning a software error and 'bug' referring to an insect.",
+    "distinctiveness": "In the given sentence, the word 'feature' relates to the second interpretation of 'bug' as a feature or characteristic of a system. The word 'undocumented' supports the first interpretation of 'bug' as an undiscovered or unrecorded error."
+  },
+  {
+    "id": "het_344",
+    "text": "If jokes could be owned like land, then no good pun would go undeeded.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_760",
+    "text": "After being treated by an optometrist, the bird seed.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1168",
+    "text": "When I was starving to death, my children gave me a raisin to keep on living.",
+    "output": true,
+    "ambiguity": "The pun word 'raisin' supports two plausible interpretations of 'raisin' meaning a dried grape and 'rising' meaning an increase or upwards movement.",
+    "distinctiveness": "In the given sentence, the words 'starving to death' relates to 'raisin' while 'children gave me' refers to the second interpretation of 'rising'. Both of these are distinct where one is about a person's physical state and the other is about an action done by others."
+  },
+  {
+    "id": "het_891",
+    "text": "Dr. Jekyll's more successful second formula turned him into a world-class sprinter rather than a violent psychopath, proving that you can run but you can't always Hyde.",
+    "output": true,
+    "ambiguity": "The pun word 'Hyde' supports two plausible interpretations of 'Hyde' meaning Dr. Jekyll's alter ego and the act of hiding or running away.",
+    "distinctiveness": "In the given sentence, the words 'Dr. Jekyll' relates to 'Hyde' while 'you can run but you can't always' refers to the second interpretation of 'running away'. Both of these are distinct where one refers to a transformation into an alter ego and the other refers to the act of running away."
+  },
+  {
+    "id": "het_452",
+    "text": "First things first.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_826",
+    "text": "If you write bad things about me I am libel to sue you.",
+    "output": true,
+    "ambiguity": "The pun word 'libel' supports two plausible interpretations of 'libel' meaning a defamatory statement and 'libel' as in being susceptible to legal action.",
+    "distinctiveness": "In the given sentence, the words 'bad things' relates to the first interpretation of 'defamatory statement' while 'sue you' refers to the second interpretation of 'legal action'. Both of these are distinct where one is a type of statement and the other is an action taken in response."
+  },
+  {
+    "id": "het_1451",
+    "text": "Answers : $ 1. Correct answers : $ 5. Dumb looks : Free!",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  },
+  {
+    "id": "het_1763",
+    "text": "Treat yourself to one of our Sundays.",
+    "output": false,
+    "ambiguity": "There is no ambiguous word in the sentence.",
+    "distinctiveness": "Not applicable"
+  }
+]

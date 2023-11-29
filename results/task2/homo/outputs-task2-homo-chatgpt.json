@@ -1,0 +1,2816 @@
+[
+  {
+    "text": "Bring me a rubber band and make it snappy!",
+    "pun_word": "snappy",
+    "target_word": "snappy",
+    "source_sense": "rubber band",
+    "target_sense": "quick"
+  },
+  {
+    "text": "Convicts are committed people.",
+    "pun_word": "committed",
+    "target_word": "committed",
+    "source_sense": "convicts",
+    "target_sense": "committed;people"
+  },
+  {
+    "text": "When the town removed billboards, they told people that's how it was designed.",
+    "pun_word": "billboards",
+    "target_word": "boards",
+    "source_sense": "town",
+    "target_sense": "removed;designed"
+  },
+  {
+    "text": "So, how's the flower business going? Oh, it's blossoming quite nicely.",
+    "pun_word": "blossoming",
+    "target_word": "blossoming",
+    "source_sense": "flower business",
+    "target_sense": "quite;nicely"
+  },
+  {
+    "text": "Waiter, there's a fly in my soup! \" I know. It gives you a nice buzz doesn't it? ''",
+    "pun_word": "buzz",
+    "target_word": "buzz",
+    "source_sense": "fly",
+    "target_sense": "nice"
+  },
+  {
+    "text": "Some shoe sales have a good selection to boot.",
+    "pun_word": "boot",
+    "target_word": "boot",
+    "source_sense": "shoe sales",
+    "target_sense": "good;selection"
+  },
+  {
+    "text": "I can do an excellent impression of Sinatra, said Tom, being perfectly frank.",
+    "pun_word": "frank",
+    "target_word": "frank",
+    "source_sense": "Sinatra",
+    "target_sense": "being;perfectly"
+  },
+  {
+    "text": "OLD MUFFLERS never die they just get exhausted.",
+    "pun_word": "exhausted",
+    "target_word": "exhausted",
+    "source_sense": "mufflers",
+    "target_sense": "never;die;just;get"
+  },
+  {
+    "text": "I was going to buy a book on phobias, but I was afraid it wouldn't help me.",
+    "pun_word": "phobias",
+    "target_word": "phobias",
+    "source_sense": "buy;a;book;on",
+    "target_sense": "afraid;help"
+  },
+  {
+    "text": "The math professor went crazy with the blackboard. He did a number on it.",
+    "pun_word": "number",
+    "target_word": "number",
+    "source_sense": "professor",
+    "target_sense": "crazy;blackboard"
+  },
+  {
+    "text": "Everyday is a gift from god, that is why it is called the present",
+    "pun_word": "present",
+    "target_word": "present",
+    "source_sense": "gift",
+    "target_sense": "called;the"
+  },
+  {
+    "text": "When Irish boys carry their little brothers, they get a Pat on the back.",
+    "pun_word": "Pat",
+    "target_word": "pat",
+    "source_sense": "Irish boys",
+    "target_sense": "carry;back"
+  },
+  {
+    "text": "Iron was discovered because someone smelt it.",
+    "pun_word": "smelt",
+    "target_word": "smelt",
+    "source_sense": "discovered",
+    "target_sense": "smelled;it"
+  },
+  {
+    "text": "He was the most dishonest and cleverest card shark in the city, the police said he will be dealt with.",
+    "pun_word": "dealt",
+    "target_word": "dealt",
+    "source_sense": "card shark",
+    "target_sense": "police;said"
+  },
+  {
+    "text": "My name is Sandy. I'm a lifeguard.",
+    "pun_word": "Sandy",
+    "target_word": "sandy",
+    "source_sense": "lifeguard",
+    "target_sense": "name"
+  },
+  {
+    "text": "The melody kept on playing until it became a strain.",
+    "pun_word": "strain",
+    "target_word": "strain",
+    "source_sense": "melody",
+    "target_sense": "playing;melody"
+  },
+  {
+    "text": "OLD WATCHMAKERS never die, they just wind down.",
+    "pun_word": "wind",
+    "target_word": "wind",
+    "source_sense": "watchmakers",
+    "target_sense": "down"
+  },
+  {
+    "text": "Bike sales go in cycles.",
+    "pun_word": "cycles",
+    "target_word": "cycles",
+    "source_sense": "bike sales",
+    "target_sense": "repetitive;periods"
+  },
+  {
+    "text": "Winning candy as a prize is always a sweet victory.",
+    "pun_word": "sweet",
+    "target_word": "sweet",
+    "source_sense": "victory",
+    "target_sense": "candy"
+  },
+  {
+    "text": "Young women who are mathematics professors closely watch their figures.",
+    "pun_word": "figures",
+    "target_word": "figures",
+    "source_sense": "mathematics professors",
+    "target_sense": "closely;watch"
+  },
+  {
+    "text": "Politicians get onto the merry-go-round and then put a spin on it.",
+    "pun_word": "spin",
+    "target_word": "spin",
+    "source_sense": "politicians",
+    "target_sense": "merry-go-round;put"
+  },
+  {
+    "text": "To teach someone how to build a compass you have to be good at giving directions.",
+    "pun_word": "compass",
+    "target_word": "compass",
+    "source_sense": "teach;build",
+    "target_sense": "giving;directions"
+  },
+  {
+    "text": "Even the best bird dog is only good to a point.",
+    "pun_word": "point",
+    "target_word": "point",
+    "source_sense": "bird dog",
+    "target_sense": "good;to;a"
+  },
+  {
+    "text": "I went to an invisible fairground but didn't think it was very good. I just couldn't see the attraction.",
+    "pun_word": "invisible",
+    "target_word": "invisible",
+    "source_sense": "fairground",
+    "target_sense": "see"
+  },
+  {
+    "text": "For a chronically absent employee : It seemed her career was just taking off.",
+    "pun_word": "taking",
+    "target_word": "taking",
+    "source_sense": "career",
+    "target_sense": "off"
+  },
+  {
+    "text": "A manufacturer that made lamps gave their employees a light workload.",
+    "pun_word": "light",
+    "target_word": "light",
+    "source_sense": "manufacturer",
+    "target_sense": "made;lamps;workload"
+  },
+  {
+    "text": "The trapeze artist had to buy his own safety equipment. Every Friday he drew his net wages.",
+    "pun_word": "net",
+    "target_word": "net",
+    "source_sense": "trapeze;artist",
+    "target_sense": "safety;equipment"
+  },
+  {
+    "text": "A farmer with a rip in his clothes has an overall problem.",
+    "pun_word": "overall",
+    "target_word": "overall",
+    "source_sense": "farmer",
+    "target_sense": "ripped;clothes"
+  },
+  {
+    "text": "Gravity, it's always putting everyone down.",
+    "pun_word": "down",
+    "target_word": "down",
+    "source_sense": "gravity",
+    "target_sense": "putting;everyone"
+  },
+  {
+    "text": "He had a difficult time bouncing back from his bungee cord accident.",
+    "pun_word": "bouncing",
+    "target_word": "bouncing",
+    "source_sense": "rebounding",
+    "target_sense": "difficult;time"
+  },
+  {
+    "text": "I went to the theatre, it looked a bit suspicious. I reckon the whole thing was staged.",
+    "pun_word": "staged",
+    "target_word": "staged",
+    "source_sense": "theatre",
+    "target_sense": "suspicious;whole;thing"
+  },
+  {
+    "text": "Heart surgeons never bypass a good opportunity.",
+    "pun_word": "bypass",
+    "target_word": "bypass",
+    "source_sense": "surgeons",
+    "target_sense": "never;opportunity"
+  },
+  {
+    "text": "' Change the channel'she said remotely.",
+    "pun_word": "remotely",
+    "target_word": "remotely",
+    "source_sense": "said",
+    "target_sense": "change;the;channel"
+  },
+  {
+    "text": "The mathematician worked at home because he only functioned in his domain.",
+    "pun_word": "functioned",
+    "target_word": "function",
+    "source_sense": "mathematician",
+    "target_sense": "worked;domain"
+  },
+  {
+    "text": "My name is John. I'm a plumber",
+    "pun_word": "plumber",
+    "target_word": "plumber",
+    "source_sense": "John",
+    "target_sense": "plumber"
+  },
+  {
+    "text": "He was facinated by his new welding job. It was riveting.",
+    "pun_word": "riveting",
+    "target_word": "riveting",
+    "source_sense": "welding",
+    "target_sense": "fascinated"
+  },
+  {
+    "text": "OLD BASKETBALL PLAYERS never die they just go on dribbling.",
+    "pun_word": "dribbling",
+    "target_word": "dribbling",
+    "source_sense": "basketball players",
+    "target_sense": "die;go on"
+  },
+  {
+    "text": "Plumbers often have to tap their natural abilities.",
+    "pun_word": "tap",
+    "target_word": "tap",
+    "source_sense": "plumbers",
+    "target_sense": "often;natural;abilities"
+  },
+  {
+    "text": "Henry perfected the Ford down to a T.",
+    "pun_word": "T",
+    "target_word": "T",
+    "source_sense": "Ford",
+    "target_sense": "perfected"
+  },
+  {
+    "text": "OLD PILOTS never die, they just get more turbulent.",
+    "pun_word": "turbulent",
+    "target_word": "turbulent",
+    "source_sense": "pilots",
+    "target_sense": "more"
+  },
+  {
+    "text": "Basketball players are always bouncing ideas off each other.",
+    "pun_word": "bouncing",
+    "target_word": "bouncing",
+    "source_sense": "basketball players",
+    "target_sense": "ideas;off"
+  },
+  {
+    "text": "Conjoined twins aren't the only twins with special connections.",
+    "pun_word": "twins",
+    "target_word": "twins",
+    "source_sense": "conjoined",
+    "target_sense": "only;special;connections"
+  },
+  {
+    "text": "When the spice ships used to bring goods to the king the captain was peppered with compliments.",
+    "pun_word": "peppered",
+    "target_word": "peppered",
+    "source_sense": "spice ships",
+    "target_sense": "compliments"
+  },
+  {
+    "text": "After he bought a mirror he became very reflective.",
+    "pun_word": "reflective",
+    "target_word": "reflective",
+    "source_sense": "mirror",
+    "target_sense": "became;very"
+  },
+  {
+    "text": "Love can be a touchy subject.",
+    "pun_word": "touchy",
+    "target_word": "touchy",
+    "source_sense": "love",
+    "target_sense": "subject"
+  },
+  {
+    "text": "He sold candy and chocolate. A lot of girls were sweet on him.",
+    "pun_word": "sweet",
+    "target_word": "sweet",
+    "source_sense": "candy;chocolate",
+    "target_sense": "girls;on;him"
+  },
+  {
+    "text": "My name is Cliff. I'm a mountaineer.",
+    "pun_word": "Cliff",
+    "target_word": "cliff",
+    "source_sense": "mountaineer",
+    "target_sense": "mountaineer"
+  },
+  {
+    "text": "Upon discovering her children playing with matches their mother was flaming mad.",
+    "pun_word": "flaming",
+    "target_word": "flaming",
+    "source_sense": "angry",
+    "target_sense": "playing;with;matches"
+  },
+  {
+    "text": "He bought a donkey because he thought he might get a kick out of it.",
+    "pun_word": "kick",
+    "target_word": "kick",
+    "source_sense": "donkey",
+    "target_sense": "bought;thought;might;get"
+  },
+  {
+    "text": "There was a guy who was fired from the orange juice factory for lack of concentration.",
+    "pun_word": "concentration",
+    "target_word": "concentration",
+    "source_sense": "fired",
+    "target_sense": "orange;juice;factory"
+  },
+  {
+    "text": "A lovely lady who lost her watch became a timeless beauty.",
+    "pun_word": "watch",
+    "target_word": "watch",
+    "source_sense": "lost",
+    "target_sense": "timeless;beauty"
+  },
+  {
+    "text": "The cannibal passed his brother in the woods.",
+    "pun_word": "passed",
+    "target_word": "passed",
+    "source_sense": "cannibal",
+    "target_sense": "overtook;deceased"
+  },
+  {
+    "text": "An hobbituary to Tolkien appeared in each of the major newspapers, all had a familiar ring to them.",
+    "pun_word": "ring",
+    "target_word": "ring",
+    "source_sense": "appeared;hobbituary",
+    "target_sense": "familiar"
+  },
+  {
+    "text": "Cousteau was submerged in his work.",
+    "pun_word": "submerged",
+    "target_word": "submerged",
+    "source_sense": "immersed",
+    "target_sense": "work"
+  },
+  {
+    "text": "''I told you not to ride that horse ,\" Tom nagged.",
+    "pun_word": "nagged",
+    "target_word": "nagged",
+    "source_sense": "complained",
+    "target_sense": "told;you;not;to;ride;that;horse"
+  },
+  {
+    "text": "I've passed the exam this time, Tom remarked.",
+    "pun_word": "passed",
+    "target_word": "passed",
+    "source_sense": "exam",
+    "target_sense": "exam;time"
+  },
+  {
+    "text": "For a chemist disappointed in an experiment the reaction was on his face.",
+    "pun_word": "reaction",
+    "target_word": "reaction",
+    "source_sense": "chemist",
+    "target_sense": "disappointed;experiment"
+  },
+  {
+    "text": "Wal-Mart isn't the only saving place!",
+    "pun_word": "saving",
+    "target_word": "saving",
+    "source_sense": "Wal-Mart",
+    "target_sense": "money;rescue"
+  },
+  {
+    "text": "If you\u2019re looking for a sign from god, this is it.",
+    "pun_word": "sign",
+    "target_word": "sign",
+    "source_sense": "looking;for;a",
+    "target_sense": "god;it"
+  },
+  {
+    "text": "OLD BUS DRIVERS never die, they just take a turn for the worse.",
+    "pun_word": "turn",
+    "target_word": "turn",
+    "source_sense": "bus drivers",
+    "target_sense": "take;a;worse"
+  },
+  {
+    "text": "How does a card player party? They shuffle.",
+    "pun_word": "shuffle",
+    "target_word": "shuffle",
+    "source_sense": "card player",
+    "target_sense": "party"
+  },
+  {
+    "text": "Those who want to paint polka-dots have to find a good spot.",
+    "pun_word": "spot",
+    "target_word": "spot",
+    "source_sense": "place",
+    "target_sense": "paint;polka-dots"
+  },
+  {
+    "text": "A boxer who wants to get married has the ring to worry about.",
+    "pun_word": "ring",
+    "target_word": "ring",
+    "source_sense": "boxer",
+    "target_sense": "married;worry"
+  },
+  {
+    "text": "I'm dying, Tom croaked.",
+    "pun_word": "croaked",
+    "target_word": "croaked",
+    "source_sense": "dying",
+    "target_sense": "said"
+  },
+  {
+    "text": "The phone call interrupted my nap, and I never did get the rest.",
+    "pun_word": "rest",
+    "target_word": "rest",
+    "source_sense": "nap",
+    "target_sense": "never;did;get"
+  },
+  {
+    "text": "She was only a Gardener's daughter, but she knows all the rakes.",
+    "pun_word": "rakes",
+    "target_word": "rakes",
+    "source_sense": "gardener's daughter",
+    "target_sense": "knows;all;the"
+  },
+  {
+    "text": "During branding cowboys have sore calves.",
+    "pun_word": "calves",
+    "target_word": "calves",
+    "source_sense": "cowboys",
+    "target_sense": "branding;sore"
+  },
+  {
+    "text": "Audubon said he'd have to wing it.",
+    "pun_word": "wing",
+    "target_word": "wing",
+    "source_sense": "Audubon",
+    "target_sense": "have;to"
+  },
+  {
+    "text": "My father slept under the bed, I think he was a little potty.",
+    "pun_word": "potty",
+    "target_word": "potty",
+    "source_sense": "father",
+    "target_sense": "crazy"
+  },
+  {
+    "text": "OLD WHEELS never die they just get retired.",
+    "pun_word": "wheels",
+    "target_word": "wheels",
+    "source_sense": "old",
+    "target_sense": "retired"
+  },
+  {
+    "text": "We are overdressed when we are wrapped up in ourselves.",
+    "pun_word": "wrapped",
+    "target_word": "wrapped",
+    "source_sense": "overdressed",
+    "target_sense": "up;in"
+  },
+  {
+    "text": "Sign at a deer crossing : The Buck Stops Here.",
+    "pun_word": "Buck",
+    "target_word": "buck",
+    "source_sense": "deer",
+    "target_sense": "stops;here"
+  },
+  {
+    "text": "Eve taught us it\u2019s okay to take a little ribbing",
+    "pun_word": "ribbing",
+    "target_word": "ribbing",
+    "source_sense": "teaching",
+    "target_sense": "okay;take;little"
+  },
+  {
+    "text": "Nobel got a big bang out of it.",
+    "pun_word": "bang",
+    "target_word": "bang",
+    "source_sense": "Nobel",
+    "target_sense": "explosion;enjoyed"
+  },
+  {
+    "text": "I think a job as a shoe salesmen would be your best fit.",
+    "pun_word": "fit",
+    "target_word": "fit",
+    "source_sense": "shoe",
+    "target_sense": "best"
+  },
+  {
+    "text": "The forecaster was away because he was under the weather.",
+    "pun_word": "weather",
+    "target_word": "weather",
+    "source_sense": "forecaster",
+    "target_sense": "away;under"
+  },
+  {
+    "text": "A waiter who played tennis was great at serving.",
+    "pun_word": "serving",
+    "target_word": "serving",
+    "source_sense": "tennis",
+    "target_sense": "waiter"
+  },
+  {
+    "text": "I hate it when motorcyclists hog the road.",
+    "pun_word": "hog",
+    "target_word": "hog",
+    "source_sense": "motorcyclists",
+    "target_sense": "road"
+  },
+  {
+    "text": "OLD TREE SURGEONS never die, they just pine away.",
+    "pun_word": "pine",
+    "target_word": "pine",
+    "source_sense": "tree",
+    "target_sense": "die"
+  },
+  {
+    "text": "Doctor, Doctor, my hair is coming out. What can you give me to keep it in?-A cigar box. Next.",
+    "pun_word": "hair",
+    "target_word": "hair",
+    "source_sense": "coming;out",
+    "target_sense": "keep;it;in"
+  },
+  {
+    "text": "They argued about their vacation and finally stayed at the last resort.",
+    "pun_word": "resort",
+    "target_word": "resort",
+    "source_sense": "vacation",
+    "target_sense": "last"
+  },
+  {
+    "text": "Oh what a tangled web we weave. On the Internet.",
+    "pun_word": "web",
+    "target_word": "web",
+    "source_sense": "tangled",
+    "target_sense": "Internet"
+  },
+  {
+    "text": "Lumberjacks have to keep problem logs.",
+    "pun_word": "logs",
+    "target_word": "logs",
+    "source_sense": "lumberjacks",
+    "target_sense": "keep;problem"
+  },
+  {
+    "text": "A little boy fired his light-colored crayons because they wouldn't show up.",
+    "pun_word": "fired",
+    "target_word": "fired",
+    "source_sense": "little boy",
+    "target_sense": "dismissed;light-colored"
+  },
+  {
+    "text": "Wilbur Wright said he'd take a flier on it.",
+    "pun_word": "flier",
+    "target_word": "flyer",
+    "source_sense": "Wilbur Wright",
+    "target_sense": "take;it"
+  },
+  {
+    "text": "Doctor, doctor, I keep thinking I'm a deck of cards.-I'll deal with you later. Next!",
+    "pun_word": "deal",
+    "target_word": "deal",
+    "source_sense": "doctor",
+    "target_sense": "later"
+  },
+  {
+    "text": "''Use your own toothbrush! \" Tom bristled.",
+    "pun_word": "bristled",
+    "target_word": "bristled",
+    "source_sense": "angry",
+    "target_sense": "used;toothbrush"
+  },
+  {
+    "text": "OLD ELECTRICIANS never die they just lose contact.",
+    "pun_word": "contact",
+    "target_word": "contact",
+    "source_sense": "electricians",
+    "target_sense": "lose"
+  },
+  {
+    "text": "Early stone tools had many problems that were eventually ironed out.",
+    "pun_word": "ironed",
+    "target_word": "ironed",
+    "source_sense": "stone tools",
+    "target_sense": "eventually;out"
+  },
+  {
+    "text": "The movie about the mobile home was advertised with a trailer.",
+    "pun_word": "trailer",
+    "target_word": "trailer",
+    "source_sense": "movie",
+    "target_sense": "advertised;mobile;home"
+  },
+  {
+    "text": "If towels could tell jokes they would probably have a dry sense of humor.",
+    "pun_word": "dry",
+    "target_word": "dry",
+    "source_sense": "towels",
+    "target_sense": "sense;humor"
+  },
+  {
+    "text": "OLD CRICKETERS never die, they just get bowled over.",
+    "pun_word": "bowled",
+    "target_word": "bowled",
+    "source_sense": "cricketers",
+    "target_sense": "die;over"
+  },
+  {
+    "text": "OLD INTERPRETERS (for the deaf) never die, they just sign off.",
+    "pun_word": "sign",
+    "target_word": "sign",
+    "source_sense": "interpreters",
+    "target_sense": "off"
+  },
+  {
+    "text": "The man who worked at the watch factory was very funny. He stood about all day making faces.",
+    "pun_word": "watch",
+    "target_word": "watch",
+    "source_sense": "factory",
+    "target_sense": "stood;about;making;faces"
+  },
+  {
+    "text": "If you invite an insomniac to your pajama party they will be up for it.",
+    "pun_word": "up",
+    "target_word": "up",
+    "source_sense": "invite",
+    "target_sense": "insomniac;pajama;party"
+  },
+  {
+    "text": "If you wear a blindfold at the shooting range, you won't know what you're missing.",
+    "pun_word": "missing",
+    "target_word": "missing",
+    "source_sense": "shooting range",
+    "target_sense": "not;know;what;you're"
+  },
+  {
+    "text": "I've been to the dentist several times so I know the drill.",
+    "pun_word": "drill",
+    "target_word": "drill",
+    "source_sense": "dentist",
+    "target_sense": "know;the"
+  },
+  {
+    "text": "The inventor of the stove top was in his element.",
+    "pun_word": "stove",
+    "target_word": "stove",
+    "source_sense": "inventor",
+    "target_sense": "element"
+  },
+  {
+    "text": "OLD POKER PLAYERS never die, they are just discarded.",
+    "pun_word": "discarded",
+    "target_word": "discarded",
+    "source_sense": "poker players",
+    "target_sense": "old;never;die"
+  },
+  {
+    "text": "Since Bruce got too close to the big blade at the saw mill he is no longer feeling chipper.",
+    "pun_word": "chipper",
+    "target_word": "chipper",
+    "source_sense": "feeling",
+    "target_sense": "close;to;the;big;blade"
+  },
+  {
+    "text": "OLD PROFESSORS never die, they just lose their class.",
+    "pun_word": "class",
+    "target_word": "class",
+    "source_sense": "professors",
+    "target_sense": "old;lose;their"
+  },
+  {
+    "text": "OLD EXORCISTS never die, they just get repossessed.",
+    "pun_word": "repossessed",
+    "target_word": "repossessed",
+    "source_sense": "exorcists",
+    "target_sense": "get"
+  },
+  {
+    "text": "''Perhaps I will ,\" said Tom with all his might.",
+    "pun_word": "will",
+    "target_word": "will",
+    "source_sense": "perhaps;Tom",
+    "target_sense": "future;intention"
+  },
+  {
+    "text": "If a clock had legs, time would run out.",
+    "pun_word": "run",
+    "target_word": "run",
+    "source_sense": "time",
+    "target_sense": "legs;out"
+  },
+  {
+    "text": "My name is Frank, the Hot-Dog vendor",
+    "pun_word": "Frank",
+    "target_word": "Frank",
+    "source_sense": "name",
+    "target_sense": "Hot-Dog;vendor"
+  },
+  {
+    "text": "A play, based on billiards, started right on cue.",
+    "pun_word": "cue",
+    "target_word": "cue",
+    "source_sense": "billiards",
+    "target_sense": "started;play"
+  },
+  {
+    "text": "OLD JUDGES never die, they just cease to try",
+    "pun_word": "cease",
+    "target_word": "cease",
+    "source_sense": "old judges",
+    "target_sense": "die;try"
+  },
+  {
+    "text": "She was only a Insurance broker's daughter, but all the guys liked her policy.",
+    "pun_word": "policy",
+    "target_word": "policy",
+    "source_sense": "Insurance broker's daughter",
+    "target_sense": "liked;her"
+  },
+  {
+    "text": "I can't recall the last time I did any running, but I've been jogging my memory.",
+    "pun_word": "jogging",
+    "target_word": "jogging",
+    "source_sense": "running",
+    "target_sense": "memory"
+  },
+  {
+    "text": "My student was late for class, claiming he was in the washroom. I think he was stalling.",
+    "pun_word": "stalling",
+    "target_word": "stalling",
+    "source_sense": "late",
+    "target_sense": "washroom"
+  },
+  {
+    "text": "De Broglie waved aside the invitation.",
+    "pun_word": "waved",
+    "target_word": "waved",
+    "source_sense": "De Broglie",
+    "target_sense": "aside"
+  },
+  {
+    "text": "The surest steps to happiness are the steps to church.",
+    "pun_word": "steps",
+    "target_word": "steps",
+    "source_sense": "surest;happiness;church",
+    "target_sense": "to;happiness;church"
+  },
+  {
+    "text": "A case of disappearing bison had police completely buffaloed.",
+    "pun_word": "buffaloed",
+    "target_word": "buffalo",
+    "source_sense": "police",
+    "target_sense": "disappearing; bison"
+  },
+  {
+    "text": "The plums for sale dried out, so the profits were pruned.",
+    "pun_word": "pruned",
+    "target_word": "pruned",
+    "source_sense": "profits",
+    "target_sense": "plums;for sale;dried out"
+  },
+  {
+    "text": "She was always calling for her twins ,\" on the double. ''",
+    "pun_word": "double",
+    "target_word": "double",
+    "source_sense": "calling",
+    "target_sense": "twins"
+  },
+  {
+    "text": "The astronomer became an actor because he always wanted to visit the stars.",
+    "pun_word": "stars",
+    "target_word": "stars",
+    "source_sense": "astronomer",
+    "target_sense": "actor;visit"
+  },
+  {
+    "text": "Pipe fitters often have high pressure jobs.",
+    "pun_word": "pipe",
+    "target_word": "pipe",
+    "source_sense": "fitters",
+    "target_sense": "fitters;high;pressure;jobs"
+  },
+  {
+    "text": "It was the first time she'd seen a live sponge on display, and she really soaked it in.",
+    "pun_word": "sponge",
+    "target_word": "sponge",
+    "source_sense": "live",
+    "target_sense": "soaked;in"
+  },
+  {
+    "text": "In the air duct installers union they have lots of opportunity to vent.",
+    "pun_word": "vent",
+    "target_word": "vent",
+    "source_sense": "air duct installers union",
+    "target_sense": "installers;union"
+  },
+  {
+    "text": "They threw a party for the inventor of the toaster. And he was toasted.",
+    "pun_word": "toasted",
+    "target_word": "toasted",
+    "source_sense": "inventor",
+    "target_sense": "celebrated"
+  },
+  {
+    "text": "Two florists got married. It was an arranged marriage.",
+    "pun_word": "arranged",
+    "target_word": "arranged",
+    "source_sense": "married",
+    "target_sense": "florists;marriage"
+  },
+  {
+    "text": "When it was lumpy he had a beef with his gravy.",
+    "pun_word": "lumpy",
+    "target_word": "lumpy",
+    "source_sense": "texture",
+    "target_sense": "beef;gravy"
+  },
+  {
+    "text": "I've got to fix the automobile, said Tom mechanically.",
+    "pun_word": "automobile",
+    "target_word": "automobile",
+    "source_sense": "fix",
+    "target_sense": "mechanically"
+  },
+  {
+    "text": "Getting this job managing a country estate has put me off fried eggs. I'm a gamekeeper turned poacher.",
+    "pun_word": "poacher",
+    "target_word": "poacher",
+    "source_sense": "gamekeeper",
+    "target_sense": "illegal;eggs"
+  },
+  {
+    "text": "OLD ALCOHOLICS never die, they just lose their spirit.",
+    "pun_word": "spirit",
+    "target_word": "spirit",
+    "source_sense": "alcoholics",
+    "target_sense": "lose"
+  },
+  {
+    "text": "The dairy farmer while milking his cow strained his calf in the process.",
+    "pun_word": "calf",
+    "target_word": "calf",
+    "source_sense": "cow",
+    "target_sense": "strained;in the process"
+  },
+  {
+    "text": "Taxidermists really know their stuff.",
+    "pun_word": "stuff",
+    "target_word": "stuff",
+    "source_sense": "taxidermists",
+    "target_sense": "knowledgeable"
+  },
+  {
+    "text": "I wondered why my geometry class was always tired. They were all out of shape.",
+    "pun_word": "shape",
+    "target_word": "shape",
+    "source_sense": "geometry class",
+    "target_sense": "tired;out;of"
+  },
+  {
+    "text": "An argument at the Bomb Squad convention ended in a blowup.",
+    "pun_word": "blowup",
+    "target_word": "blowup",
+    "source_sense": "argument",
+    "target_sense": "explosion;argument"
+  },
+  {
+    "text": "When cave men got together they formed clubs.",
+    "pun_word": "clubs",
+    "target_word": "clubs",
+    "source_sense": "cave men",
+    "target_sense": "gathered"
+  },
+  {
+    "text": "Stamp out excessive postage prices.",
+    "pun_word": "stamp",
+    "target_word": "stamp",
+    "source_sense": "postage",
+    "target_sense": "out;excessive;prices"
+  },
+  {
+    "text": "She was only a Janitor's daughter, and she was often swept off her feet.",
+    "pun_word": "swept",
+    "target_word": "swept",
+    "source_sense": "janitor's",
+    "target_sense": "off;her;feet"
+  },
+  {
+    "text": "She was only a Rancher's daughter, but she couldn't keep her calves together.",
+    "pun_word": "calves",
+    "target_word": "calves",
+    "source_sense": "rancher's daughter",
+    "target_sense": "couldn't;keep;together"
+  },
+  {
+    "text": "When poker players have to fold they feel a bit discarded.",
+    "pun_word": "fold",
+    "target_word": "fold",
+    "source_sense": "poker players",
+    "target_sense": "feel;a;bit;discarded"
+  },
+  {
+    "text": "You have to give credit to people who work in stores during a holiday-and many people do.",
+    "pun_word": "credit",
+    "target_word": "credit",
+    "source_sense": "acknowledgment",
+    "target_sense": "stores;holiday"
+  },
+  {
+    "text": "The incontinent Scotsman had a wee accident.",
+    "pun_word": "wee",
+    "target_word": "wee",
+    "source_sense": "incontinent",
+    "target_sense": "small;accident"
+  },
+  {
+    "text": "The airlines have become so cash-strapped, they charged me for my emotional baggage.",
+    "pun_word": "charged",
+    "target_word": "charged",
+    "source_sense": "airlines",
+    "target_sense": "cash-strapped;emotional;baggage"
+  },
+  {
+    "text": "After he bought his two-year-old a felt pen, he was a marked man.",
+    "pun_word": "marked",
+    "target_word": "marked",
+    "source_sense": "bought;felt;pen",
+    "target_sense": "man"
+  },
+  {
+    "text": "After having a knee dislocated and an elbow fractured in two barroom brawls Bradley should have learned to stay away from those joints.",
+    "pun_word": "joints",
+    "target_word": "joints",
+    "source_sense": "knee;elbow",
+    "target_sense": "barroom;brawls"
+  },
+  {
+    "text": "A locksmith has to have a good Combination of skills.",
+    "pun_word": "Combination",
+    "target_word": "combination",
+    "source_sense": "locksmith",
+    "target_sense": "skills"
+  },
+  {
+    "text": "I just got back from a statistical probability conference. It was average.",
+    "pun_word": "average",
+    "target_word": "average",
+    "source_sense": "statistical",
+    "target_sense": "statistical;normal"
+  },
+  {
+    "text": "OLD STATISTICIANS never die, they just get mean.",
+    "pun_word": "mean",
+    "target_word": "mean",
+    "source_sense": "statisticians",
+    "target_sense": "get"
+  },
+  {
+    "text": "My friends and I played a game of football on a pile of quarry rock-we lost on aggregate.",
+    "pun_word": "aggregate",
+    "target_word": "aggregate",
+    "source_sense": "football",
+    "target_sense": "pile;quarry;rock"
+  },
+  {
+    "text": "I was going to buy some loose tea, but the price was too steep.",
+    "pun_word": "steep",
+    "target_word": "steep",
+    "source_sense": "price",
+    "target_sense": "loose;tea"
+  },
+  {
+    "text": "The play on fishing had quite a cast.",
+    "pun_word": "cast",
+    "target_word": "cast",
+    "source_sense": "fishing",
+    "target_sense": "play"
+  },
+  {
+    "text": "Math class is full of drama. There are so many problems to work out.",
+    "pun_word": "problems",
+    "target_word": "problems",
+    "source_sense": "drama",
+    "target_sense": "work;out"
+  },
+  {
+    "text": "My dentist seems distracted, I think he was brushing me off.",
+    "pun_word": "brushing",
+    "target_word": "brushing",
+    "source_sense": "dentist",
+    "target_sense": "distracted;off"
+  },
+  {
+    "text": "Officer Jones takes his yearly bath every June. He is a characteristic example of a dirty cop.",
+    "pun_word": "dirty",
+    "target_word": "dirty",
+    "source_sense": "cop",
+    "target_sense": "characteristic;example"
+  },
+  {
+    "text": "My name is Grant, I am a loan officer.",
+    "pun_word": "Grant",
+    "target_word": "grant",
+    "source_sense": "name",
+    "target_sense": "loan;officer"
+  },
+  {
+    "text": "OLD WOOL COATS never die, they just become mothballed.",
+    "pun_word": "mothballed",
+    "target_word": "mothballed",
+    "source_sense": "old wool coats",
+    "target_sense": "never;die"
+  },
+  {
+    "text": "We'll never run out of math teachers because they always multiply.",
+    "pun_word": "multiply",
+    "target_word": "multiply",
+    "source_sense": "math teachers",
+    "target_sense": "never;run;out;of"
+  },
+  {
+    "text": "Don't argue with a bomb inventor-he might blow up at you.",
+    "pun_word": "blow",
+    "target_word": "blow",
+    "source_sense": "argue",
+    "target_sense": "up;inventor"
+  },
+  {
+    "text": "Our Boy Scouts'knot-tying class went off without a hitch.",
+    "pun_word": "hitch",
+    "target_word": "hitch",
+    "source_sense": "knot-tying",
+    "target_sense": "went;off;without;a"
+  },
+  {
+    "text": "The two inventors of the radio were on the same wavelength.",
+    "pun_word": "wavelength",
+    "target_word": "wavelength",
+    "source_sense": "inventors",
+    "target_sense": "radio"
+  },
+  {
+    "text": "He couldn't decide whether to accept a job in mattress sales so he decided to sleep on it.",
+    "pun_word": "sleep",
+    "target_word": "sleep",
+    "source_sense": "decided",
+    "target_sense": "accept;a;job;in;mattress;sales"
+  },
+  {
+    "text": "Did you hear about these new reversible jackets? I'm excited to see how they turn out.",
+    "pun_word": "excited",
+    "target_word": "excited",
+    "source_sense": "reversible jackets",
+    "target_sense": "see;turn;out"
+  },
+  {
+    "text": "My name is Leo. A lion trainer.",
+    "pun_word": "Leo",
+    "target_word": "Leo",
+    "source_sense": "name",
+    "target_sense": "lion;trainer"
+  },
+  {
+    "text": "I tried to look up impotence on the Internet but nothing came up.",
+    "pun_word": "impotence",
+    "target_word": "impotence",
+    "source_sense": "searched",
+    "target_sense": "erectile;dysfunction"
+  },
+  {
+    "text": "A tailor sometimes decides to suit himself.",
+    "pun_word": "suit",
+    "target_word": "suit",
+    "source_sense": "tailor",
+    "target_sense": "decides;himself"
+  },
+  {
+    "text": "A lot of trees were dying, but they needed to figure out the root of the problem.",
+    "pun_word": "root",
+    "target_word": "root",
+    "source_sense": "trees",
+    "target_sense": "figure;out"
+  },
+  {
+    "text": "I was arrested after my therapist suggested I take something for my kleptomania.",
+    "pun_word": "take",
+    "target_word": "take",
+    "source_sense": "arrested",
+    "target_sense": "suggested;something"
+  },
+  {
+    "text": "The Vikings landed during thunder and lightning and took the city by storm.",
+    "pun_word": "storm",
+    "target_word": "storm",
+    "source_sense": "Vikings",
+    "target_sense": "landed;during;thunder;lightning;took;city"
+  },
+  {
+    "text": "How do you find a missing train? Follow the tracks.",
+    "pun_word": "tracks",
+    "target_word": "tracks",
+    "source_sense": "follow",
+    "target_sense": "missing;train"
+  },
+  {
+    "text": "A dog gave birth to puppies near the road and was ticketed for littering.",
+    "pun_word": "littering",
+    "target_word": "littering",
+    "source_sense": "dog",
+    "target_sense": "gave;birth;puppies;near;road"
+  },
+  {
+    "text": "If you have need of a locksmith he will be your key man.",
+    "pun_word": "key",
+    "target_word": "key",
+    "source_sense": "locksmith",
+    "target_sense": "need;man"
+  },
+  {
+    "text": "Those who polish cars so that they shine work in a buffer zone.",
+    "pun_word": "shine",
+    "target_word": "shine",
+    "source_sense": "polish",
+    "target_sense": "work;buffer;zone"
+  },
+  {
+    "text": "A musician went to hospital after playing too many accidentals.",
+    "pun_word": "accidentals",
+    "target_word": "accidentals",
+    "source_sense": "musician",
+    "target_sense": "hospital"
+  },
+  {
+    "text": "OLD BREAD MEN never die, they just lose their dough.",
+    "pun_word": "dough",
+    "target_word": "dough",
+    "source_sense": "bread",
+    "target_sense": "lose;their"
+  },
+  {
+    "text": "Alergy sufferers are itching to get through the hay fever season.",
+    "pun_word": "itching",
+    "target_word": "itching",
+    "source_sense": "allergy",
+    "target_sense": "eager;get;through"
+  },
+  {
+    "text": "Those who make balls of wool for a living like to come home and unwind.",
+    "pun_word": "unwind",
+    "target_word": "unwind",
+    "source_sense": "make;balls;wool;living",
+    "target_sense": "come;home"
+  },
+  {
+    "text": "The royal pharmacist wore a tuxedo and dispensed with formalities.",
+    "pun_word": "dispensed",
+    "target_word": "dispensed",
+    "source_sense": "pharmacist",
+    "target_sense": "wore;tuxedo;formalities"
+  },
+  {
+    "text": "I took up teaching fencing as I wanted my students to get the point.",
+    "pun_word": "point",
+    "target_word": "point",
+    "source_sense": "teaching;fencing",
+    "target_sense": "get"
+  },
+  {
+    "text": "Musical composers can use lots of Note paper.",
+    "pun_word": "Note",
+    "target_word": "note",
+    "source_sense": "musical composers",
+    "target_sense": "paper"
+  },
+  {
+    "text": "The failure of the third largest manufacturer of baby's toys was enough to rattle the entire industry.",
+    "pun_word": "rattle",
+    "target_word": "rattle",
+    "source_sense": "failure",
+    "target_sense": "shake;entire"
+  },
+  {
+    "text": "Some people like raw meat on rare occasions.",
+    "pun_word": "rare",
+    "target_word": "rare",
+    "source_sense": "raw",
+    "target_sense": "occasions"
+  },
+  {
+    "text": "OLD PRINTERS never die they're just not the type",
+    "pun_word": "type",
+    "target_word": "type",
+    "source_sense": "printers",
+    "target_sense": "not;the"
+  },
+  {
+    "text": "If you tell a falsehood just after waking up you are lying in bed.",
+    "pun_word": "lying",
+    "target_word": "lying",
+    "source_sense": "falsehood",
+    "target_sense": "bed"
+  },
+  {
+    "text": "Undertakers'Motto-Trust us. We are the very last ones to put you down.",
+    "pun_word": "undertakers",
+    "target_word": "undertakers",
+    "source_sense": "trust;us",
+    "target_sense": "very;last;put"
+  },
+  {
+    "text": "I've always pictured myself taking selfies.",
+    "pun_word": "pictured",
+    "target_word": "pictured",
+    "source_sense": "imagined",
+    "target_sense": "taking;selfies"
+  },
+  {
+    "text": "After 5 years with the same chiropractor, I moved and had to change doctors. It was quite an adjustment.",
+    "pun_word": "adjustment",
+    "target_word": "adjustment",
+    "source_sense": "chiropractor",
+    "target_sense": "moved;change"
+  },
+  {
+    "text": "Two brothers collaborated on haunted stories, but one was a ghost writer.",
+    "pun_word": "ghost",
+    "target_word": "ghost",
+    "source_sense": "brothers",
+    "target_sense": "writer"
+  },
+  {
+    "text": "A little boy called his father who made balloons'pop'.",
+    "pun_word": "pop",
+    "target_word": "pop",
+    "source_sense": "balloons",
+    "target_sense": "called;father"
+  },
+  {
+    "text": "The farmer decided to get a cow, and milk the idea for all it was worth.",
+    "pun_word": "milk",
+    "target_word": "milk",
+    "source_sense": "farmer",
+    "target_sense": "get;cow;idea;worth"
+  },
+  {
+    "text": "OLD TREE SURGEONS never die, they are just uprooted.",
+    "pun_word": "uprooted",
+    "target_word": "uprooted",
+    "source_sense": "old tree surgeons",
+    "target_sense": "die;just"
+  },
+  {
+    "text": "The price of the big fan blew me away.",
+    "pun_word": "blew",
+    "target_word": "blew",
+    "source_sense": "fan",
+    "target_sense": "price;away"
+  },
+  {
+    "text": "''This must be an aerobics class ,\" Tom worked out.",
+    "pun_word": "worked",
+    "target_word": "worked",
+    "source_sense": "exercised",
+    "target_sense": "aerobics;class"
+  },
+  {
+    "text": "Baseball players are expected to perform well right off the bat.",
+    "pun_word": "bat",
+    "target_word": "bat",
+    "source_sense": "baseball",
+    "target_sense": "perform;well"
+  },
+  {
+    "text": "Old electricians never die, they just get discharged.",
+    "pun_word": "discharged",
+    "target_word": "discharged",
+    "source_sense": "electricians",
+    "target_sense": "old;get"
+  },
+  {
+    "text": "The decision to begin construction on the Empire State Building was a groundbreaking historical event.",
+    "pun_word": "groundbreaking",
+    "target_word": "groundbreaking",
+    "source_sense": "construction",
+    "target_sense": "historical;event"
+  },
+  {
+    "text": "A boating accident between the yacht, Red Dawn, and the schooner, Blue Lagoon, left the survivors marooned.",
+    "pun_word": "marooned",
+    "target_word": "marooned",
+    "source_sense": "survivors",
+    "target_sense": "boating;accident;left"
+  },
+  {
+    "text": "A friend told me he dug a hole in my backyard and filled it with water. I thought he meant well.",
+    "pun_word": "meant",
+    "target_word": "meant",
+    "source_sense": "intended",
+    "target_sense": "dug;a;hole;in;my;backyard;and;filled;it;with;water"
+  },
+  {
+    "text": "The unveiling of the statue was a monumental occasion.",
+    "pun_word": "monumental",
+    "target_word": "monumental",
+    "source_sense": "unveiling",
+    "target_sense": "occasion"
+  },
+  {
+    "text": "Notice in a field : The farmer allows walkers to cross the field for free, but the bull charges.",
+    "pun_word": "charges",
+    "target_word": "charges",
+    "source_sense": "bull",
+    "target_sense": "money;cross"
+  },
+  {
+    "text": "A man given a watch at his retirement said'it's about time'.",
+    "pun_word": "watch",
+    "target_word": "watch",
+    "source_sense": "given",
+    "target_sense": "time"
+  },
+  {
+    "text": "I tinted my hair today. It was the highlight of my day.",
+    "pun_word": "highlight",
+    "target_word": "highlight",
+    "source_sense": "tinted",
+    "target_sense": "day"
+  },
+  {
+    "text": "Why did the agricultural presentation go so smoothly? They planted questions.",
+    "pun_word": "planted",
+    "target_word": "planted",
+    "source_sense": "agricultural",
+    "target_sense": "questions"
+  },
+  {
+    "text": "The pope, on his 2008 tour in the United States, skipped Mass.",
+    "pun_word": "Mass",
+    "target_word": "Mass",
+    "source_sense": "religious service",
+    "target_sense": "skipped"
+  },
+  {
+    "text": "While the music was playing the geology teacher was rocking around.",
+    "pun_word": "rocking",
+    "target_word": "rock",
+    "source_sense": "music",
+    "target_sense": "geology;teacher"
+  },
+  {
+    "text": "If you're looking for oranges on an apple tree you will have a fruitless search.",
+    "pun_word": "fruitless",
+    "target_word": "fruitless",
+    "source_sense": "search",
+    "target_sense": "oranges;apple"
+  },
+  {
+    "text": "I can't remember ever getting nits as a kid, although I do have a lousy memory.",
+    "pun_word": "lousy",
+    "target_word": "lousy",
+    "source_sense": "memory",
+    "target_sense": "memory"
+  },
+  {
+    "text": "OLD PILOTS never die they just take off.",
+    "pun_word": "take",
+    "target_word": "take",
+    "source_sense": "pilots",
+    "target_sense": "off"
+  },
+  {
+    "text": "A bible falling apart belongs to someone who isn\u2019t.",
+    "pun_word": "falling",
+    "target_word": "falling",
+    "source_sense": "bible",
+    "target_sense": "apart"
+  },
+  {
+    "text": "I like elevators they let me say jokes on every level.",
+    "pun_word": "elevators",
+    "target_word": "elevators",
+    "source_sense": "like",
+    "target_sense": "let;me;say;jokes;on;every;level"
+  },
+  {
+    "text": "My name is Joe, an espresso vender",
+    "pun_word": "vender",
+    "target_word": "vendor",
+    "source_sense": "Joe",
+    "target_sense": "espresso"
+  },
+  {
+    "text": "A pirate with one hand often picked up the phone. He wanted to get off the hook.",
+    "pun_word": "hook",
+    "target_word": "hook",
+    "source_sense": "pirate",
+    "target_sense": "picked;up"
+  },
+  {
+    "text": "Trust your calculator. It's something to count on.",
+    "pun_word": "count",
+    "target_word": "count",
+    "source_sense": "calculator",
+    "target_sense": "trust;on"
+  },
+  {
+    "text": "He tried to sell me glass with imperfections in it, but I saw through it.",
+    "pun_word": "glass",
+    "target_word": "glass",
+    "source_sense": "material",
+    "target_sense": "sell;imperfections"
+  },
+  {
+    "text": "Marconi was not wired up about going.",
+    "pun_word": "wired",
+    "target_word": "wired",
+    "source_sense": "Marconi",
+    "target_sense": "up;going"
+  },
+  {
+    "text": "OLD PLUMBERS never die, they just pipe down.",
+    "pun_word": "pipe",
+    "target_word": "pipe",
+    "source_sense": "plumbers",
+    "target_sense": "die;just;down"
+  },
+  {
+    "text": "OLD LOCOMOTIVE ENGINEERS, never die, they just get derailed",
+    "pun_word": "engineers",
+    "target_word": "engineers",
+    "source_sense": "locomotive",
+    "target_sense": "old;never die;they just get derailed"
+  },
+  {
+    "text": "She was only a Conductor's daughter, but she told you where to get off.",
+    "pun_word": "Conductor",
+    "target_word": "Conductor",
+    "source_sense": "musical",
+    "target_sense": "told;you;where;to;get;off"
+  },
+  {
+    "text": "OLD GOLFERS never die they just putter away.",
+    "pun_word": "putter",
+    "target_word": "putter",
+    "source_sense": "golfers",
+    "target_sense": "never;die;away"
+  },
+  {
+    "text": "Did you hear about the guy whose whole left side was cut off? He's all right now.",
+    "pun_word": "cut",
+    "target_word": "cut",
+    "source_sense": "injured",
+    "target_sense": "all;right"
+  },
+  {
+    "text": "Derringer had one shot at fame.",
+    "pun_word": "shot",
+    "target_word": "shot",
+    "source_sense": "fame",
+    "target_sense": "one;at"
+  },
+  {
+    "text": "OLD MECHANICS never die they just retire",
+    "pun_word": "die",
+    "target_word": "die",
+    "source_sense": "old mechanics",
+    "target_sense": "retire"
+  },
+  {
+    "text": "Eating too many snacks when studying for a test is called cramming.",
+    "pun_word": "cramming",
+    "target_word": "cramming",
+    "source_sense": "studying",
+    "target_sense": "eating;snacks"
+  },
+  {
+    "text": "The psychiatrist told the genie his emotions were all bottled up.",
+    "pun_word": "bottled",
+    "target_word": "bottled",
+    "source_sense": "psychiatrist",
+    "target_sense": "emotions;genie"
+  },
+  {
+    "text": "Using deodorant is no sweat.",
+    "pun_word": "sweat",
+    "target_word": "sweat",
+    "source_sense": "using;deodorant",
+    "target_sense": "no"
+  },
+  {
+    "text": "My name is Oscar, and I'm a movie star.",
+    "pun_word": "Oscar",
+    "target_word": "Oscar",
+    "source_sense": "name",
+    "target_sense": "movie;star"
+  },
+  {
+    "text": "I've struck oil! Tom gushed.",
+    "pun_word": "gushed",
+    "target_word": "gushed",
+    "source_sense": "excited",
+    "target_sense": "oil"
+  },
+  {
+    "text": "The racers all had shorts on that were too small for them, so it was a tight race.",
+    "pun_word": "tight",
+    "target_word": "tight",
+    "source_sense": "small",
+    "target_sense": "race"
+  },
+  {
+    "text": "His model airplane hobby really took off.",
+    "pun_word": "took",
+    "target_word": "took",
+    "source_sense": "model airplane hobby",
+    "target_sense": "off"
+  },
+  {
+    "text": "Some diets cause a gut reaction.",
+    "pun_word": "gut",
+    "target_word": "gut",
+    "source_sense": "diets",
+    "target_sense": "reaction"
+  },
+  {
+    "text": "OLD CONTORTIONISTS never die, they just meet their end.",
+    "pun_word": "end",
+    "target_word": "end",
+    "source_sense": "contortionists",
+    "target_sense": "die;meet"
+  },
+  {
+    "text": "The defendant in a coffee theft trial refused to testify on the grounds that could incriminate him.",
+    "pun_word": "grounds",
+    "target_word": "grounds",
+    "source_sense": "defendant",
+    "target_sense": "reason;coffee"
+  },
+  {
+    "text": "OLD GUNS never die they just get loaded.",
+    "pun_word": "loaded",
+    "target_word": "loaded",
+    "source_sense": "guns",
+    "target_sense": "never;die"
+  },
+  {
+    "text": "I bought a metronome for 20 bucks. You can't beat that price.",
+    "pun_word": "beat",
+    "target_word": "beat",
+    "source_sense": "metronome",
+    "target_sense": "can't;price"
+  },
+  {
+    "text": "My new girlfriend and I are moving together into a tree house, I hope we won't fall out.",
+    "pun_word": "fall",
+    "target_word": "fall",
+    "source_sense": "moving;together",
+    "target_sense": "tree;house"
+  },
+  {
+    "text": "A ham walked out of the hospital and said\" I'm cured\".",
+    "pun_word": "cured",
+    "target_word": "cured",
+    "source_sense": "ham",
+    "target_sense": "hospital;said"
+  },
+  {
+    "text": "Animals are slaughtered for meat at a tender age.",
+    "pun_word": "tender",
+    "target_word": "tender",
+    "source_sense": "age",
+    "target_sense": "slaughtered"
+  },
+  {
+    "text": "OLD TELEPHONE OPERATORS never die, they just become disconnected.",
+    "pun_word": "disconnected",
+    "target_word": "disconnected",
+    "source_sense": "old telephone operators",
+    "target_sense": "become"
+  },
+  {
+    "text": "Sometimes our Outlook in Life is sent but not received.",
+    "pun_word": "Outlook",
+    "target_word": "Outlook",
+    "source_sense": "perspective",
+    "target_sense": "sent;not;received"
+  },
+  {
+    "text": "I always believed my body was a prison for me. I was right, in biology I learnt they were made of cells.",
+    "pun_word": "cell",
+    "target_word": "cell",
+    "source_sense": "prison",
+    "target_sense": "biology;made;of"
+  },
+  {
+    "text": "Highways today are much better than they were many years ago and there are lots of concrete examples of it.",
+    "pun_word": "concrete",
+    "target_word": "concrete",
+    "source_sense": "highways",
+    "target_sense": "examples;of"
+  },
+  {
+    "text": "I was going to order a satellite dish but then I found out that I had to go through channels.",
+    "pun_word": "channels",
+    "target_word": "channels",
+    "source_sense": "order",
+    "target_sense": "found;out"
+  },
+  {
+    "text": "Pencils could be made with erasers at both ends, but what would be the point?",
+    "pun_word": "point",
+    "target_word": "point",
+    "source_sense": "pencils",
+    "target_sense": "made;with"
+  },
+  {
+    "text": "Two podiatrists became arch rivals.",
+    "pun_word": "arch",
+    "target_word": "arch",
+    "source_sense": "podiatrists",
+    "target_sense": "rivals"
+  },
+  {
+    "text": "I really do have a photographic memory-- I just haven't developed it yet.",
+    "pun_word": "developed",
+    "target_word": "developed",
+    "source_sense": "photographic memory",
+    "target_sense": "not;yet"
+  },
+  {
+    "text": "There is a growing body of obesity research.",
+    "pun_word": "growing",
+    "target_word": "growing",
+    "source_sense": "increasing",
+    "target_sense": "body;obesity;research"
+  },
+  {
+    "text": "When I had my PlayStation stolen, my family were there to console me.",
+    "pun_word": "console",
+    "target_word": "console",
+    "source_sense": "PlayStation",
+    "target_sense": "family"
+  },
+  {
+    "text": "OLD AUTO MECHANICS never die, they just become exhausted.",
+    "pun_word": "exhausted",
+    "target_word": "exhausted",
+    "source_sense": "auto mechanics",
+    "target_sense": "become"
+  },
+  {
+    "text": "What did the triangle say to the circle? You're so pointless.",
+    "pun_word": "pointless",
+    "target_word": "pointless",
+    "source_sense": "triangle",
+    "target_sense": "circle"
+  },
+  {
+    "text": "Semaphore was flagged away as a form of communication decades ago.",
+    "pun_word": "flagged",
+    "target_word": "flag",
+    "source_sense": "semaphore",
+    "target_sense": "communication;away"
+  },
+  {
+    "text": "OLD LIBRARIANS never die, they just lose their circulation.",
+    "pun_word": "circulation",
+    "target_word": "circulation",
+    "source_sense": "librarians",
+    "target_sense": "lose;their"
+  },
+  {
+    "text": "OLD INVESTORS never die they just roll over.",
+    "pun_word": "roll",
+    "target_word": "roll",
+    "source_sense": "investors",
+    "target_sense": "over"
+  },
+  {
+    "text": "OLD PROCTOLOGISTS never die, they just face the end.",
+    "pun_word": "face",
+    "target_word": "face",
+    "source_sense": "proctologists",
+    "target_sense": "end"
+  },
+  {
+    "text": "The teacher asked a question and the students were all up in arms.",
+    "pun_word": "arms",
+    "target_word": "arms",
+    "source_sense": "teacher",
+    "target_sense": "question;students"
+  },
+  {
+    "text": "''I want a motorized bicycle ,\" Tom moped.",
+    "pun_word": "moped",
+    "target_word": "moped",
+    "source_sense": "motorized bicycle",
+    "target_sense": "felt;sad"
+  },
+  {
+    "text": "When the woman got paid for being in a study at the sleep clinic, she said it was her dream job.",
+    "pun_word": "dream",
+    "target_word": "dream",
+    "source_sense": "job",
+    "target_sense": "woman;paid;study;sleep;clinic"
+  },
+  {
+    "text": "Plenty of people give the lord credit. Few give him cash.",
+    "pun_word": "credit",
+    "target_word": "credit",
+    "source_sense": "acknowledgment",
+    "target_sense": "lord;give;plenty;of"
+  },
+  {
+    "text": "My name is Holly, I'm a holiday decorator",
+    "pun_word": "Holly",
+    "target_word": "holly",
+    "source_sense": "name",
+    "target_sense": "decorator"
+  },
+  {
+    "text": "The passenger couldn't find where his next flight was, but then he made the connection.",
+    "pun_word": "connection",
+    "target_word": "connection",
+    "source_sense": "flight",
+    "target_sense": "made"
+  },
+  {
+    "text": "My mom ran out of poultry seasoning so she winged it.",
+    "pun_word": "winged",
+    "target_word": "winged",
+    "source_sense": "mom",
+    "target_sense": "poultry;seasoning"
+  },
+  {
+    "text": "Do you have any parting words?-How about comb and brush?",
+    "pun_word": "parting",
+    "target_word": "parting",
+    "source_sense": "farewell",
+    "target_sense": "comb;brush"
+  },
+  {
+    "text": "That's a cool chair. Yeah, I know, it rocks.",
+    "pun_word": "rocks",
+    "target_word": "rocks",
+    "source_sense": "cool",
+    "target_sense": "chair"
+  },
+  {
+    "text": "To draw cartoons for a living requires someone who is very animated.",
+    "pun_word": "animated",
+    "target_word": "animated",
+    "source_sense": "draw;cartoons",
+    "target_sense": "very"
+  },
+  {
+    "text": "Two pencils decided to have a race. The outcome was a draw.",
+    "pun_word": "draw",
+    "target_word": "draw",
+    "source_sense": "race",
+    "target_sense": "outcome"
+  },
+  {
+    "text": "She was suspected of stealing a brooch but they couldn't pin it on her.",
+    "pun_word": "pin",
+    "target_word": "pin",
+    "source_sense": "suspected",
+    "target_sense": "couldn't;stealing;brooch"
+  },
+  {
+    "text": "When the tornado went through town it was quite a blow.",
+    "pun_word": "blow",
+    "target_word": "blow",
+    "source_sense": "tornado",
+    "target_sense": "quite"
+  },
+  {
+    "text": "Archimedes was buoyant at the thought.",
+    "pun_word": "buoyant",
+    "target_word": "buoyant",
+    "source_sense": "Archimedes",
+    "target_sense": "thought"
+  },
+  {
+    "text": "OLD HELICOPTER PILOTS never die, they just lose their choppers.",
+    "pun_word": "choppers",
+    "target_word": "choppers",
+    "source_sense": "helicopter pilots",
+    "target_sense": "old;lose"
+  },
+  {
+    "text": "After Junior swallowed the watch he had to wait to pass the time.",
+    "pun_word": "pass",
+    "target_word": "pass",
+    "source_sense": "swallowed",
+    "target_sense": "wait;time"
+  },
+  {
+    "text": "I met this guy who said he loved children, then I found out he was on parole for it.",
+    "pun_word": "children",
+    "target_word": "children",
+    "source_sense": "met;loved",
+    "target_sense": "parole;for"
+  },
+  {
+    "text": "A guy became so good with a chainsaw that he was promoted to branch manager.",
+    "pun_word": "branch",
+    "target_word": "branch",
+    "source_sense": "chainsaw",
+    "target_sense": "manager"
+  },
+  {
+    "text": "My name is Carol. I sing during the holidays.",
+    "pun_word": "sing",
+    "target_word": "sing",
+    "source_sense": "name",
+    "target_sense": "holidays"
+  },
+  {
+    "text": "Those who choose not to eat, slowly get hungry-- and Fast.",
+    "pun_word": "Fast",
+    "target_word": "fast",
+    "source_sense": "choose;not;to;eat;slowly;get;hungry",
+    "target_sense": "quickly"
+  },
+  {
+    "text": "A will is a relative thing.",
+    "pun_word": "will",
+    "target_word": "will",
+    "source_sense": "legal document",
+    "target_sense": "relative"
+  },
+  {
+    "text": "Superglue! Tom rejoined.",
+    "pun_word": "Superglue",
+    "target_word": "glue",
+    "source_sense": "adhesive",
+    "target_sense": "Tom;rejoined"
+  },
+  {
+    "text": "During a tennis match one player gave the other a backhanded compliment.",
+    "pun_word": "backhanded",
+    "target_word": "backhanded",
+    "source_sense": "tennis match",
+    "target_sense": "compliment"
+  },
+  {
+    "text": "OLD HUMAN CANNONBALLS never die they just get fired.",
+    "pun_word": "fired",
+    "target_word": "fired",
+    "source_sense": "cannonballs",
+    "target_sense": "get"
+  },
+  {
+    "text": "OLD CARD PLAYERS never die, they just shuffle off.",
+    "pun_word": "shuffle",
+    "target_word": "shuffle",
+    "source_sense": "card players",
+    "target_sense": "off"
+  },
+  {
+    "text": "She wanted to be a weaver but there were always too many snags.",
+    "pun_word": "snags",
+    "target_word": "snags",
+    "source_sense": "weaver",
+    "target_sense": "obstacles;problems"
+  },
+  {
+    "text": "I'm taking this ship back into harbor, Tom reported.",
+    "pun_word": "reported",
+    "target_word": "reported",
+    "source_sense": "taking this ship back into harbor",
+    "target_sense": "informed"
+  },
+  {
+    "text": "My name is Josh. I'm a talk show host",
+    "pun_word": "host",
+    "target_word": "host",
+    "source_sense": "talk show",
+    "target_sense": "name"
+  },
+  {
+    "text": "For class schedules Yoga instructors are flexible.",
+    "pun_word": "flexible",
+    "target_word": "flexible",
+    "source_sense": "Yoga instructors",
+    "target_sense": "class;schedules"
+  },
+  {
+    "text": "The car stopped with a jerk, then the jerk got out.",
+    "pun_word": "jerk",
+    "target_word": "jerk",
+    "source_sense": "car",
+    "target_sense": "person;got;out"
+  },
+  {
+    "text": "She was only a Telephone operator's daughter, but she sure had good connections.",
+    "pun_word": "connections",
+    "target_word": "connections",
+    "source_sense": "telephone operator's daughter",
+    "target_sense": "good"
+  },
+  {
+    "text": "Did you see guys that Bob the ventriloquist hangs out with? They're nothing special, just a bunch of dummies.",
+    "pun_word": "dummies",
+    "target_word": "dummies",
+    "source_sense": "ventriloquist",
+    "target_sense": "nothing;special;bunch"
+  },
+  {
+    "text": "He had to learn what the measles was, from scratch.",
+    "pun_word": "measles",
+    "target_word": "measles",
+    "source_sense": "disease",
+    "target_sense": "learn;from;scratch"
+  },
+  {
+    "text": "Building a cul-de-sac would be a bit of a dead-end job.",
+    "pun_word": "dead-end",
+    "target_word": "dead-end",
+    "source_sense": "cul-de-sac",
+    "target_sense": "job"
+  },
+  {
+    "text": "The weigh-in at the Sumo wrestling tournament was a large scale effort.",
+    "pun_word": "scale",
+    "target_word": "scale",
+    "source_sense": "weigh-in",
+    "target_sense": "large;effort"
+  },
+  {
+    "text": "She was only a Fireman's daughter, but she's really going to blazes.",
+    "pun_word": "blazes",
+    "target_word": "blazes",
+    "source_sense": "fireman's",
+    "target_sense": "going;to"
+  },
+  {
+    "text": "When the artist tried to draw a cube he had a mental block.",
+    "pun_word": "block",
+    "target_word": "block",
+    "source_sense": "mental",
+    "target_sense": "tried;to;draw"
+  },
+  {
+    "text": "When the human cannonball was late for work he got fired.",
+    "pun_word": "fired",
+    "target_word": "fired",
+    "source_sense": "late;for;work",
+    "target_sense": "dismissed"
+  },
+  {
+    "text": "Packing up and relocating to a new home can be a moving experience.",
+    "pun_word": "moving",
+    "target_word": "moving",
+    "source_sense": "relocating",
+    "target_sense": "experience"
+  },
+  {
+    "text": "Have you ever wondered why baseball players get girlfriends? They're great at hitting it off.",
+    "pun_word": "hitting",
+    "target_word": "hitting",
+    "source_sense": "baseball players",
+    "target_sense": "it;off"
+  },
+  {
+    "text": "When the investor came home from work he was spent.",
+    "pun_word": "spent",
+    "target_word": "spent",
+    "source_sense": "investor",
+    "target_sense": "came;home;from;work"
+  },
+  {
+    "text": "During the meeting about earthquakes, there were several motions.",
+    "pun_word": "motions",
+    "target_word": "motions",
+    "source_sense": "meeting",
+    "target_sense": "physical;proposals"
+  },
+  {
+    "text": "The artist was great. He could always draw a crowd.",
+    "pun_word": "draw",
+    "target_word": "draw",
+    "source_sense": "artist",
+    "target_sense": "great;crowd"
+  },
+  {
+    "text": "My name is Candy. I'm a confectioner.",
+    "pun_word": "Candy",
+    "target_word": "Candy",
+    "source_sense": "confectioner",
+    "target_sense": "name"
+  },
+  {
+    "text": "The mother kangaroo tried to instill good financial habits in her baby. She told him to pocket all his allowance.",
+    "pun_word": "pocket",
+    "target_word": "pocket",
+    "source_sense": "kangaroo",
+    "target_sense": "alliance"
+  },
+  {
+    "text": "Humpty Dumpty had a great fall-and a pretty good spring and summer, too.",
+    "pun_word": "fall",
+    "target_word": "fall",
+    "source_sense": "great;spring;summer",
+    "target_sense": "accident;seasons"
+  },
+  {
+    "text": "Backups are usually a good thing unless it's a sewer.",
+    "pun_word": "backups",
+    "target_word": "backups",
+    "source_sense": "data",
+    "target_sense": "sewer"
+  },
+  {
+    "text": "The trampoline was on sale for fifty per cent off. Needless to say I jumped on the offer.",
+    "pun_word": "jumped",
+    "target_word": "jump",
+    "source_sense": "trampoline",
+    "target_sense": "needless;say;offer"
+  },
+  {
+    "text": "When Wally discovered he had Lyme disease he was really ticked off.",
+    "pun_word": "ticked",
+    "target_word": "ticked",
+    "source_sense": "discovered",
+    "target_sense": "off"
+  },
+  {
+    "text": "A baseball player joined the army and did the round of military bases.",
+    "pun_word": "bases",
+    "target_word": "bases",
+    "source_sense": "baseball player",
+    "target_sense": "army;military"
+  },
+  {
+    "text": "Astronomers often have their own private viewpoints.",
+    "pun_word": "viewpoints",
+    "target_word": "viewpoints",
+    "source_sense": "astronomers",
+    "target_sense": "own;private"
+  },
+  {
+    "text": "A thousand dogs were stolen from a pet shop on Saturday. Police say they have no leads.",
+    "pun_word": "leads",
+    "target_word": "leads",
+    "source_sense": "police",
+    "target_sense": "no"
+  },
+  {
+    "text": "OLD HACKERS never die, they just go to bits",
+    "pun_word": "hackers",
+    "target_word": "hackers",
+    "source_sense": "old",
+    "target_sense": "die;go;to;bits"
+  },
+  {
+    "text": "There was a sign on the lawn at a drug re-hab center that said'Keep off the Grass'.",
+    "pun_word": "Grass",
+    "target_word": "grass",
+    "source_sense": "lawn",
+    "target_sense": "keep;off"
+  },
+  {
+    "text": "Firefighters can rescue you, but only Jesus saves.",
+    "pun_word": "saves",
+    "target_word": "saves",
+    "source_sense": "firefighters",
+    "target_sense": "Jesus"
+  },
+  {
+    "text": "If you walk along a railroad track you may soon feel run down.",
+    "pun_word": "track",
+    "target_word": "track",
+    "source_sense": "walk;railroad",
+    "target_sense": "feel;run;down"
+  },
+  {
+    "text": "I met a math professor who has 12 children-she really knows how to multiply.",
+    "pun_word": "multiply",
+    "target_word": "multiply",
+    "source_sense": "math professor",
+    "target_sense": "math;professor;knows;how;to"
+  },
+  {
+    "text": "OLD SEAMSTRESSES never die, they just come to the point.",
+    "pun_word": "point",
+    "target_word": "point",
+    "source_sense": "seamstresses",
+    "target_sense": "come;to;the"
+  },
+  {
+    "text": "Set your drink on a skateboard, they make good coasters.",
+    "pun_word": "coasters",
+    "target_word": "coasters",
+    "source_sense": "skateboard",
+    "target_sense": "drink;good"
+  },
+  {
+    "text": "I wondered why the baseball was getting bigger. Then it hit me.",
+    "pun_word": "hit",
+    "target_word": "hit",
+    "source_sense": "wondered;baseball;getting;bigger",
+    "target_sense": "baseball;hit;me"
+  },
+  {
+    "text": "A boy told his parents he wanted to raise goats for a living, but he was only kidding.",
+    "pun_word": "kidding",
+    "target_word": "kidding",
+    "source_sense": "raising goats",
+    "target_sense": "joking"
+  },
+  {
+    "text": "A music store owner has to have sound business practices.",
+    "pun_word": "sound",
+    "target_word": "sound",
+    "source_sense": "music",
+    "target_sense": "business;practices"
+  },
+  {
+    "text": "I was in a big hurry so I scrambled to make eggs for breakfast.",
+    "pun_word": "scrambled",
+    "target_word": "scrambled",
+    "source_sense": "hurry",
+    "target_sense": "make;eggs"
+  },
+  {
+    "text": "The Biomedical Engineer didn't have the heart to check the EKG machine.",
+    "pun_word": "heart",
+    "target_word": "heart",
+    "source_sense": "Biomedical Engineer",
+    "target_sense": "didn't;check;EKG;machine"
+  },
+  {
+    "text": "Those who get up at sunrise have many ideas dawn on them.",
+    "pun_word": "dawn",
+    "target_word": "dawn",
+    "source_sense": "sunrise",
+    "target_sense": "ideas"
+  },
+  {
+    "text": "The inventor of sandpaper had a rough time of it.",
+    "pun_word": "rough",
+    "target_word": "rough",
+    "source_sense": "inventor",
+    "target_sense": "time;of;it"
+  },
+  {
+    "text": "A mechanic who was also a musician was good at tuning things.",
+    "pun_word": "tuning",
+    "target_word": "tuning",
+    "source_sense": "mechanic",
+    "target_sense": "musician"
+  },
+  {
+    "text": "Becoming a yoga instructor offers the possibilities of a unique teaching position.",
+    "pun_word": "position",
+    "target_word": "position",
+    "source_sense": "yoga instructor",
+    "target_sense": "unique;teaching"
+  },
+  {
+    "text": "If you think guests really enjoy your home movies, you are probably projecting.",
+    "pun_word": "projecting",
+    "target_word": "projecting",
+    "source_sense": "thinking",
+    "target_sense": "enjoy;home;movies"
+  },
+  {
+    "text": "The bargain store promised a free abacus with every purchase, but I wouldn't count on it.",
+    "pun_word": "count",
+    "target_word": "count",
+    "source_sense": "abacus",
+    "target_sense": "on;it"
+  },
+  {
+    "text": "How do I handle change? I put it in the parking meter.",
+    "pun_word": "change",
+    "target_word": "change",
+    "source_sense": "handle",
+    "target_sense": "put;parking;meter"
+  },
+  {
+    "text": "The warden gave the inmates acne medicine hoping it would keep them from breaking out.",
+    "pun_word": "breaking",
+    "target_word": "breaking",
+    "source_sense": "out",
+    "target_sense": "out"
+  },
+  {
+    "text": "A carpenter sat on his drill and was bored to tears.",
+    "pun_word": "bored",
+    "target_word": "bored",
+    "source_sense": "drill",
+    "target_sense": "carpenter;tears"
+  },
+  {
+    "text": "She was only a Flag-waver's daughter, but she'd let her standards down for anyone.",
+    "pun_word": "standards",
+    "target_word": "standards",
+    "source_sense": "Flag-waver's daughter",
+    "target_sense": "let;down"
+  },
+  {
+    "text": "She was only a Pitcher's daughter, but you should have seen her curves.",
+    "pun_word": "curves",
+    "target_word": "curves",
+    "source_sense": "Pitcher's daughter",
+    "target_sense": "physical;appearance"
+  },
+  {
+    "text": "Once ice cream was invented the problem was licked.",
+    "pun_word": "licked",
+    "target_word": "licked",
+    "source_sense": "ice cream",
+    "target_sense": "problem;invented"
+  },
+  {
+    "text": "Sky divers don't jump, they just fall away.",
+    "pun_word": "fall",
+    "target_word": "fall",
+    "source_sense": "sky divers",
+    "target_sense": "jump;away"
+  },
+  {
+    "text": "OLD METEOROLOGISTS never die, they just get under the weather.",
+    "pun_word": "weather",
+    "target_word": "weather",
+    "source_sense": "meteorologists",
+    "target_sense": "under"
+  },
+  {
+    "text": "The earliest mention of cars is in the Bible when Adam and Eve were driven out of the Garden of Eden.",
+    "pun_word": "driven",
+    "target_word": "driven",
+    "source_sense": "Adam and Eve",
+    "target_sense": "out;of;the;Garden;of;Eden"
+  },
+  {
+    "text": "My name is Rusty. I undercoat cars.",
+    "pun_word": "Rusty",
+    "target_word": "Rusty",
+    "source_sense": "name",
+    "target_sense": "undercoat;cars"
+  },
+  {
+    "text": "Boyle said he was under too much pressure.",
+    "pun_word": "pressure",
+    "target_word": "pressure",
+    "source_sense": "Boyle",
+    "target_sense": "under;too;much"
+  },
+  {
+    "text": "Saw makers losing money have to make lots of cuts.",
+    "pun_word": "cuts",
+    "target_word": "cuts",
+    "source_sense": "saw makers",
+    "target_sense": "losing;money"
+  },
+  {
+    "text": "The janitor's union called for sweeping reforms.",
+    "pun_word": "sweeping",
+    "target_word": "sweeping",
+    "source_sense": "janitor's",
+    "target_sense": "reforms"
+  },
+  {
+    "text": "Did the reproducing amoeba get a splitting headache?",
+    "pun_word": "splitting",
+    "target_word": "splitting",
+    "source_sense": "reproducing amoeba",
+    "target_sense": "reproducing;headache"
+  },
+  {
+    "text": "OLD DENTISTS never die, they just lose their pull.",
+    "pun_word": "pull",
+    "target_word": "pull",
+    "source_sense": "dentists",
+    "target_sense": "lose;their"
+  },
+  {
+    "text": "OLD HIKERS never die they just get the boot.",
+    "pun_word": "boot",
+    "target_word": "boot",
+    "source_sense": "hikers",
+    "target_sense": "get;the"
+  },
+  {
+    "text": "OLD BUTCHERS never die, they just get disjointed.",
+    "pun_word": "disjointed",
+    "target_word": "disjointed",
+    "source_sense": "butchers",
+    "target_sense": "old;get"
+  },
+  {
+    "text": "OLD DIVERS never die, they just flop.",
+    "pun_word": "flop",
+    "target_word": "flop",
+    "source_sense": "divers",
+    "target_sense": "never;die"
+  },
+  {
+    "text": "For fast relief take two tablets. The ten commandments",
+    "pun_word": "take",
+    "target_word": "take",
+    "source_sense": "fast relief",
+    "target_sense": "two;tablets"
+  },
+  {
+    "text": "The president of a ladder manufacturer had to step down.",
+    "pun_word": "step",
+    "target_word": "step",
+    "source_sense": "president;manufacturer",
+    "target_sense": "down"
+  },
+  {
+    "text": "The hardest thing for a person to keep is his opinion",
+    "pun_word": "hardest",
+    "target_word": "hardest",
+    "source_sense": "difficult",
+    "target_sense": "thing;keep"
+  },
+  {
+    "text": "I tried to pack myself in a suitcase. I could hardly contain myself.",
+    "pun_word": "contain",
+    "target_word": "contain",
+    "source_sense": "pack;myself;in;a;suitcase",
+    "target_sense": "hardly"
+  },
+  {
+    "text": "To be a successful frequent flier you need a lot of connections.",
+    "pun_word": "connections",
+    "target_word": "connections",
+    "source_sense": "frequent flier",
+    "target_sense": "successful;lot;of"
+  },
+  {
+    "text": "I couldn't stand to be without my legs.",
+    "pun_word": "stand",
+    "target_word": "stand",
+    "source_sense": "endure",
+    "target_sense": "legs"
+  },
+  {
+    "text": "Old lumberjacks never die, they just pine away.",
+    "pun_word": "pine",
+    "target_word": "pine",
+    "source_sense": "lumberjacks",
+    "target_sense": "die;away"
+  },
+  {
+    "text": "''Pretend we were in the days before railways ,\" Tom coached.",
+    "pun_word": "coached",
+    "target_word": "coached",
+    "source_sense": "pretend;days;before;railways",
+    "target_sense": "instructed"
+  },
+  {
+    "text": "The Easter story is not a dead issue.",
+    "pun_word": "dead",
+    "target_word": "dead",
+    "source_sense": "Easter story",
+    "target_sense": "not;issue"
+  },
+  {
+    "text": "When he fell in the wet concrete he left a bad impression.",
+    "pun_word": "impression",
+    "target_word": "impression",
+    "source_sense": "fell;wet;concrete",
+    "target_sense": "bad"
+  },
+  {
+    "text": "In the army mess hall, the men were getting fed up.",
+    "pun_word": "fed",
+    "target_word": "fed",
+    "source_sense": "army",
+    "target_sense": "up"
+  },
+  {
+    "text": "To some-marriage is a word.. . to others-a sentence.",
+    "pun_word": "sentence",
+    "target_word": "sentence",
+    "source_sense": "others",
+    "target_sense": "word"
+  },
+  {
+    "text": "Doctor, Doctor, what would you take for this cold?-Make me an offer. Next.",
+    "pun_word": "cold",
+    "target_word": "cold",
+    "source_sense": "illness",
+    "target_sense": "this"
+  },
+  {
+    "text": "The comedian stopped at the fabric store on his way to a comedy gig. He was looking for new material.",
+    "pun_word": "material",
+    "target_word": "material",
+    "source_sense": "comedian",
+    "target_sense": "fabric;new"
+  },
+  {
+    "text": "A person who would make a banking joke is of no account.",
+    "pun_word": "account",
+    "target_word": "account",
+    "source_sense": "person",
+    "target_sense": "banking;joke"
+  },
+  {
+    "text": "Pencil sharpeners have a tough life-they live off tips.",
+    "pun_word": "tips",
+    "target_word": "tips",
+    "source_sense": "pencil sharpeners",
+    "target_sense": "advice;money"
+  },
+  {
+    "text": "A city worker who campaigned for new sewer pipes finally had to go underground.",
+    "pun_word": "underground",
+    "target_word": "underground",
+    "source_sense": "city worker",
+    "target_sense": "sewer pipes;campaigned;go"
+  },
+  {
+    "text": "The tongue weighs very little, but few people can hold it.",
+    "pun_word": "tongue",
+    "target_word": "tongue",
+    "source_sense": "few;people;can;hold",
+    "target_sense": "weighs;very;little"
+  },
+  {
+    "text": "We don\u2019t read palms ; we wave them.",
+    "pun_word": "wave",
+    "target_word": "wave",
+    "source_sense": "palm reading",
+    "target_sense": "wave"
+  },
+  {
+    "text": "Doctor, Doctor My little boy has just swallowed a roll of film!-Hmmmm. Let's hope nothing develops. Next.",
+    "pun_word": "develops",
+    "target_word": "develops",
+    "source_sense": "doctor",
+    "target_sense": "film;roll"
+  },
+  {
+    "text": "My name is Woody. A Forester",
+    "pun_word": "Forester",
+    "target_word": "Forester",
+    "source_sense": "name",
+    "target_sense": "wood"
+  },
+  {
+    "text": "When he switched from horses to sailing, his life took on a new tack.",
+    "pun_word": "tack",
+    "target_word": "tack",
+    "source_sense": "horses",
+    "target_sense": "sailing;new;life"
+  },
+  {
+    "text": "A sports match was attended by many scores.",
+    "pun_word": "scores",
+    "target_word": "scores",
+    "source_sense": "sports match",
+    "target_sense": "many;attended"
+  },
+  {
+    "text": "The hypnotist went out of business because he ran out of suggestions.",
+    "pun_word": "suggestions",
+    "target_word": "suggestions",
+    "source_sense": "hypnotist",
+    "target_sense": "ran;out;of"
+  },
+  {
+    "text": "OLD HOUSEWIVES never die, they just wash away.",
+    "pun_word": "wash",
+    "target_word": "wash",
+    "source_sense": "old housewives",
+    "target_sense": "away"
+  },
+  {
+    "text": "She was only a Musician's daughter, but she knew all the bars in town.",
+    "pun_word": "bars",
+    "target_word": "bars",
+    "source_sense": "musician's daughter",
+    "target_sense": "music;town"
+  },
+  {
+    "text": "He hates his job selling used cars, but it's just his lot in life.",
+    "pun_word": "lot",
+    "target_word": "lot",
+    "source_sense": "job",
+    "target_sense": "selling;used;cars"
+  },
+  {
+    "text": "OLD ACADEMICIANS never die, they just lose their faculties",
+    "pun_word": "lose",
+    "target_word": "lose",
+    "source_sense": "die",
+    "target_sense": "faculties"
+  },
+  {
+    "text": "High on a ladder he saw a beautiful girl below. He fell for her.",
+    "pun_word": "fell",
+    "target_word": "fell",
+    "source_sense": "high on a ladder",
+    "target_sense": "saw;a;beautiful;girl;below"
+  },
+  {
+    "text": "Be true to your teeth, or they will be false to you.",
+    "pun_word": "false",
+    "target_word": "false",
+    "source_sense": "true",
+    "target_sense": "teeth;you"
+  },
+  {
+    "text": "OLD LOGICIANS never die, they just vacate the premises.",
+    "pun_word": "vacate",
+    "target_word": "vacate",
+    "source_sense": "old logicians",
+    "target_sense": "die;premises"
+  },
+  {
+    "text": "In high school I recall having a beautiful but difficult math teacher. She was easy on the eyes and hard on the pupils!",
+    "pun_word": "pupils",
+    "target_word": "pupils",
+    "source_sense": "students",
+    "target_sense": "eyes"
+  },
+  {
+    "text": "OLD MUSICIANS never die they just get played out.",
+    "pun_word": "played",
+    "target_word": "played",
+    "source_sense": "musicians",
+    "target_sense": "out"
+  },
+  {
+    "text": "The man brought an umbrella with him into the ice cream store because he heard there was a chance of sprinkles.",
+    "pun_word": "sprinkles",
+    "target_word": "sprinkles",
+    "source_sense": "ice cream topping",
+    "target_sense": "chance;of"
+  },
+  {
+    "text": "I wanted to exercise last night but it just didn't work out.",
+    "pun_word": "work",
+    "target_word": "work",
+    "source_sense": "exercise",
+    "target_sense": "out"
+  },
+  {
+    "text": "When the Dalmatian ran away, he was spotted two blocks from home.",
+    "pun_word": "spotted",
+    "target_word": "spotted",
+    "source_sense": "Dalmatian",
+    "target_sense": "ran;away"
+  },
+  {
+    "text": "Two duchesses were arguing about their husbands. They decided to duke it out.",
+    "pun_word": "duke",
+    "target_word": "duke",
+    "source_sense": "duchesses",
+    "target_sense": "arguing;husbands;decided"
+  },
+  {
+    "text": "Pasteur was boiling about not being invited.",
+    "pun_word": "boiling",
+    "target_word": "boiling",
+    "source_sense": "Pasteur",
+    "target_sense": "angry;heated"
+  },
+  {
+    "text": "She became a telephone operator because it was her calling.",
+    "pun_word": "calling",
+    "target_word": "calling",
+    "source_sense": "telephone operator",
+    "target_sense": "her"
+  },
+  {
+    "text": "OLD BUNGEE JUMPERS sometimes die but they can still bounce back",
+    "pun_word": "bounce",
+    "target_word": "bounce",
+    "source_sense": "bungee jumpers",
+    "target_sense": "rebound;recover"
+  },
+  {
+    "text": "There is only one way to open the door and that is the key.",
+    "pun_word": "key",
+    "target_word": "key",
+    "source_sense": "open;door",
+    "target_sense": "only;way"
+  },
+  {
+    "text": "His business plan to manufacture scissors just didn't cut it.",
+    "pun_word": "cut",
+    "target_word": "cut",
+    "source_sense": "manufacture",
+    "target_sense": "business;plan"
+  },
+  {
+    "text": "The sergeant drank whiskey in order to be fortified in his position.",
+    "pun_word": "fortified",
+    "target_word": "fortified",
+    "source_sense": "sergeant",
+    "target_sense": "drank;whiskey"
+  },
+  {
+    "text": "I wanted to be a sonar technician, but it was out of my depth.",
+    "pun_word": "sonar",
+    "target_word": "sonar",
+    "source_sense": "technician",
+    "target_sense": "depth"
+  },
+  {
+    "text": "They replaced the baseball with an orange to add zest to the game.",
+    "pun_word": "zest",
+    "target_word": "zest",
+    "source_sense": "baseball",
+    "target_sense": "orange;add"
+  },
+  {
+    "text": "Lawyers have to like alcohol because they're always being called to the bar.",
+    "pun_word": "bar",
+    "target_word": "bar",
+    "source_sense": "lawyers",
+    "target_sense": "alcohol;called"
+  },
+  {
+    "text": "An exterminator in Idaho announced that he invented a new spray, one application of which will remain effective for a full season. \" Of course ,\" he warned. \" I've still got a few bugs to iron out. ''",
+    "pun_word": "bugs",
+    "target_word": "bugs",
+    "source_sense": "insects",
+    "target_sense": "few;iron;out"
+  },
+  {
+    "text": "He was almost persuaded to invest in a poultry farm, but chickened out at the last minute.",
+    "pun_word": "chickened",
+    "target_word": "chickened",
+    "source_sense": "almost persuaded",
+    "target_sense": "out;last;minute"
+  },
+  {
+    "text": "OLD ACTUARIES never die they just get broken down by age and sex.",
+    "pun_word": "actuaries",
+    "target_word": "actuaries",
+    "source_sense": "old",
+    "target_sense": "broken;down;age;sex"
+  },
+  {
+    "text": "A lawyer was defending a math teacher. He had to sum up.",
+    "pun_word": "sum",
+    "target_word": "sum",
+    "source_sense": "lawyer",
+    "target_sense": "defending;math;teacher"
+  },
+  {
+    "text": "The two bowlers bore a striking resemblance.",
+    "pun_word": "bore",
+    "target_word": "bore",
+    "source_sense": "bowlers",
+    "target_sense": "two;resemblance"
+  },
+  {
+    "text": "My name is Dick. I'm a plain-clothes policeman.",
+    "pun_word": "Dick",
+    "target_word": "dick",
+    "source_sense": "name",
+    "target_sense": "policeman"
+  },
+  {
+    "text": "A boiled egg is hard to beat.",
+    "pun_word": "beat",
+    "target_word": "beat",
+    "source_sense": "hard;to",
+    "target_sense": "boiled;egg"
+  },
+  {
+    "text": "She was only a Electrician's daughter, and she made house calls to remove her customers'shorts.",
+    "pun_word": "shorts",
+    "target_word": "shorts",
+    "source_sense": "Electrician's daughter",
+    "target_sense": "made;house;calls;remove;customers'"
+  },
+  {
+    "text": "OLD STATUES never die they just get busted.",
+    "pun_word": "busted",
+    "target_word": "busted",
+    "source_sense": "old statues",
+    "target_sense": "never;die"
+  },
+  {
+    "text": "This is where I keep my arrows, said Tom, quivering.",
+    "pun_word": "quivering",
+    "target_word": "quiver",
+    "source_sense": "Tom",
+    "target_sense": "arrows"
+  },
+  {
+    "text": "The cost of the space program is astronomical.",
+    "pun_word": "astronomical",
+    "target_word": "astronomical",
+    "source_sense": "cost",
+    "target_sense": "space;program"
+  },
+  {
+    "text": "He got a job in a factory making needles, but soon got stuck.",
+    "pun_word": "stuck",
+    "target_word": "stuck",
+    "source_sense": "job",
+    "target_sense": "factory;making;needles"
+  },
+  {
+    "text": "Have you heard the joke about the bomb? It had no impact.",
+    "pun_word": "impact",
+    "target_word": "impact",
+    "source_sense": "joke",
+    "target_sense": "bomb;no"
+  },
+  {
+    "text": "A tire store loves a chance to Roll out a new product.",
+    "pun_word": "Roll",
+    "target_word": "roll",
+    "source_sense": "chance",
+    "target_sense": "tire;product"
+  },
+  {
+    "text": "Two airline pilots in a stand-up comedy did a takeoff.",
+    "pun_word": "takeoff",
+    "target_word": "takeoff",
+    "source_sense": "airline pilots",
+    "target_sense": "stand-up comedy"
+  },
+  {
+    "text": "Bring your spirtual Marshmellows, our pastor is on fire!",
+    "pun_word": "fire",
+    "target_word": "fire",
+    "source_sense": "pastor",
+    "target_sense": "spiritual"
+  },
+  {
+    "text": "Vines are extremely short-tempered. They snap at the slightest wind.",
+    "pun_word": "snap",
+    "target_word": "snap",
+    "source_sense": "vines",
+    "target_sense": "short-tempered;wind"
+  },
+  {
+    "text": "Home improvement. Take your family to church.",
+    "pun_word": "church",
+    "target_word": "church",
+    "source_sense": "place of worship",
+    "target_sense": "family"
+  },
+  {
+    "text": "Why don't people like to talk to garbage men? They mostly talk trash.",
+    "pun_word": "trash",
+    "target_word": "trash",
+    "source_sense": "talk",
+    "target_sense": "garbage;men"
+  },
+  {
+    "text": "My friend's bakery burned down last night. Now his business is toast.",
+    "pun_word": "toast",
+    "target_word": "toast",
+    "source_sense": "burned;down",
+    "target_sense": "business"
+  },
+  {
+    "text": "OLD BANKERS never die they just lose interest.",
+    "pun_word": "interest",
+    "target_word": "interest",
+    "source_sense": "bankers",
+    "target_sense": "lose"
+  },
+  {
+    "text": "She was only a Swimmer's daughter, but she knew every dive in town..",
+    "pun_word": "dive",
+    "target_word": "dive",
+    "source_sense": "swimmer's",
+    "target_sense": "every;town"
+  }
+]

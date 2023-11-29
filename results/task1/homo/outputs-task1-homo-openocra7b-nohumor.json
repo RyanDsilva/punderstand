@@ -1,0 +1,3380 @@
+[
+  {
+    "id": "hom_1862",
+    "text": "What did the minister say to the underdressed layman?'' No shoes, no shirt, no service''",
+    "output": true,
+    "explanation": "The pun word 'shoes' supports two plausible interpretations of 'shoes' as in footwear and 'shoes' as a homophone for 'zoo'. In the given sentence, the words 'No shoes' relates to the first interpretation while 'No service' refers to the second interpretation. Both of these are distinct where one is about dress code and the other is about not providing services."
+  },
+  {
+    "id": "hom_496",
+    "text": "She's a composer who has scores of works to her credit.",
+    "output": false,
+    "explanation": "The word 'scores' does not support two plausible interpretations in the given sentence. It only refers to a large number of works by the composer."
+  },
+  {
+    "id": "hom_982",
+    "text": "People only throw stones at trees with fruit on them.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations."
+  },
+  {
+    "id": "hom_119",
+    "text": "Some people find fire drills quite Alarming.",
+    "output": false,
+    "explanation": "The word 'Alarming' does not support two plausible interpretations of the word 'alarm' as in a device that makes loud noise and 'alarming' as an adjective meaning causing alarm or anxiety. There are no other words in the sentence that realize both interpretations, hence the sentence is not a pun."
+  },
+  {
+    "id": "hom_273",
+    "text": "OLD KEY PUNCH OPERATORS never die they just punch out.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "hom_1365",
+    "text": "Is there a best month of spring?There May be.",
+    "output": true,
+    "explanation": "The pun word 'May' supports two plausible interpretations of 'May' as the fifth month of the year and 'may' as an auxiliary verb indicating possibility or potential. In the given sentence, the words 'best month of spring' relate to the first interpretation of 'May' as a month while the phrase 'There May be' refers to the second interpretation of 'may' as an auxiliary verb."
+  },
+  {
+    "id": "hom_213",
+    "text": "In the middle of difficulty lies opportunity.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_1068",
+    "text": "My job as head chef at a top rated restaurant is in jeopardy because my latest culinary creation was called a recipe for disaster.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous words that can be interpreted in multiple ways."
+  },
+  {
+    "id": "hom_1453",
+    "text": "Peter went overboard for the lord, why can\u2019t we.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "hom_1928",
+    "text": "A bible falling apart belongs to someone who isn\u2019t.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations."
+  },
+  {
+    "id": "hom_2152",
+    "text": "OLD SOCCER PLAYERS never die, they just go on dribbling.",
+    "output": true,
+    "explanation": "The pun word 'die' supports two plausible interpretations of 'die' meaning to cease living and 'dribble' meaning to bounce a ball repeatedly while moving. In the given sentence, the words 'old soccer players' relate to 'die' meaning to cease living while 'never die' refers to the second interpretation of 'dribble' meaning to bounce a ball repeatedly while moving."
+  },
+  {
+    "id": "hom_95",
+    "text": "I'm NOT\"white ,\"I'm\"melanin-challenged. \"",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations."
+  },
+  {
+    "id": "hom_1581",
+    "text": "Forgive and forget.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_293",
+    "text": "If you go for a job interview at a rubber stamp company try to make a good impression.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_1642",
+    "text": "The earless defendant waived his hearing.",
+    "output": false,
+    "explanation": "In this sentence, 'earless' is not a pun word because it does not support two plausible interpretations of the word. The word 'hearing' in the context of a court hearing does not relate to the sense of hearing."
+  },
+  {
+    "id": "hom_1159",
+    "text": "Do NOT look into laser with remaining eye..",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_1362",
+    "text": "\" Tea, Early Grey, hot\"- Picard..\"Ale, Romulan, lots.\"- Kirk",
+    "output": true,
+    "explanation": "The pun word 'Early Grey' and 'lots' of 'Romulan Ale' are used to create a humorous effect. The words 'Tea' and 'Ale' relate to the two different drinks while 'hot' and 'lots' support two plausible interpretations of 'Grey' meaning early in time and 'lots' meaning a large quantity."
+  },
+  {
+    "id": "hom_729",
+    "text": "My son wanted a scooter. When I told him they are too dangerous, he moped around the house.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_665",
+    "text": "Federal Law prohibits the removal of this tagline",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_243",
+    "text": "A new type of broom came out, it is sweeping the nation.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations."
+  },
+  {
+    "id": "hom_1124",
+    "text": "Old accountants never die, they just lose their balance.",
+    "output": true,
+    "explanation": "The pun word 'lose' supports two plausible interpretations of 'lose' meaning to cease to have or to be deprived of something and 'lose' as in the accounting term 'loss'. In the given sentence, the words 'accountants' relate to 'balance' which is a type of accounting term. Both of these are distinct where one refers to accountants losing their balance and the other refers to an action done in accounting which is recording a loss."
+  },
+  {
+    "id": "hom_923",
+    "text": "You've got more issues than Time magazine.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations."
+  },
+  {
+    "id": "hom_916",
+    "text": "An Electrician's work is well grounded.",
+    "output": false,
+    "explanation": "The word 'grounded' does not support two plausible interpretations in this sentence."
+  },
+  {
+    "id": "hom_2199",
+    "text": "If it's useless, it will have to be documented.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun word."
+  },
+  {
+    "id": "hom_756",
+    "text": "She was only an Artist's daughter, but what a crowd she could draw.",
+    "output": true,
+    "explanation": "The pun word 'draw' supports two plausible interpretations of 'draw' meaning to attract or gather people and 'draw' as in the act of making a picture or design. In the given sentence, the words 'crowd' relates to 'draw' meaning to attract or gather people while 'she could draw' refers to the second interpretation of 'draw' as in the act of making a picture or design."
+  },
+  {
+    "id": "hom_193",
+    "text": "She was only a Catcher's daughter, but she had many balls bounce off her chin.",
+    "output": true,
+    "explanation": "The pun word 'balls' supports two plausible interpretations of 'balls' meaning baseballs and 'balls' meaning testicles. In the given sentence, the words 'Catcher's daughter' relates to 'baseballs' while 'bounce off her chin' refers to the second interpretation of 'balls' meaning testicles."
+  },
+  {
+    "id": "hom_776",
+    "text": "War is too important to be left to the generals.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguity that supports multiple interpretations."
+  },
+  {
+    "id": "hom_272",
+    "text": "Pharmacists find their work to be very encapsulating.",
+    "output": false,
+    "explanation": "The word 'encapsulating' does not have any ambiguity or pun potential in this sentence."
+  },
+  {
+    "id": "hom_17",
+    "text": "You have two choices for dinner : Take it or Leave it.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "hom_1795",
+    "text": "Biologists have recently produced immortal frogs by removing their vocal cords. They can't croak.",
+    "output": true,
+    "explanation": "The pun word 'croak' supports two plausible interpretations of 'croak' meaning to make a sound like a frog and 'croak' meaning to die. In the given sentence, the words 'biologists' relates to 'frogs' while 'produced immortal' refers to the first interpretation of 'croak' meaning making a sound. The second interpretation is realized by the word 'can't', which means they can't die."
+  },
+  {
+    "id": "hom_1434",
+    "text": "My name is Will, I'm a lawyer.",
+    "output": false,
+    "explanation": "There are no pun words or ambiguous interpretations in the sentence."
+  },
+  {
+    "id": "hom_2082",
+    "text": "Misery loves company.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_1993",
+    "text": "Everyone talks about the weather, but nobody does anything about it.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations."
+  },
+  {
+    "id": "hom_829",
+    "text": "She was only a Convict's daughter, but she sure knew all of the bars.",
+    "output": true,
+    "explanation": "The word 'bars' in this sentence supports two plausible interpretations - one as prison bars and another as alcoholic beverages (bars). The phrase 'she sure knew all of the bars' can be interpreted in two ways: either she is very knowledgeable about prison life or she is a frequent visitor to bars. This duality makes it a pun."
+  },
+  {
+    "id": "hom_394",
+    "text": "For the office drunk : He generally found him loaded with work to do.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_384",
+    "text": "There are as good fish in the sea as ever were caught.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun word."
+  },
+  {
+    "id": "hom_1897",
+    "text": "Last night sex was so good the neighbors lit cigarettes.",
+    "output": true,
+    "explanation": "The pun word 'sex' supports two plausible interpretations of 'sex' meaning sexual intercourse and 'six' as a number. In the given sentence, the words 'last night' relates to 'sex' while 'so good' refers to the second interpretation of 'six'. Both of these are distinct where one refers to an event that happened last night while the other refers to a count of six."
+  },
+  {
+    "id": "hom_1764",
+    "text": "I found out that at the gym, their opinion on fitness carries a lot of weight.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "hom_1129",
+    "text": "A fool with a tool is a well-equipped fool",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations of the same word."
+  },
+  {
+    "id": "hom_1376",
+    "text": "Fight fire with fire.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "hom_1654",
+    "text": "My name is Oscar, and I'm a movie star.",
+    "output": false,
+    "explanation": "There are no pun words in the sentence."
+  },
+  {
+    "id": "hom_1955",
+    "text": "One of the joys of being a lightweight is that commuting by wind is a breeze!",
+    "output": true,
+    "explanation": "The pun word 'breeze' supports two plausible interpretations of 'breeze' meaning a gentle wind and 'breeze' meaning an easy task. In the given sentence, the words 'lightweight' relates to 'breeze' meaning an easy task while 'commuting by wind' refers to the first interpretation of 'breeze' meaning a gentle wind."
+  },
+  {
+    "id": "hom_123",
+    "text": "Barking dogs seldom bite.",
+    "output": false,
+    "explanation": "The word 'bark' does not support two plausible interpretations in this sentence. It only refers to the sound made by a dog."
+  },
+  {
+    "id": "hom_1518",
+    "text": "My cavity wasn't fixed by my regular dentist, but by a guy who was filling in.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguity that supports multiple interpretations."
+  },
+  {
+    "id": "hom_938",
+    "text": "OLD LUMBERJACKS never die, they just split.",
+    "output": true,
+    "explanation": "The pun word 'split' supports two plausible interpretations of 'split' meaning to divide or separate and 'split' as in a type of wood. In the given sentence, the words 'OLD LUMBERJACKS' relates to 'split' meaning a type of wood while 'never die' refers to the first interpretation of 'split' meaning to divide or separate."
+  },
+  {
+    "id": "hom_792",
+    "text": "I think Santa has riverfront property in Brazil. All our presents came from Amazon this year.",
+    "output": true,
+    "explanation": "The pun word 'Amazon' supports two plausible interpretations of Amazon as the name of a river and Amazon as an online shopping platform. In the given sentence, the words 'Santa', 'has', 'property', 'in Brazil' relate to the first interpretation of Amazon as a river while 'our presents came from' refers to the second interpretation of Amazon as an online shopping platform."
+  },
+  {
+    "id": "hom_739",
+    "text": "Good eating deserves good drinking.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_2028",
+    "text": "Weather forecasters thinking is sometimes clouded.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations."
+  },
+  {
+    "id": "hom_1085",
+    "text": "When the plane hit turbulence, the passengers went flying.",
+    "output": false,
+    "explanation": "The word 'flying' does not support any plausible interpretations that would create a pun in this sentence."
+  },
+  {
+    "id": "hom_1295",
+    "text": "OLD STATUES never die they just get busted.",
+    "output": true,
+    "explanation": "The pun word 'die' supports two plausible interpretations of 'die' meaning to cease living and 'die' meaning to break into pieces. In the given sentence, the words 'old statues' relates to 'die' meaning to cease living while 'never die' refers to the second interpretation of 'die' meaning to break into pieces. Both of these are distinct where one refers to the life cycle of a statue and the other refers to the physical destruction of it."
+  },
+  {
+    "id": "hom_2064",
+    "text": "Did you hear about the tire dealer that had a blowout sale?",
+    "output": true,
+    "explanation": "The pun word 'blowout' supports two plausible interpretations of 'blowout' meaning an event where something is sold at a reduced price and 'blow out' meaning to burst or inflate. In the given sentence, the words 'tire dealer' relates to 'blowout sale' while 'had' refers to the second interpretation of 'blow out' which means to burst or inflate."
+  },
+  {
+    "id": "hom_2096",
+    "text": "The All-Pro wide receiver's wedding was a little bit shaky, but his reception was excellent.",
+    "output": true,
+    "explanation": "In the sentence, 'shaky' can be interpreted as both unstable or nervous and also as a type of drink. The word 'reception' can be understood in two ways - as a social gathering or as the quality of the drinks served at the event. This creates a pun effect where the two interpretations are related to the context of the sentence."
+  },
+  {
+    "id": "hom_153",
+    "text": "- Call me a taxi.-OK, you're a taxi.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_309",
+    "text": "Practice makes perfect.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "hom_1184",
+    "text": "I got a deal on a new computer, and they threw in the operating system to boot.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguity that supports multiple interpretations."
+  },
+  {
+    "id": "hom_1400",
+    "text": "It was a sad day for the rattlesnake family, the time had come for the children to strike out on their own.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_1320",
+    "text": "Doctor, Doctor, should I file my nails?- No. Throw them away like everybody else. Next.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "hom_1424",
+    "text": "Doctor, doctor, people tell me I'm a wheelbarrow.-Don't let people push you around. Next.",
+    "output": true,
+    "explanation": "In the sentence 'Doctor, doctor, people tell me I'm a wheelbarrow.-Don't let people push you around.', the word 'wheelbarrow' is used as a pun. The word 'wheelbarrow' can be interpreted in two ways: as an actual wheelbarrow or as an expression referring to someone being pushed around by others. This dual interpretation creates a pun, as the sentence humorously plays on both meanings."
+  },
+  {
+    "id": "hom_526",
+    "text": "The frog went unnoticed in the milkshake because it blended so well.",
+    "output": true,
+    "explanation": "In this sentence, the pun word is 'milkshake'. The word 'milkshake' supports two plausible interpretations of 'milkshake' as a beverage and 'milk' as in dairy product. In the given sentence, the words 'frog' relates to 'milkshake' while 'went unnoticed' refers to the second interpretation of 'milk' which is blending into the background. Both of these are distinct where one refers to a frog being in a milkshake and the other refers to an action done by the frog which is blending into its surroundings."
+  },
+  {
+    "id": "hom_1527",
+    "text": "When the shocked IRS agent was found guilty of tax evasion he had to take time to collect himself.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous words that support two plausible interpretations."
+  },
+  {
+    "id": "hom_650",
+    "text": "She was only a Moonshiner's daughter, but I love her still.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_1081",
+    "text": "It's hard for a depressed turtle to get out of his shell.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "hom_1853",
+    "text": "Endorsement by an olympic swimmer caused a company's profits to dive.",
+    "output": true,
+    "explanation": "The pun word 'dive' supports two plausible interpretations of 'dive' meaning to plunge into water and 'dive' as a verb meaning to decrease rapidly. In the given sentence, the words 'endorsement' relates to 'dive' meaning to plunge into water while 'caused a company's profits to dive' refers to the second interpretation of 'dive' as in a rapid decrease."
+  },
+  {
+    "id": "hom_255",
+    "text": "A lawyer asked his dentist to give him a retainer.",
+    "output": true,
+    "explanation": "The pun word 'retainer' supports two plausible interpretations of 'retainer' meaning a person who is retained for legal services and 'retainer' as in a device that holds something in place. In the given sentence, the words 'lawyer' relates to the first interpretation of 'retainer' while 'give him' refers to the second interpretation of 'retainer' as a device that holds something in place."
+  },
+  {
+    "id": "hom_3",
+    "text": "Can honeybee abuse lead to a sting operation?",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous terms that can be interpreted in multiple ways."
+  },
+  {
+    "id": "hom_2074",
+    "text": "History is a set of lies agreed upon by the Victors",
+    "output": false,
+    "explanation": "There are no pun words in the sentence."
+  },
+  {
+    "id": "hom_672",
+    "text": "Our bikinis are exciting. They are simply the tops.",
+    "output": false,
+    "explanation": "The word 'tops' does not support two plausible interpretations that could be used to create a pun in this sentence."
+  },
+  {
+    "id": "hom_662",
+    "text": "He bent over to pick up a sieve and strained himself.",
+    "output": false,
+    "explanation": "The word 'strained' does not support any other plausible interpretations in the context of the sentence."
+  },
+  {
+    "id": "hom_1153",
+    "text": "A boxer who wants to get married has the ring to worry about.",
+    "output": true,
+    "explanation": "In this sentence, the word 'ring' is a pun. It can be interpreted as both a wedding ring and a boxing ring. The sentence implies that a boxer who wants to get married has two types of rings to worry about: a wedding ring and a boxing ring."
+  },
+  {
+    "id": "hom_945",
+    "text": "She was only a Bricklayer's daughter, but she was certainly stacked.",
+    "output": true,
+    "explanation": "The pun word 'stacked' supports two plausible interpretations of 'stacked' meaning well-built or attractive and 'stacked' as in a pile of bricks. In the given sentence, the words 'Bricklayer's daughter' relates to 'stacked' meaning a pile of bricks while 'certainly' refers to the second interpretation of 'stacked' meaning well-built or attractive."
+  },
+  {
+    "id": "hom_122",
+    "text": "Little by little and bit by bit.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "hom_1370",
+    "text": "Captain we're at 1700 CPS. The UARTs canna take much more",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "hom_1721",
+    "text": "Confidence is the companion of success.",
+    "output": false,
+    "explanation": "There are no pun words or ambiguous interpretations in the sentence."
+  },
+  {
+    "id": "hom_174",
+    "text": "''I make the armour out of chain links ,'' Tom replied by mail.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_281",
+    "text": "I never have understood how you're supposed to hit anything with a bat..... it keeps flying away.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous words that can be interpreted in multiple ways."
+  },
+  {
+    "id": "hom_2104",
+    "text": "OLD WRITERS never die, they just get erased.",
+    "output": true,
+    "explanation": "The pun word 'erased' supports two plausible interpretations of 'erased' meaning to remove or obliterate (as in the case of writers) and 'erasd' meaning a misspelled version of 'lazed', which is a slang term for being lazy. In the given sentence, the words 'old writers' relate to 'erased' while 'never die' refers to the second interpretation of 'lazed'. Both of these are distinct where one refers to the removal or obliteration of old writers and the other refers to the idiomatic expression of never dying but being lazy."
+  },
+  {
+    "id": "hom_854",
+    "text": "Here is how the track meet is going to run...",
+    "output": false,
+    "explanation": "There are no pun words or ambiguous interpretations in the sentence."
+  },
+  {
+    "id": "hom_770",
+    "text": "OLD HIPPIES never die, they just take a trip.",
+    "output": true,
+    "explanation": "The pun word 'trip' supports two plausible interpretations of 'trip' meaning a journey and 'trip' as in a hallucinogenic drug. In the given sentence, the words 'OLD HIPPIES' relates to 'trip' meaning a journey while 'never die' refers to the second interpretation of 'trip' as in a hallucinogenic drug."
+  },
+  {
+    "id": "hom_1329",
+    "text": "Wal-Mart Is Not the Only Saving Place. Come On In.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun word."
+  },
+  {
+    "id": "hom_1880",
+    "text": "The case against a donut thief was full of holes.",
+    "output": true,
+    "explanation": "In this sentence, 'donut' is the pun word that supports two plausible interpretations - a round pastry and a hole in an object. The words 'case against' relate to the first interpretation of 'donut' as a pastry, while 'full of holes' refers to the second interpretation of 'donut' as a hole in an object."
+  },
+  {
+    "id": "hom_611",
+    "text": "If I want your opinion I'll beat it out of you!",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "hom_669",
+    "text": "Press any key to continue.. Any other key to format hard drive.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_745",
+    "text": "Tailors enjoy hanging out in internet fora, as they are full of threads.",
+    "output": true,
+    "explanation": "The pun word 'threads' supports two plausible interpretations of threads meaning a collection of messages on an online discussion forum and threads meaning yarn or string. In the given sentence, the words 'tailors' relates to 'threads' meaning yarn or string while 'internet fora' refers to the first interpretation of 'threads' meaning a collection of messages on an online discussion forum."
+  },
+  {
+    "id": "hom_1896",
+    "text": "Mason-Dixon Line n. Separates y'all from youse guys",
+    "output": true,
+    "explanation": "The pun word 'Line' supports two plausible interpretations of 'line' meaning a boundary and 'line' as in phonetic pronunciation of the word 'lain'. In the given sentence, the words 'Mason-Dixon Line' relates to 'line' meaning a boundary while 'Separates' refers to the second interpretation of 'line' as in phonetic pronunciation of the word 'lain'. Both of these are distinct where one refers to a geographical boundary and the other refers to the action of separating two different groups."
+  },
+  {
+    "id": "hom_248",
+    "text": "In zen skiing, you learn to become one with the snow.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_1835",
+    "text": "The janitor's union called for sweeping reforms.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_2065",
+    "text": "''This wind is awful ,'' blustered Tom.",
+    "output": false,
+    "explanation": "The word 'awful' does not support two plausible interpretations in the given sentence."
+  },
+  {
+    "id": "hom_1421",
+    "text": "She was only a Governor's daughter, but what a state she was in.",
+    "output": true,
+    "explanation": "The pun word 'state' supports two plausible interpretations of 'state' as in a condition or state of being and 'state' as in a geographical region. In the given sentence, the words 'Governor's daughter' relates to 'state' meaning a geographical region while 'she was in' refers to the second interpretation of 'state' as in a condition or state of being."
+  },
+  {
+    "id": "hom_401",
+    "text": "You know what happens after you miss math class?It starts adding up.",
+    "output": true,
+    "explanation": "The pun word 'adding' supports two plausible interpretations of 'adding' as in the mathematical operation and 'adding' as in increasing or accumulating. In the given sentence, the words 'happens after you miss math class' relates to the first interpretation of 'adding' meaning the mathematical operation while 'It starts' refers to the second interpretation of 'adding' as in increasing or accumulating."
+  },
+  {
+    "id": "hom_1474",
+    "text": "Always smile. It makes people wonder what you're up to.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_1806",
+    "text": "I wondered why the baseball was getting bigger. Then it hit me.",
+    "output": true,
+    "explanation": "The pun word 'hit' supports two plausible interpretations of 'hit' meaning to physically strike an object and 'hit' as in understanding or realizing something. In the given sentence, the words 'wondered', 'why', 'getting bigger' relate to the first interpretation of 'hit' meaning a physical action while 'then it hit me' refers to the second interpretation of 'hit' meaning realization or understanding."
+  },
+  {
+    "id": "hom_1143",
+    "text": "VanDeGraaf charged his assistant to attend.",
+    "output": false,
+    "explanation": "The word 'charged' does not support any plausible interpretations that would result in a pun. The sentence is about VanDeGraaf charging his assistant to attend an event or activity."
+  },
+  {
+    "id": "hom_1792",
+    "text": "The general started bowling before his aide had entered his name on the score sheet. He had launched a pre-emptive strike.",
+    "output": true,
+    "explanation": "In this sentence, the pun word is 'pre-emptive'. It can be interpreted in two ways: as a noun referring to an action taken before it's needed, or as an adjective describing something that happens before something else. The phrase 'pre-emptive strike' refers to an attack launched before the enemy has a chance to respond. This pun uses both interpretations of 'pre-emptive', making it a valid pun."
+  },
+  {
+    "id": "hom_2141",
+    "text": "Life\u2019s a ledger, are we giving a good accounting of ourselves",
+    "output": false,
+    "explanation": "The word 'ledger' does not have any ambiguity in this sentence. It refers to an account book only and there is no other word that can support two plausible interpretations."
+  },
+  {
+    "id": "hom_1173",
+    "text": "Continually discovering new viruses can become a strain.",
+    "output": false,
+    "explanation": "The word 'strain' does not support two plausible interpretations in the context of this sentence."
+  },
+  {
+    "id": "hom_1939",
+    "text": "He's not dead, he's electroencephalographically challenged",
+    "output": true,
+    "explanation": "The pun word 'electroencephalographically' supports two plausible interpretations of 'electroencephalographically' meaning related to the study of electrical activity in the brain and 'electrically challenged' meaning having difficulty with electricity. In the given sentence, the words 'not dead' relates to the first interpretation while 'challenged' refers to the second interpretation."
+  },
+  {
+    "id": "hom_1302",
+    "text": "He got a job in a factory making needles, but soon got stuck.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations."
+  },
+  {
+    "id": "hom_64",
+    "text": "Why do those that pay the least complain the most?",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous words that support multiple interpretations."
+  },
+  {
+    "id": "hom_1891",
+    "text": "Gauss was asked to attend because of his magnetic personality.",
+    "output": false,
+    "explanation": "The word 'magnetic' does not support two plausible interpretations in the context of this sentence."
+  },
+  {
+    "id": "hom_1538",
+    "text": "The weather bureau is an umbrella organization.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous words that can be interpreted in two different ways."
+  },
+  {
+    "id": "hom_1445",
+    "text": "You can't have an omelette unless you break the egg.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "hom_589",
+    "text": "Curiosity didn't kill the cat. I got'im with the mower!",
+    "output": true,
+    "explanation": "The pun word 'cat' supports two plausible interpretations of 'cat' meaning a feline animal and 'cat' meaning to cut or trim. In the given sentence, the words 'Curiosity' relates to 'cat' meaning a feline animal while 'killed' refers to the first interpretation of 'cat'. The second part of the sentence uses 'mower' which supports the second interpretation of 'cat' meaning to cut or trim."
+  },
+  {
+    "id": "hom_726",
+    "text": "The most popular operation for orthopaedic surgeons is upper-leg surgery : very hip.",
+    "output": false,
+    "explanation": "There are no pun words in the sentence."
+  },
+  {
+    "id": "hom_626",
+    "text": "Give and you might receive. Take and be sure of it.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_1811",
+    "text": "Your E-mail has been returned due to insufficient voltage",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_61",
+    "text": "Old math teachers never die, they just become irrational.",
+    "output": true,
+    "explanation": "The pun word 'irrational' supports two plausible interpretations of 'irrational' meaning not following a logical pattern and 'irrational' meaning not reasonable or sensible. In the given sentence, the words 'old math teachers' relates to 'irrational' meaning not following a logical pattern while 'never die' refers to the second interpretation of 'irrational' meaning not reasonable or sensible."
+  },
+  {
+    "id": "hom_704",
+    "text": "The color of the sun in the early morning : rose.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_370",
+    "text": "( a ) Fast, ( b ) Reliable, ( c ) Inexpensive-Pick Two.",
+    "output": false,
+    "explanation": "The given sentence is not a pun as it does not contain any ambiguous word that supports two plausible interpretations."
+  },
+  {
+    "id": "hom_421",
+    "text": "A gardening store owner who often called long distance for importing realized that talk and dirt aren't necessarily cheap.",
+    "output": true,
+    "explanation": "The pun word 'dirt' supports two plausible interpretations of 'dirt' meaning soil and 'dirt' meaning inexpensive or low quality. In the given sentence, the words 'gardening store owner' relates to 'dirt' meaning soil while 'talk' refers to the second interpretation of 'dirt' meaning inexpensive or low quality."
+  },
+  {
+    "id": "hom_1961",
+    "text": "A blow with a word strikes deeper than a blow with a sword.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations."
+  },
+  {
+    "id": "hom_1070",
+    "text": "Strike while the iron is hot.",
+    "output": false,
+    "explanation": "There are no pun words in the sentence."
+  },
+  {
+    "id": "hom_1233",
+    "text": "It is the early bird that gets the worm.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "hom_1608",
+    "text": "If you want a metal dog leash go to a chain store.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguity that supports two plausible interpretations."
+  },
+  {
+    "id": "hom_1640",
+    "text": "If you can't beat them, join them.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "hom_681",
+    "text": "Molecules boiling points vary to some degree.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_2027",
+    "text": "Sometimes our Outlook in Life is sent but not received.",
+    "output": false,
+    "explanation": "There are no pun words in the sentence."
+  },
+  {
+    "id": "hom_327",
+    "text": "He bought a plate with four corners so he could have a square meal.",
+    "output": true,
+    "explanation": "The pun word 'square' supports two plausible interpretations of 'square' meaning a geometric shape and 'square' meaning fair or equitable. In the given sentence, the words 'meal' relates to the first interpretation of 'square meal' which refers to a balanced diet. The second interpretation of 'square' as in fair or equitable is realized by the phrase 'so he could have', indicating that he wanted to have a fair or equitable meal."
+  },
+  {
+    "id": "hom_934",
+    "text": "OLD MEDIUMS never die, they just lose their spirits.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous terms that can be interpreted in multiple ways."
+  },
+  {
+    "id": "hom_1698",
+    "text": "She was only a Fireman's daughter, but she's really going to blazes.",
+    "output": true,
+    "explanation": "The pun word 'blazes' supports two plausible interpretations of 'blazes' meaning a state of intense fire and 'blazes' as an informal term for going at high speed. In the given sentence, the words 'Fireman's daughter' relates to 'blazes' meaning a state of intense fire while 'really going to' refers to the second interpretation of 'blazes' as in going at high speed."
+  },
+  {
+    "id": "hom_2197",
+    "text": "My name is Nick. I was a barber but I'm looking for a new job.",
+    "output": false,
+    "explanation": "There are no pun words in the sentence."
+  },
+  {
+    "id": "hom_458",
+    "text": "OLD TYPISTS never die, they just lose their justification.",
+    "output": true,
+    "explanation": "The pun word 'justification' supports two plausible interpretations of 'justification' meaning a reason or explanation and 'justify' meaning to make something seem reasonable or valid. In the given sentence, the words 'old typists' relates to 'justification' while 'never die' refers to the second interpretation of 'justify'. Both of these are distinct where one refers to old typists having a reason or explanation and the other refers to them not dying but continuing their work."
+  },
+  {
+    "id": "hom_2100",
+    "text": "His day job was astronomy but at night time he was moonlighting.",
+    "output": true,
+    "explanation": "The pun word 'moonlighting' supports two plausible interpretations of 'moonlighting' meaning working a second job and 'moonlighting' as in the act of reflecting or shining light from the moon. In the given sentence, the words 'day job' relates to 'astronomy' while 'night time' refers to the second interpretation of 'moonlighting' as in the act of reflecting or shining light from the moon."
+  },
+  {
+    "id": "hom_1963",
+    "text": "OLD CHEMISTS never die, they just fail to react.",
+    "output": true,
+    "explanation": "The pun word 'react' supports two plausible interpretations of 'react' meaning a chemical reaction and 'react' as in responding or being reactive. In the given sentence, the words 'old chemists' relate to 'chemical reaction' while 'never die' refers to the second interpretation of 'not reacting' or 'being unresponsive'. Both of these are distinct where one refers to a chemist's field of work and the other refers to a state of being inactive."
+  },
+  {
+    "id": "hom_1892",
+    "text": "A group of physicists is called a nucleus.",
+    "output": false,
+    "explanation": "The word 'nucleus' does not have any ambiguity in the sentence where it supports two plausible interpretations of nucleus as in a group of physicists and nucleus as in the central part of an atom. There are no other words in the sentence that realize both interpretations, hence the sentence is not a pun."
+  },
+  {
+    "id": "hom_55",
+    "text": "I made a batch of fish eye soup, it should see me through the week.",
+    "output": true,
+    "explanation": "The pun word 'eye' supports two plausible interpretations of 'eye' meaning the organ in our head and 'I'. In the given sentence, the words 'made a batch of fish eye soup' relates to the first interpretation of 'eye' as an organ while 'it should see me through the week' refers to the second interpretation of 'I'. Both of these are distinct where one refers to preparing a dish and the other refers to the speaker's survival for the week."
+  },
+  {
+    "id": "hom_1719",
+    "text": "My dog has a lot of potential, you just have to unleash it.",
+    "output": true,
+    "explanation": "In this sentence, the word 'potential' supports two plausible interpretations of 'potential' meaning capability or possibility and 'potential' as in a substance that can be used for energy. The word 'unleash' refers to both interpretations where it can mean releasing someone's potential or releasing a potential energy. Hence, the sentence is a pun."
+  },
+  {
+    "id": "hom_2248",
+    "text": "OLD MUSICIANS never die they just get played out.",
+    "output": true,
+    "explanation": "The pun word 'played' supports two plausible interpretations of 'played' meaning being performed musically and 'played out' meaning no longer interesting or fashionable. In the given sentence, the words 'musicians' relates to 'played' meaning being performed musically while 'never die' refers to the second interpretation of 'played out' meaning no longer interesting or fashionable."
+  },
+  {
+    "id": "hom_1096",
+    "text": "There is no such thing as bravery ; only degrees of fear.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous terms that can be interpreted in multiple ways."
+  },
+  {
+    "id": "hom_1185",
+    "text": "OLD UPHOLSTERERS never die, they just recover..",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations."
+  },
+  {
+    "id": "hom_751",
+    "text": "Go away, you snake!Tom rattled off.",
+    "output": false,
+    "explanation": "The word 'snake' is not a pun word in this sentence as it only supports one interpretation of a venomous reptile. There are no other words in the sentence that realize both interpretations, hence the sentence is not a pun."
+  },
+  {
+    "id": "hom_1326",
+    "text": "The doctor couldn't transfer the organs because he didn't have the guts to do it.",
+    "output": true,
+    "explanation": "In this sentence, the pun word 'guts' supports two plausible interpretations of 'guts' meaning intestines and 'guts' meaning courage or bravery. The word 'doctor' relates to the first interpretation of 'guts' as intestines while the word 'to do it' refers to the second interpretation of 'guts' as courage or bravery."
+  },
+  {
+    "id": "hom_943",
+    "text": "The landscaper thought gardening magazines were fun to leaf through.",
+    "output": true,
+    "explanation": "In this sentence, the pun word is 'leaf'. It supports two plausible interpretations of 'leaf' as a page of printed matter and a green leaf. The words 'landscaper', 'thought', 'gardening magazines', and 'fun to leaf through' all relate to the first interpretation of 'leaf' meaning a page of printed matter, while the word 'green' relates to the second interpretation of 'leaf' as a green leaf."
+  },
+  {
+    "id": "hom_1733",
+    "text": "Sharks don't eat lawyers. Professional courtesy.",
+    "output": true,
+    "explanation": "In the sentence 'Sharks don't eat lawyers. Professional courtesy.', the pun word is 'sharks'. The first interpretation of 'sharks' refers to the marine predators and the second one refers to a group of legal professionals. The phrase 'professional courtesy' connects both interpretations, as it implies that sharks (the marine predators) do not eat lawyers (legal professionals) out of professional courtesy."
+  },
+  {
+    "id": "hom_2018",
+    "text": "When they claimed to house two thousand campers, it sounded like a lot of bunk.",
+    "output": true,
+    "explanation": "The pun word 'bunk' supports two plausible interpretations of 'bunk' meaning false information and 'bunk' as in beds or furniture. In the given sentence, the words 'claimed to house' relates to 'false information' while 'two thousand campers' refers to the second interpretation of 'beds or furniture'. Both of these are distinct where one refers to misleading claim about accommodating people and the other refers to a large number of beds."
+  },
+  {
+    "id": "hom_195",
+    "text": "Jesus did the only extreme world makeover, the flood",
+    "output": true,
+    "explanation": "The pun word 'flood' supports two plausible interpretations of 'flood' meaning a natural disaster and 'food' meaning something to eat. In the given sentence, the words 'Jesus did the only extreme world makeover' relate to the first interpretation of 'flood' as a natural disaster while 'the flood' refers to the second interpretation of 'food'. Both of these are distinct where one refers to an action done by Jesus and the other refers to a type of event."
+  },
+  {
+    "id": "hom_1679",
+    "text": "Long absent, soon forgotten.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_440",
+    "text": "The coffee tasted like mud because it was ground a couple of minutes ago.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_656",
+    "text": "The aluminum foiled my plans.",
+    "output": true,
+    "explanation": "In this sentence, the word 'aluminum' is used as a pun. It can be interpreted in two ways: either as the metal or as the action of covering something with aluminum foil. The phrase 'foiled my plans' suggests that someone tried to cover up or prevent something from happening, which aligns with the second interpretation."
+  },
+  {
+    "id": "hom_2205",
+    "text": "We must take the bad with the good.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_614",
+    "text": "I went to buy some property with a hill on it, but it was a little steep.",
+    "output": false,
+    "explanation": "The word 'steep' in the sentence does not support two plausible interpretations that would create a pun. The word 'steep' is used to describe the incline of the hill and does not have any other ambiguous meanings in this context."
+  },
+  {
+    "id": "hom_1298",
+    "text": "Pasteur was boiling about not being invited.",
+    "output": false,
+    "explanation": "The word 'boiling' does not support any ambiguity or pun interpretation in this sentence."
+  },
+  {
+    "id": "hom_511",
+    "text": "Why didn't the little boy ask the flight attendant for a snack?He didn't have the nuts.",
+    "output": true,
+    "explanation": "The pun word 'nuts' supports two plausible interpretations of 'nuts' meaning testicles and 'nuts' as in peanuts or other types of nuts. In the given sentence, the words 'little boy' relates to 'testicles' while 'flight attendant' refers to the second interpretation of 'peanuts or other types of nuts'. Both of these are distinct where one refers to a little boy's private part while the other refers to an action done in anger which is not having peanuts."
+  },
+  {
+    "id": "hom_1046",
+    "text": "Quick at meat, quick at work.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun word or ambiguous words that support multiple interpretations."
+  },
+  {
+    "id": "hom_884",
+    "text": "My name is Ham. I raise pigs",
+    "output": false,
+    "explanation": "The word 'pig' does not support two plausible interpretations in the sentence."
+  },
+  {
+    "id": "hom_1569",
+    "text": "A cutlery manufacturing company was built at a fork in the road.",
+    "output": false,
+    "explanation": "The word 'fork' does not support two plausible interpretations of 'fork' meaning a utensil and 'fork' as a place where roads meet. There are no other words in the sentence that realize both interpretations, hence the sentence is not a pun."
+  },
+  {
+    "id": "hom_1422",
+    "text": "I never get lost, just momentarily disoriented.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations."
+  },
+  {
+    "id": "hom_2210",
+    "text": "Two airline pilots in a stand-up comedy did a takeoff.",
+    "output": true,
+    "explanation": "The pun word 'takeoff' supports two plausible interpretations of 'takeoff' meaning an action done by airplanes and 'take off' meaning to remove one's shoes or clothing. In the given sentence, the words 'airline pilots' relate to 'takeoff' as in an action done by airplanes while 'stand-up comedy' refers to the second interpretation of 'take off' meaning to remove one's shoes or clothing."
+  },
+  {
+    "id": "hom_1456",
+    "text": "The railway constructions are on track.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_1910",
+    "text": "Live by the sword, die by the sword.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations."
+  },
+  {
+    "id": "hom_2023",
+    "text": "I'm very picky about my hair, so a strange barber just won't cut it.",
+    "output": true,
+    "explanation": "The pun word 'cut it' supports two plausible interpretations of 'cut' as in cutting hair and 'cut' as in not accepting something. In the given sentence, the words 'barber' relates to 'hair' while 'strange barber' refers to a barber that is strange or unusual. Both of these are distinct where one refers to a person who cuts hair and the other refers to an unacceptable situation."
+  },
+  {
+    "id": "hom_1520",
+    "text": "Installing a fan can be a breeze.",
+    "output": false,
+    "explanation": "The word 'breeze' does not support two plausible interpretations that would form a pun in the given sentence."
+  },
+  {
+    "id": "hom_1516",
+    "text": "This is a picture of my new house, said Tom, visibly moved.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous words that support multiple interpretations."
+  },
+  {
+    "id": "hom_1429",
+    "text": "Waiter, there's a fly in my soup!'' At our restaurant, we guarantee You won't find a single fly.'''' Whaddya mean?'''' Because they're all married.''",
+    "output": true,
+    "explanation": "The pun word 'fly' supports two plausible interpretations of 'fly' meaning an insect and 'fly' as in a verb to move through the air. In the given sentence, the words 'waiter', 'restaurant', 'guarantee', 'married' relate to the first interpretation of 'fly' as an insect while 'whaddya mean?' and 'Because they're all married'' refer to the second interpretation of 'fly' as in a verb to move through the air."
+  },
+  {
+    "id": "hom_244",
+    "text": "Behind every great computer lies... a mess of wires!",
+    "output": true,
+    "explanation": "The pun word 'wires' supports two plausible interpretations of 'wires' meaning the physical cables and 'wires' meaning connections or relationships. In the given sentence, the words 'great computer' relates to 'wires' meaning the physical cables while 'lies' refers to the second interpretation of 'wires' meaning connections or relationships."
+  },
+  {
+    "id": "hom_2066",
+    "text": "My new theory on inertia doesn't seem to be gaining momentum.",
+    "output": false,
+    "explanation": "The word 'momentum' does not support two plausible interpretations that could form a pun. The sentence is about the progress of a theory and does not contain any ambiguous words."
+  },
+  {
+    "id": "hom_1133",
+    "text": "Ampere was worried he wasn't up to current research.",
+    "output": false,
+    "explanation": "The word 'current' does not support two plausible interpretations in the context of the sentence. The word 'research' is unrelated to any other word that could be interpreted as a pun."
+  },
+  {
+    "id": "hom_1499",
+    "text": "OLD BOOTLEGGERS never die, they just keep still.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_733",
+    "text": "A career is a job that takes about 20 more hours a week.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations."
+  },
+  {
+    "id": "hom_1618",
+    "text": "Have an optometrist run for president, because they are people of vision.",
+    "output": true,
+    "explanation": "The pun word 'vision' supports two plausible interpretations of 'vision' meaning the ability to see and 'vision' as in a goal or future view. In the given sentence, the words 'optometrist' relates to 'vision' meaning the ability to see while 'run for president' refers to the second interpretation of 'vision' as in a goal or future view."
+  },
+  {
+    "id": "hom_1497",
+    "text": "We offer counsel so you are not audited on your final return.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguity that supports multiple interpretations."
+  },
+  {
+    "id": "hom_132",
+    "text": "My name is Bill. I run a collection agency",
+    "output": false,
+    "explanation": "There are no pun words or ambiguous interpretations in the sentence."
+  },
+  {
+    "id": "hom_559",
+    "text": "My name is Ray. I'm a roentgenologist.",
+    "output": false,
+    "explanation": "The word 'roentgenologist' does not have any ambiguity or pun potential in the sentence."
+  },
+  {
+    "id": "hom_396",
+    "text": "An undertaker can be one of your best friends, he is always the last one to let you down.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous words that support two plausible interpretations."
+  },
+  {
+    "id": "hom_1304",
+    "text": "OLD SALESMEN never die, they just go out of commission.",
+    "output": true,
+    "explanation": "The pun word 'commission' supports two plausible interpretations of 'commission' as a salesmen's job and 'commission' as in a group of people working together. In the given sentence, the words 'old salesmen' relate to the first interpretation while the word 'out' refers to the second interpretation of 'going out of commission'. Both of these are distinct where one refers to the retirement of salesmen and the other refers to the cessation of a group's activity."
+  },
+  {
+    "id": "hom_1419",
+    "text": "My dentist seems distracted, I think he was brushing me off.",
+    "output": false,
+    "explanation": "The word 'brushing' in the sentence does not support two plausible interpretations of 'brushing'. It only refers to the action of cleaning teeth. There are no other words in the sentence that realize both interpretations, hence the sentence is not a pun."
+  },
+  {
+    "id": "hom_320",
+    "text": "Scientists have created a flea from scratch.",
+    "output": false,
+    "explanation": "The word 'flea' does not support any ambiguity or pun in the sentence."
+  },
+  {
+    "id": "hom_1386",
+    "text": "We have nothing to fear but fear itself.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun word."
+  },
+  {
+    "id": "hom_1040",
+    "text": "OLD PHOTOGRAPHERS never die they just stop developing.",
+    "output": false,
+    "explanation": "The word 'developing' in the sentence does not support two plausible interpretations that would create a pun. The only interpretation of 'developing' is related to the process of photographic film or paper being treated to produce an image. There are no other words in the sentence that realize both interpretations, hence the sentence is not a pun."
+  },
+  {
+    "id": "hom_1127",
+    "text": "The math professor liked even numbers, but only the odd one.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_26",
+    "text": "If you leave alphabet soup on the stove and go out, it could spell disaster.",
+    "output": true,
+    "explanation": "The pun word 'alphabet' supports two plausible interpretations of 'alphabet' meaning a collection of letters and 'alphabet' as in alphabet soup. In the given sentence, the words 'leave', 'on the stove', and 'go out' relate to the first interpretation of 'alphabet' as a collection of letters while 'spell disaster' refers to the second interpretation of 'alphabet' as in alphabet soup."
+  },
+  {
+    "id": "hom_2200",
+    "text": "The guy who sold his carnival got a Fair deal.",
+    "output": true,
+    "explanation": "In this sentence, 'carnival' can be interpreted in two ways - as an event or a vehicle. The word 'Fair' also has two meanings - as in fairness or as in a fairground. The pun lies in the fact that both interpretations of 'carnival' and 'Fair' are used in the sentence, creating a humorous effect."
+  },
+  {
+    "id": "hom_1715",
+    "text": "The police auction was a complete bust.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_690",
+    "text": "Coaches usually have a goal in mind.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_622",
+    "text": "Dermatologists often make rash statements.",
+    "output": true,
+    "explanation": "The pun word 'rash' supports two plausible interpretations of 'rash' meaning hasty or impulsive and 'rash' as a skin condition. In the given sentence, the words 'dermatologists' relates to 'rash' meaning a skin condition while 'often make' refers to the first interpretation of 'rash' meaning hasty or impulsive."
+  },
+  {
+    "id": "hom_1555",
+    "text": "She had a boyfriend with a wooden leg, but broke it off.",
+    "output": true,
+    "explanation": "The pun word 'broke' supports two plausible interpretations of 'broke' meaning to end a relationship and 'broke' as in financially unable to afford. In the given sentence, the words 'boyfriend' relates to 'wooden leg' while 'broke it off' refers to the first interpretation of ending a relationship."
+  },
+  {
+    "id": "hom_563",
+    "text": "If pride goes before a fall, humility should arrive by that winter",
+    "output": false,
+    "explanation": "The sentence does not contain any pun word or ambiguous words that support two plausible interpretations."
+  },
+  {
+    "id": "hom_276",
+    "text": "If you work in a forestry company you will probably have to log your time.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations."
+  },
+  {
+    "id": "hom_329",
+    "text": "My name is Melody. A Musician",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguity that supports multiple interpretations."
+  },
+  {
+    "id": "hom_1374",
+    "text": "She was only a Swimmer's daughter, but she knew every dive in town..",
+    "output": false,
+    "explanation": "The word 'Swimmer' does not support two plausible interpretations of 'swimmer' meaning a person who swims and 'swimmer' meaning a fish. There are no other words in the sentence that realize both interpretations, hence the sentence is not a pun."
+  },
+  {
+    "id": "hom_1311",
+    "text": "While the music was playing the geology teacher was rocking around.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_1525",
+    "text": "Engineers : often wrong, seldom in doubt.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations."
+  },
+  {
+    "id": "hom_609",
+    "text": "I used to be addicted to soap, but I'm clean now.",
+    "output": true,
+    "explanation": "The pun word 'soap' supports two plausible interpretations of 'soap' meaning a cleaning product and 'soap' meaning a bar of detergent. In the given sentence, the words 'used to be addicted' relates to 'soap' meaning a cleaning product while 'clean now' refers to the second interpretation of 'soap' meaning a bar of detergent. Both of these are distinct where one refers to being addicted to a cleaning product and the other refers to being clean from a bar of detergent."
+  },
+  {
+    "id": "hom_998",
+    "text": "A boy told his parents he wanted to raise goats for a living, but he was only kidding.",
+    "output": true,
+    "explanation": "In the sentence, 'kidding' is used as a pun word. It can mean both being playful or joking and also referring to young goats. The boy is saying he was only joking about raising goats for a living."
+  },
+  {
+    "id": "hom_1598",
+    "text": "There are sins of omission as well as of commission.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous terms that can be interpreted in multiple ways."
+  },
+  {
+    "id": "hom_1319",
+    "text": "Still water runs deep.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "hom_297",
+    "text": "\" Graphic Artist seeks Boss with vision impairment. \"",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "hom_1101",
+    "text": "Eve showed up one morning wearing flowers instead of a fig leaf. She was the first woman to wear bloomers.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "hom_1929",
+    "text": "If you work in a tire factory you have to get rolling every morning.",
+    "output": true,
+    "explanation": "The pun word 'rolling' supports two plausible interpretations of 'rolling' meaning the act of moving smoothly along a surface and 'roll' meaning a tire. In the given sentence, the words 'tire factory' relates to 'roll' meaning a tire while 'every morning' refers to the first interpretation of 'rolling' as an action done every day."
+  },
+  {
+    "id": "hom_1986",
+    "text": "I tinted my hair today. It was the highlight of my day.",
+    "output": false,
+    "explanation": "The word 'highlight' does not support two plausible interpretations that could form a pun in this context."
+  },
+  {
+    "id": "hom_861",
+    "text": "I'm going to the guillotine at dawn and my wife has already collected my severance pay.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "hom_1139",
+    "text": "She was only a Photographer's daughter, but she was really developed.",
+    "output": true,
+    "explanation": "The pun word 'developed' supports two plausible interpretations of 'developed' meaning fully grown or matured and 'developed' as in photographs being processed. In the given sentence, the words 'Photographer's daughter' relates to 'developed' meaning fully grown or matured while 'but she was really' refers to the second interpretation of 'developed' as in photographs being processed."
+  },
+  {
+    "id": "hom_1706",
+    "text": "Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_59",
+    "text": "A big enough hammer can usually fix anything.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous words that support multiple interpretations."
+  },
+  {
+    "id": "hom_222",
+    "text": "Airline pilots make many friends in high places.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous terms that can be interpreted in multiple ways."
+  },
+  {
+    "id": "hom_1502",
+    "text": "Bill Gates took advantage of his Windows of opportunity",
+    "output": true,
+    "explanation": "The pun word 'Windows' supports two plausible interpretations of 'Windows' as in the Microsoft product and 'windows' as in the openings in a wall. In the given sentence, the words 'Bill Gates' relates to 'Microsoft Windows' while 'took advantage of his' refers to the second interpretation of 'windows' meaning openings in a wall where he took advantage of opportunities."
+  },
+  {
+    "id": "hom_872",
+    "text": "Even if you're on the right track, you'll get run over if you just sit there.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_2010",
+    "text": "OLD WASHING MACHINE OPERATORS never die, they just keep agitating.",
+    "output": true,
+    "explanation": "The pun word 'operators' supports two plausible interpretations of 'operators' meaning people who operate washing machines and 'operators' meaning mathematical operations. In the given sentence, the words 'old' relates to the first interpretation of 'operators' meaning people who operate washing machines while 'never die' refers to the second interpretation of 'operators' as mathematical operations that never end or continue indefinitely."
+  },
+  {
+    "id": "hom_1824",
+    "text": "Some people still think that writing long stories is a novel idea.",
+    "output": true,
+    "explanation": "The pun word 'novel' supports two plausible interpretations of 'novel' meaning new and 'novel' as in a long fictional story. In the given sentence, the words 'long stories' relate to 'novel' meaning a long fictional story while 'still think' refers to the first interpretation of 'novel' meaning new."
+  },
+  {
+    "id": "hom_1921",
+    "text": "I went to a buffet dinner with my neighbor, who is a taxidermist. After such a big meal, I was stuffed.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or phrases."
+  },
+  {
+    "id": "hom_831",
+    "text": "Life is a game. Money is how we keep score.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "hom_865",
+    "text": "It's the Borg!!Quick, everyone try to look useless!",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_1469",
+    "text": "Some jokes get dated, other jokes get married.",
+    "output": false,
+    "explanation": "There are no pun words or ambiguous interpretations in the sentence."
+  },
+  {
+    "id": "hom_676",
+    "text": "Old burglars never die they just steal away.",
+    "output": true,
+    "explanation": "The pun word 'die' supports two plausible interpretations of 'die' meaning to cease living and 'dye' meaning a coloring substance. In the given sentence, the words 'old burglars' relates to 'die' while 'steal away' refers to the second interpretation of 'dye'. Both of these are distinct where one refers to old thieves and the other refers to an action done with coloring substances."
+  },
+  {
+    "id": "hom_1757",
+    "text": "''I love hot dogs ,'' said Tom with relish.",
+    "output": false,
+    "explanation": "The word 'hot dogs' is an idiomatic expression referring to people who enjoy eating hot dogs. There are no other words in the sentence that realize both interpretations, hence the sentence is not a pun."
+  },
+  {
+    "id": "hom_46",
+    "text": "Hubble wanted to bring the idea into better focus.",
+    "output": false,
+    "explanation": "The word 'focus' does not support two plausible interpretations in this sentence."
+  },
+  {
+    "id": "hom_2245",
+    "text": "To become an electrician you have to pass a battery of tests.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous terms that can be interpreted in multiple ways."
+  },
+  {
+    "id": "hom_1989",
+    "text": "That's the third time my teacher changed my grade, Tom remarked.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_1780",
+    "text": "The inventor of shag carpet made a big pile.",
+    "output": true,
+    "explanation": "In this sentence, 'shag' can be interpreted as both a type of carpet and a verb meaning to pull or drag something along the ground. The word 'pile' in the sentence refers to the big pile of shag carpets but also supports an interpretation of a large heap of hair. Hence, the sentence is a pun."
+  },
+  {
+    "id": "hom_380",
+    "text": "In an office : Would the person who took the step ladder yesterday kindly bring it back or further steps will be taken.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_824",
+    "text": "Take my advice, I don't use it anyway.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun word."
+  },
+  {
+    "id": "hom_1347",
+    "text": "We're lost but we're making good time.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_928",
+    "text": "Doctor, doctor, I think I'm a bridge.-What's come over you?- Two cars, a truck and a coach.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "hom_1138",
+    "text": "Follow glory and it will flee, flee glory and it will follow thee.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun word or ambiguous words that can support two plausible interpretations."
+  },
+  {
+    "id": "hom_1250",
+    "text": "Never lie to your lawyer.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "hom_1073",
+    "text": "I was fired from my job selling amplifiers. I didn't achieve the sufficient volume of sales.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "hom_1373",
+    "text": "What did the skeleton have for supper?Ribs.",
+    "output": true,
+    "explanation": "The pun word 'ribs' supports two plausible interpretations of ribs as in a type of food and ribs as in the bones that form the rib cage. In the given sentence, the word 'skeleton' relates to 'ribs' where it refers to the bones that form the rib cage."
+  },
+  {
+    "id": "hom_191",
+    "text": "OLD TRIGONOMETRY TEACHERS never die, they just lose their identities.",
+    "output": true,
+    "explanation": "The pun word 'identities' supports two plausible interpretations of 'identities' meaning personal identity and the mathematical concept of identities. In the given sentence, the words 'trigonometry teachers' relates to 'identities' meaning personal identity while 'never die' refers to the second interpretation of 'identities' as in the mathematical concept of identities."
+  },
+  {
+    "id": "hom_159",
+    "text": "The surgeon really did not know how to perform quick surgeries on insects, but he did one on the fly.",
+    "output": true,
+    "explanation": "In this sentence, the pun word 'fly' supports two plausible interpretations of 'fly' meaning an insect and 'fly' meaning to move quickly through the air. The words 'surgeon' relates to 'insects' while 'did one on' refers to the second interpretation of 'fly'. Both of these are distinct where one refers to a surgeon operating on insects and the other refers to an action done on an insect which is moving quickly."
+  },
+  {
+    "id": "hom_1630",
+    "text": "There's many a slip'twixt cup and lip.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "hom_1440",
+    "text": "OLD ALCOHOLICS never die, they just lose their spirit.",
+    "output": true,
+    "explanation": "The pun word 'spirit' supports two plausible interpretations of 'spirit' meaning a ghost or the alcoholic beverage. In the given sentence, the words 'old alcoholics' relates to 'spirit' meaning a ghost while 'lose their' refers to the second interpretation of 'spirit' meaning an alcoholic beverage."
+  },
+  {
+    "id": "hom_1113",
+    "text": "The building inspector said whoever installed the water pipes was plumb loco.",
+    "output": true,
+    "explanation": "In this sentence, 'plumb loco' is a pun word that supports two plausible interpretations of 'plumb' meaning 'perfectly straight' and 'loco' meaning crazy or insane. The sentence implies the building inspector believes the person who installed the water pipes was both perfect in their alignment and crazy at the same time."
+  },
+  {
+    "id": "hom_760",
+    "text": "My name is Marshall. I'm a peace officier.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "hom_326",
+    "text": "Lose nothing for want of asking.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_585",
+    "text": "A rolling stone gathers no moss.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "hom_2041",
+    "text": "A summer is a mathematician.",
+    "output": false,
+    "explanation": "The word 'summer' does not have any ambiguity or plausible interpretations that support two different meanings in the sentence."
+  },
+  {
+    "id": "hom_342",
+    "text": "When entering a funeral home, remember to stay alert and always look alive!",
+    "output": true,
+    "explanation": "The pun word 'home' supports two plausible interpretations of 'home' as in a place where people live and 'alive'. In the given sentence, the words 'funeral home' relates to 'home' meaning a place where people live while 'remember to stay alert and always look alive' refers to the second interpretation of 'alive' meaning being conscious or awake."
+  },
+  {
+    "id": "hom_391",
+    "text": "It's a fact, taller people sleep longer in bed.",
+    "output": false,
+    "explanation": "There are no pun words or ambiguities in the sentence."
+  },
+  {
+    "id": "hom_730",
+    "text": "Spare the rod, spoil the child.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun word."
+  },
+  {
+    "id": "hom_866",
+    "text": "I got a great bargain the other day when I bought a forklift for half-price. It's amazing what you can pick up these days.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "hom_2040",
+    "text": "For greeting card companies their fate is in the cards.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations."
+  },
+  {
+    "id": "hom_1603",
+    "text": "Yo mama's so ugly, she made an onion cry.",
+    "output": true,
+    "explanation": "The pun word 'onion' supports two plausible interpretations of 'onion' as a vegetable and 'mama' as a person. In the given sentence, the words 'Yo mama's' relates to 'onion' while 'made an' refers to the second interpretation of 'mama' meaning a person. Both of these are distinct where one refers to a vegetable and the other refers to a person."
+  },
+  {
+    "id": "hom_1959",
+    "text": "Good clothes open all doors.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_959",
+    "text": "I can do an excellent impression of Sinatra, said Tom, being perfectly frank.",
+    "output": true,
+    "explanation": "In this sentence, the pun word is 'Sinatra'. The name 'Sinatra' supports two plausible interpretations - a famous singer and a type of feather. In the given sentence, the words 'impression' relates to the first interpretation of 'Sinatra' meaning a famous singer, while 'excellent' refers to the second interpretation of 'Sinatra' meaning a type of feather. Both of these are distinct where one refers to an ability to imitate someone and the other refers to the quality of being excellent."
+  },
+  {
+    "id": "hom_1713",
+    "text": "There's a new magnetic steam iron that makes your clothes attractive.",
+    "output": false,
+    "explanation": "The word 'magnetic' does not support two plausible interpretations in the given sentence. There are no other words in the sentence that realize both interpretations, hence the sentence is not a pun."
+  },
+  {
+    "id": "hom_1829",
+    "text": "Give him an inch and he'll take a yard.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous terms that can be interpreted in multiple ways."
+  },
+  {
+    "id": "hom_1905",
+    "text": "''I find you guilty ,'' said the judge with conviction.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_1009",
+    "text": "A pirate with one hand often picked up the phone. He wanted to get off the hook.",
+    "output": true,
+    "explanation": "The pun word 'hook' supports two plausible interpretations of 'hook' meaning a device used for hanging or securing and 'off the hook' meaning not participating in something. In the given sentence, the words 'pirate', 'one hand', 'picked up the phone' relate to the first interpretation of 'hook' as a device, while 'wanted to get off the hook' refers to the second interpretation of 'off the hook' meaning not participating."
+  },
+  {
+    "id": "hom_1092",
+    "text": "She memorized just what kind of locket she wanted, by heart.",
+    "output": false,
+    "explanation": "The word 'heart' in the sentence does not support two plausible interpretations that could be considered as a pun. The word 'heart' is used to refer to the organ in the human body and not to symbolize affection or love."
+  },
+  {
+    "id": "hom_1831",
+    "text": "OLD HOUSEWIVES never die, they just wash away.",
+    "output": true,
+    "explanation": "The pun word 'wash' supports two plausible interpretations of 'wash' meaning to clean and 'wash' as in the term 'old wives tales'. In the given sentence, the words 'OLD HOUSEWIVES' relates to 'old wives tales' while 'never die' refers to the first interpretation of 'wash away' meaning to clean. Both of these are distinct where one refers to a group of elderly women and the other refers to a cleaning process."
+  },
+  {
+    "id": "hom_1015",
+    "text": "Old colanders never die, they just can't take the strain anymore.",
+    "output": true,
+    "explanation": "The pun word 'colanders' supports two plausible interpretations of 'colanders' meaning a kitchen utensil and 'collenders' meaning someone who renders judgement or decisions. In the given sentence, the words 'never die' relates to 'colanders' while 'can't take the strain anymore' refers to the second interpretation of 'collenders' who can't handle the pressure or stress."
+  },
+  {
+    "id": "hom_761",
+    "text": "Goose, gander and gosling are three sounds but one thing.",
+    "output": true,
+    "explanation": "The pun word 'goose' supports two plausible interpretations of 'goose' meaning a bird and 'goose' as a homophone for 'geese'. In the given sentence, the words 'sounds', 'thing' relate to the first interpretation of 'goose' meaning a bird while 'three' refers to the second interpretation of 'goose' as a plural noun. Both of these are distinct where one refers to a bird sound and the other refers to three different types of geese."
+  },
+  {
+    "id": "hom_1810",
+    "text": "Fear not the loss of the bell more than the loss of the steeple.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous terms that can be interpreted in multiple ways."
+  },
+  {
+    "id": "hom_65",
+    "text": "If all appears to go well, you missed something...",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_129",
+    "text": "Yes, you're right. Unfortunately, I don't really care.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_639",
+    "text": "When all is said and done, more is said then done.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or phrases."
+  },
+  {
+    "id": "hom_198",
+    "text": "I like marching songs, in any month.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous words that support multiple interpretations."
+  },
+  {
+    "id": "hom_412",
+    "text": "Waiter, there are pennies in my soup!'' Well, sir, you said you'd stop eating here if there wasn't some change in the food.'' *",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words. The word 'change' is used in two different contexts but it doesn't support multiple interpretations that would be considered a pun."
+  },
+  {
+    "id": "hom_1501",
+    "text": "To draw cartoons for a living requires someone who is very animated.",
+    "output": true,
+    "explanation": "The pun word 'animated' supports two plausible interpretations of 'animated' meaning lively and energetic and 'animated' as in cartoons. In the given sentence, the words 'draw cartoons for a living' relates to 'animated' while 'requires someone who is very' refers to the first interpretation of 'animated' meaning lively and energetic."
+  },
+  {
+    "id": "hom_424",
+    "text": "''I've run out of wool ,'' said Tom, knitting his brow.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or phrases."
+  },
+  {
+    "id": "hom_696",
+    "text": "Time flies.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_1878",
+    "text": "The boy who got electrocuted was unable to give a statement because he was still shocked at the incident.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_1852",
+    "text": "What are you taking pictures of?Tom snapped.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations."
+  },
+  {
+    "id": "hom_1693",
+    "text": "Time will tell.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_1122",
+    "text": "My coach got stung by a bee. The next day he had hives.",
+    "output": true,
+    "explanation": "The pun word 'bee' supports two plausible interpretations of 'bee' as an insect and 'b' in the word 'by'. In the given sentence, the words 'coach' relates to 'bee' while 'hives' refers to the second interpretation of 'b' in the word 'by'. Both of these are distinct where one refers to a coach (a person) being stung by an insect and the other refers to the coach having hives (an allergic reaction)."
+  },
+  {
+    "id": "hom_570",
+    "text": "OLD PSYCHIATRISTS never die, they just shrink away.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguity that supports two plausible interpretations."
+  },
+  {
+    "id": "hom_2208",
+    "text": "Always trust a glue salesman. They tend to stick to their word.",
+    "output": true,
+    "explanation": "The pun word 'glue' supports two plausible interpretations of 'glue' meaning an adhesive substance and 'glue' as in a person who sells glue. In the given sentence, the words 'trust', 'tend to stick' and 'their word' relate to the first interpretation of 'glue' meaning an adhesive substance while 'salesman' relates to the second interpretation of 'glue' as in a person who sells glue. Both of these are distinct where one refers to trusting an adhesive substance and the other refers to trusting a person who sells it."
+  },
+  {
+    "id": "hom_439",
+    "text": "Curiosity killed the cat.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous words that can be interpreted in multiple ways."
+  },
+  {
+    "id": "hom_18",
+    "text": "My advanced geometry class is full of squares.",
+    "output": false,
+    "explanation": "The word 'squares' refers to the shape in this context and there are no other words that support a different interpretation."
+  },
+  {
+    "id": "hom_76",
+    "text": "The inept mathematician couldn't count on his friends.",
+    "output": true,
+    "explanation": "In this sentence, the pun word 'count' supports two plausible interpretations of 'count' meaning to calculate or estimate and 'count' as in rely upon or depend on. The words 'mathematician' relates to the first interpretation of 'count' meaning a calculation while 'friends' refers to the second interpretation of 'count' meaning dependency or reliance."
+  },
+  {
+    "id": "hom_1405",
+    "text": "A bird in the hand is worth two in the bush.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun word."
+  },
+  {
+    "id": "hom_1807",
+    "text": "The athlete colored her hair and started a winning streak.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_474",
+    "text": "One secret of success is to know how to deny yourself and other people.",
+    "output": false,
+    "explanation": "There are no pun words in the sentence."
+  },
+  {
+    "id": "hom_289",
+    "text": "An old spice wholesaler is a seasoned veteran.",
+    "output": true,
+    "explanation": "The pun word 'seasoned' supports two plausible interpretations of 'seasoned' meaning experienced and 'seasoned' meaning flavored with spices. In the given sentence, the words 'wholesaler' relates to 'seasoned' meaning experienced while 'veteran' refers to the second interpretation of 'seasoned' meaning flavored with spices."
+  },
+  {
+    "id": "hom_1644",
+    "text": "Be careful what you wish for, you just might get it.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "hom_1763",
+    "text": "Some people take beautiful pictures and cut them into pieces. That's a puzzle to me.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous word with multiple interpretations."
+  },
+  {
+    "id": "hom_41",
+    "text": "Two astronauts who were dating put an end to it because they both needed their space.",
+    "output": false,
+    "explanation": "The word 'space' does not support two plausible interpretations in this sentence. The context of the sentence is about astronauts and their relationship, so the interpretation of 'space' as a vacuum of space is more likely than the other possible meanings."
+  },
+  {
+    "id": "hom_425",
+    "text": "Lunatic asylum : where optimism most flourishes.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous words that can be interpreted in multiple ways."
+  },
+  {
+    "id": "hom_158",
+    "text": "Better safe than sorry.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_1839",
+    "text": "Double your hard disk space : DELETE WINDOWS!",
+    "output": false,
+    "explanation": "The sentence does not contain any pun word or ambiguity in the words used."
+  },
+  {
+    "id": "hom_250",
+    "text": "A lingerie thief gave a police officer the slip.",
+    "output": true,
+    "explanation": "The pun word 'slip' supports two plausible interpretations of 'slip' meaning an act of stealing and 'slip' as in escaping or evading. In the given sentence, the words 'lingerie thief' relates to 'slip' meaning an act of stealing while 'gave a police officer the slip' refers to the second interpretation of 'slip' meaning escaping or evading."
+  },
+  {
+    "id": "hom_1813",
+    "text": "When writing out drink recipes you have to have a first draft.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_1321",
+    "text": "He's a good letter carrier. He always keeps you posted.",
+    "output": true,
+    "explanation": "The pun word 'carrier' supports two plausible interpretations of 'carrier' meaning someone who transports letters and 'carrier' meaning a person who carries or holds something. In the given sentence, the words 'letter carrier' relates to the first interpretation while 'keeps you posted' refers to the second interpretation."
+  },
+  {
+    "id": "hom_1643",
+    "text": "A seminar on Time Travel will be held 2 weeks ago....",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguity that supports multiple interpretations."
+  },
+  {
+    "id": "hom_1479",
+    "text": "I wrote a novel about a fellow who had a small garden. It didn't have much of a plot.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "hom_223",
+    "text": "OLD MOONSHINERS never die, they just keep still.",
+    "output": true,
+    "explanation": "The pun word 'die' supports two plausible interpretations of 'die' meaning to cease living and 'die' as in the alcoholic drink moonshine. In the given sentence, the words 'OLD MOONSHINERS' relates to 'moonshine' while 'never die' refers to the first interpretation of 'die' meaning to cease living."
+  },
+  {
+    "id": "hom_936",
+    "text": "This just in : Research causes cancer in rats!",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous words that support multiple interpretations."
+  },
+  {
+    "id": "hom_1635",
+    "text": "Even the best bird dog is only good to a point.",
+    "output": false,
+    "explanation": "There are no pun words in the sentence."
+  },
+  {
+    "id": "hom_2238",
+    "text": "OLD GEOGRAPHERS never die, they just become legends.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous words that support two plausible interpretations."
+  },
+  {
+    "id": "hom_528",
+    "text": "Do not add oil to the fire.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_135",
+    "text": "The couple grew fruit trees and lived to a ripe old age.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_1943",
+    "text": "Vertical living is flat dwelling.",
+    "output": false,
+    "explanation": "There are no pun words in the sentence."
+  },
+  {
+    "id": "hom_369",
+    "text": "Before he was hired as a short order cook they grilled him.",
+    "output": true,
+    "explanation": "The pun word 'grilled' supports two plausible interpretations of 'grilled' meaning to cook food on a grill and 'grilled' meaning to question or interrogate someone. In the given sentence, the words 'short order cook' relates to 'cook' while 'before he was hired' refers to the second interpretation of 'interrogation'. Both of these are distinct where one refers to a job role while the other refers to an action done before getting the job."
+  },
+  {
+    "id": "hom_477",
+    "text": "Today is a good day for you to jump in a lake.",
+    "output": false,
+    "explanation": "There are no pun words in the sentence."
+  },
+  {
+    "id": "hom_507",
+    "text": "The first chapter of fools is to think themselves wise.",
+    "output": false,
+    "explanation": "There are no pun words in the sentence."
+  },
+  {
+    "id": "hom_902",
+    "text": "My name is Sue. I'm also a lawyer.",
+    "output": false,
+    "explanation": "There are no pun words or ambiguous interpretations in the sentence."
+  },
+  {
+    "id": "hom_1699",
+    "text": "My name is Frank, the Hot-Dog vendor",
+    "output": false,
+    "explanation": "The word 'Frank' does not support two plausible interpretations in this sentence. It only refers to a person's name and there are no other words that realize both interpretations."
+  },
+  {
+    "id": "hom_1895",
+    "text": "False friends are worse than open enemies.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous terms that can be interpreted in multiple ways."
+  },
+  {
+    "id": "hom_485",
+    "text": "She was only a Electrician's daughter, but she certainly had good connections.",
+    "output": true,
+    "explanation": "The pun word 'connections' supports two plausible interpretations of 'connections' meaning relationships and electrical connections. In the given sentence, the words 'Electrician's daughter' relates to 'electrical connections' while 'good' refers to the second interpretation of 'connections' meaning relationships."
+  },
+  {
+    "id": "hom_591",
+    "text": "The stock market crashes, but Viagra beats the flop.",
+    "output": true,
+    "explanation": "In this sentence, 'crashes' and 'beats the flop' both support two plausible interpretations of 'flop'. The first interpretation refers to a crash in the stock market while the second interpretation refers to a failed performance or product. The word 'Viagra' is used as a pun here where it supports both interpretations: Viagra as a medication and Viagra as a verb meaning to overcome or beat something."
+  },
+  {
+    "id": "hom_1638",
+    "text": "Packing up and relocating to a new home can be a moving experience.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "hom_615",
+    "text": "I find that movies about submarines always go down well.",
+    "output": false,
+    "explanation": "The word 'go down' does not support any pun interpretation in the given sentence."
+  },
+  {
+    "id": "hom_1332",
+    "text": "The passenger couldn't find where his next flight was, but then he made the connection.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_2209",
+    "text": "Archimedes was buoyant at the thought.",
+    "output": false,
+    "explanation": "The word 'buoyant' does not support any plausible interpretations that would create a pun in this sentence."
+  },
+  {
+    "id": "hom_1112",
+    "text": "OLD WHEELS never die they just get retired.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous words that can be interpreted in multiple ways."
+  },
+  {
+    "id": "hom_544",
+    "text": "Two cooks had a contest and the heat was on.",
+    "output": false,
+    "explanation": "The word 'heat' does not support two plausible interpretations in this sentence. It only refers to the temperature or intensity of the contest."
+  },
+  {
+    "id": "hom_423",
+    "text": "When a letter carrier became a hero they called him a deliverer.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguity that supports two plausible interpretations."
+  },
+  {
+    "id": "hom_1062",
+    "text": "Whenever I go near my bank I get withdrawal symptoms.",
+    "output": true,
+    "explanation": "The pun word 'bank' supports two plausible interpretations of bank as in a financial institution and bank as in the banks of a river. In the given sentence, the words 'go near my bank' relates to the first interpretation of 'bank' meaning a financial institution while 'withdrawal symptoms' refers to the second interpretation of 'bank' meaning the banks of a river where one can withdraw or take out something. Both of these are distinct where one refers to visiting a financial institution and the other refers to an action done in anger which is withdrawal from the banks."
+  },
+  {
+    "id": "hom_56",
+    "text": "Elvis Stamps : Where will your mail be spotted next?",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguity that supports multiple interpretations."
+  },
+  {
+    "id": "hom_1788",
+    "text": "Though thou hast ever so many counsellors, yet do not forsake the counsel of thy own soul.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_1802",
+    "text": "You have an important role as a negative example.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_1543",
+    "text": "A computer program attached to an electric chair would have to have its execution checked carefully.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguity that supports two plausible interpretations."
+  },
+  {
+    "id": "hom_367",
+    "text": "If you get sick at the airport it could be a terminal illness.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous words that support multiple interpretations."
+  },
+  {
+    "id": "hom_1276",
+    "text": "Galois wanted to assemble his own group.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_1203",
+    "text": "OLD TRAIN ENGINEERS never die, they just get derailed.",
+    "output": true,
+    "explanation": "The pun word 'engineers' supports two plausible interpretations of 'engineers' as in railway engineers and 'engineers' as in problem solvers. In the given sentence, the words 'old train' relate to 'railway engineers' while 'never die' refers to the second interpretation of 'engineers' as problem solvers who never give up. Both of these are distinct where one refers to railway professionals and the other refers to a metaphorical meaning of not giving up."
+  },
+  {
+    "id": "hom_809",
+    "text": "If Version 1. 0 works someone goofed...",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_618",
+    "text": "\" She's dead, Jim. Still warm, though. Flip ya for her?\"",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_746",
+    "text": "Always remember you're unique-just like everyone else.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations."
+  },
+  {
+    "id": "hom_578",
+    "text": "The exhibitionist went to the store because he heard they were having a flash sale.",
+    "output": true,
+    "explanation": "In this sentence, 'flash' has two plausible interpretations - as in an event that is sudden and striking or as in a camera feature. The word 'store' relates to the first interpretation of 'flash', while the word 'sale' supports the second interpretation. Both these interpretations are realized by different words in the sentence, hence making it a pun."
+  },
+  {
+    "id": "hom_156",
+    "text": "The model who joined the air force was a bombshell.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_112",
+    "text": "A thief who stole a calendar got twelve months.",
+    "output": true,
+    "explanation": "The pun word 'twelve' supports two plausible interpretations of 'twelve' meaning the number and 'twelve' as in the twelve months in a year. In the given sentence, the words 'thief' relates to 'calendar' while 'stole' refers to the second interpretation of 'twelve' as in the twelve months in a year."
+  },
+  {
+    "id": "hom_1916",
+    "text": "Poverty is the reward of idleness.",
+    "output": false,
+    "explanation": "There are no pun words or ambiguous interpretations in the sentence."
+  },
+  {
+    "id": "hom_1621",
+    "text": "When the beautician was asked to complete her make-up work she blushed.",
+    "output": false,
+    "explanation": "The word 'blush' does not support two plausible interpretations of 'blush' meaning a type of flower and 'blush' as in turning red due to embarrassment or emotion. There are no other words in the sentence that realize both interpretations, hence the sentence is not a pun."
+  },
+  {
+    "id": "hom_849",
+    "text": "Truth is stranger than fiction.",
+    "output": false,
+    "explanation": "There are no pun words or ambiguous interpretations in this sentence."
+  },
+  {
+    "id": "hom_2099",
+    "text": "OLD SCULPTORS never die they just lose their marbles.",
+    "output": true,
+    "explanation": "The pun word 'marbles' supports two plausible interpretations of 'marbles' meaning both small round objects used in games and mental faculties. In the given sentence, the words 'old sculptors' relates to 'marbles' as in mental faculties while 'never die' refers to the second interpretation of 'marbles' as in small round objects used in games."
+  },
+  {
+    "id": "hom_1063",
+    "text": "For a chronically absent employee : It seemed her career was just taking off.",
+    "output": true,
+    "explanation": "In this sentence, the pun word 'career' supports two plausible interpretations of 'career' meaning a professional occupation and 'career' meaning a series of events or actions leading to a particular point. The phrase 'taking off' refers to the second interpretation of 'career' as a series of events or actions. Both these interpretations are realized in the sentence, making it a pun."
+  },
+  {
+    "id": "hom_1803",
+    "text": "For insomnia move to the edge of the bed and you'll soon drop off.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous terms that can be interpreted in multiple ways."
+  },
+  {
+    "id": "hom_1867",
+    "text": "A true friend does sometime venture to be offensive.",
+    "output": false,
+    "explanation": "The sentence doesn't contain any pun words or ambiguous words that can support multiple interpretations."
+  },
+  {
+    "id": "hom_783",
+    "text": "After Gus gave his girlfriend a 3 dollar box of chocolates for her birthday he got nothing but snickers.",
+    "output": true,
+    "explanation": "The pun word 'snickers' supports two plausible interpretations of 'snickers' meaning both a type of chocolate and laughter or mockery. In the given sentence, the words 'gave his girlfriend a 3 dollar box of chocolates for her birthday' relates to 'chocolate' while 'got nothing but' refers to the second interpretation of 'snickers' as in laughter or mockery."
+  },
+  {
+    "id": "hom_575",
+    "text": "The two guys caught drinking battery acid will soon be charged.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_1981",
+    "text": "Better is the enemy of good.",
+    "output": false,
+    "explanation": "There are no pun words in the sentence."
+  },
+  {
+    "id": "hom_874",
+    "text": "We are born crying, live complaining, die disappointed",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_240",
+    "text": "My name is Emmy, I'm a T. V. star",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguity that supports two plausible interpretations."
+  },
+  {
+    "id": "hom_1901",
+    "text": "Fools and their money become popular quickly.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous words that can be interpreted in multiple ways."
+  },
+  {
+    "id": "hom_23",
+    "text": "The fire chief was always asked burning questions.",
+    "output": true,
+    "explanation": "In this sentence, the pun word 'burning' supports two plausible interpretations of 'burning' as in a question that is on fire and 'burning' as in something that is being consumed by flames. The words 'fire chief' relate to the first interpretation of 'burning' questions while 'always asked' refers to the second interpretation of 'burning' as in something that is being consumed by flames."
+  },
+  {
+    "id": "hom_1823",
+    "text": "OLD CHAUFFEURS never die they just lose their drive.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "hom_852",
+    "text": "The massage which came with the spa treatment was a nice touch.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_460",
+    "text": "Don't lend people money. It causes amnesia.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "hom_1378",
+    "text": "My name is Guy. I install antennas.",
+    "output": false,
+    "explanation": "There are no pun words or ambiguous interpretations in the sentence."
+  },
+  {
+    "id": "hom_933",
+    "text": "Brag is a good dog, but holdfast is better.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "hom_418",
+    "text": "The Alpine Skiing competition started poorly and went downhill from there.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_1889",
+    "text": "All true wisdom is found on T-shirts.-- And in taglines.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations."
+  },
+  {
+    "id": "hom_1870",
+    "text": "I had an appointment with the chiropractor, but I backed out.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguity that supports two plausible interpretations."
+  },
+  {
+    "id": "hom_532",
+    "text": "Vegetarian : Indian word for lousy hunter!!!",
+    "output": true,
+    "explanation": "The pun word 'Vegetarian' supports two plausible interpretations of 'Vegetarian' meaning a person who abstains from eating meat and 'vegetarian' meaning poor in vegetables or plant life. In the given sentence, the words 'Indian word for lousy hunter' relate to both interpretations where one refers to a vegetarian as a person who doesn't eat meat and the other refers to the Indian vegetation which is poor in plant life."
+  },
+  {
+    "id": "hom_558",
+    "text": "Her decision to take up rock climbing was precipitous to say the least.",
+    "output": false,
+    "explanation": "The word 'precipitous' does not support two plausible interpretations that would form a pun. It only refers to something steep or sudden."
+  },
+  {
+    "id": "hom_1427",
+    "text": "Roentgen was radiating.",
+    "output": false,
+    "explanation": "The word 'radiating' does not have any ambiguity in this sentence. It only supports one interpretation of the word as a state or process of emitting rays or particles."
+  },
+  {
+    "id": "hom_2181",
+    "text": "There was a sale at the fish market today. I went to see what was the catch.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous words that support multiple interpretations."
+  },
+  {
+    "id": "hom_2125",
+    "text": "Bowling Alley : Please be quiet. We need to hear a pin drop.",
+    "output": true,
+    "explanation": "In the given sentence, 'pin' is used as a pun word. It supports two plausible interpretations of 'pin' meaning a small peg and 'pin' meaning a sound made by something falling or striking with a sharp point. In this context, 'be quiet' refers to the first interpretation of 'pin' as in a small peg, while 'hear a pin drop' refers to the second interpretation of 'pin' as in a sound."
+  },
+  {
+    "id": "hom_843",
+    "text": "If you are what you eat, I'm staying away from the nuts!",
+    "output": true,
+    "explanation": "The pun word 'nuts' supports two plausible interpretations of 'nuts' meaning a type of food and 'nuts' as in crazy or insane. In the given sentence, the phrase 'If you are what you eat' relates to 'nuts' meaning a type of food while 'staying away from' refers to the second interpretation of 'nuts' meaning crazy or insane."
+  },
+  {
+    "id": "hom_2107",
+    "text": "Whenever the nurses have a bad day they just keep needling people.",
+    "output": true,
+    "explanation": "The pun word 'needling' supports two plausible interpretations of 'needling' meaning to criticize or annoy and 'needling' as in the act of using a needle. In the given sentence, the words 'nurses' relates to 'needling' while 'people' refers to the second interpretation of 'needling' as in the act of using a needle on people."
+  },
+  {
+    "id": "hom_1183",
+    "text": "The calculus teacher tried to keep his students on task, but the class discussion kept going off on tangents.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_758",
+    "text": "OLD KENTUCKY FRIED CHICKEN FRANCHISERS never die, they just chicken out.",
+    "output": true,
+    "explanation": "The pun word 'chicken' supports two plausible interpretations of 'chicken' meaning a type of poultry and 'chicken out' which is an idiomatic expression for being afraid or not having the courage to do something. In the given sentence, the words 'franchisers' relates to 'chicken' while 'never die' refers to the second interpretation of 'chicken out'. Both of these are distinct where one refers to a type of poultry and the other refers to an action done in fear or lack of courage."
+  },
+  {
+    "id": "hom_2088",
+    "text": "A small boy went to the counter to pay for his lunch but he was a little short.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations."
+  },
+  {
+    "id": "hom_2163",
+    "text": "A city worker who campaigned for new sewer pipes finally had to go underground.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous words that support two plausible interpretations."
+  },
+  {
+    "id": "hom_232",
+    "text": "I'll have what the gentleman on the floor is having.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun word."
+  },
+  {
+    "id": "hom_406",
+    "text": "Early nuclear experimenters discovered an element of surprise.",
+    "output": false,
+    "explanation": "The word 'element' does not support two plausible interpretations in the given sentence."
+  },
+  {
+    "id": "hom_1178",
+    "text": "A lovely lady who lost her watch became a timeless beauty.",
+    "output": true,
+    "explanation": "The pun word 'lost' supports two plausible interpretations of 'lost' meaning to be without something and 'lost' as in not found or gone astray. In the given sentence, the words 'lovely lady' relate to 'lost' meaning to be without something while 'became a timeless beauty' refers to the second interpretation of 'lost' meaning not found or gone astray."
+  },
+  {
+    "id": "hom_1732",
+    "text": "I got a small ticket for speeding. It's fine with me.",
+    "output": false,
+    "explanation": "The word 'ticket' does not support two plausible interpretations in the sentence."
+  },
+  {
+    "id": "hom_43",
+    "text": "Luggage salespeople have to make a good case for you to buy.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations."
+  },
+  {
+    "id": "hom_975",
+    "text": "There is no tree but bears some fruit.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous words that can be interpreted in multiple ways."
+  },
+  {
+    "id": "hom_1785",
+    "text": "Glue inventors have to stick to it.",
+    "output": true,
+    "explanation": "The pun word 'stick' supports two plausible interpretations of 'stick' meaning a piece of wood and 'stuck' meaning adhered or attached. In the given sentence, the words 'inventors' relate to 'stick' while 'have to' refers to the second interpretation of 'stuck'. Both of these are distinct where one refers to inventors creating something from sticks and the other refers to a situation where they have to be adhered or attached."
+  },
+  {
+    "id": "hom_679",
+    "text": "Midwives don't like to wear breeches.",
+    "output": false,
+    "explanation": "The word 'breeches' does not support two plausible interpretations in the sentence. It only refers to a type of clothing and doesn't have any other ambiguous meaning."
+  },
+  {
+    "id": "hom_1748",
+    "text": "I wanted to do some research on anorexia, so I went to the library to get the skinny.",
+    "output": true,
+    "explanation": "The pun word 'skinny' supports two plausible interpretations of 'skinny' meaning thin and 'skinny' meaning information or facts. In the given sentence, the words 'research on anorexia' relates to 'thin' while 'get the' refers to the second interpretation of 'information or facts'. Both of these are distinct where one refers to a person being thin due to anorexia and the other refers to obtaining information from the library."
+  },
+  {
+    "id": "hom_661",
+    "text": "I do a lot of spreadsheets in the office so you can say I'm excelling at work.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun word or ambiguity that supports two plausible interpretations."
+  },
+  {
+    "id": "hom_489",
+    "text": "A civil question deserves a civil answer.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_1371",
+    "text": "Windows loading. Come back tomorrow.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_265",
+    "text": "OLD COWBOYS never die, they just get the boot.",
+    "output": true,
+    "explanation": "The pun word 'boot' supports two plausible interpretations of 'boot' meaning a cowboy's footwear and 'boot' as in being kicked out or dismissed from an organization. In the given sentence, the words 'old cowboys' relates to 'boot' meaning a cowboy's footwear while 'never die' refers to the second interpretation of 'boot' as in being kicked out or dismissed from an organization."
+  },
+  {
+    "id": "hom_844",
+    "text": "My name is Clay. I make pottery.",
+    "output": false,
+    "explanation": "There are no pun words in the sentence."
+  },
+  {
+    "id": "hom_1115",
+    "text": "It said\"Insert disk # 3\", but only 2 will fit!",
+    "output": true,
+    "explanation": "The pun word 'fit' supports two plausible interpretations of 'fit' meaning to be suitable or fitting and 'fit' as in the physical size. In the given sentence, the words 'only 2 will fit' relates to the second interpretation of 'fit' as in the physical size while '3' refers to the first interpretation of 'fit' meaning to be suitable or fitting."
+  },
+  {
+    "id": "hom_484",
+    "text": "Oh sure!But what's the speed of dark?",
+    "output": false,
+    "explanation": "The sentence does not contain any pun word."
+  },
+  {
+    "id": "hom_623",
+    "text": "My name is Bet. I'm a coupier.",
+    "output": false,
+    "explanation": "The word 'coupier' does not support two plausible interpretations that could be used to create a pun."
+  },
+  {
+    "id": "hom_2057",
+    "text": "My student was late for class, claiming he was in the washroom. I think he was stalling.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_1545",
+    "text": "My mate swallowed a cordless vacuum cleaner, they took him to hospital and he is picking up nicely.",
+    "output": false,
+    "explanation": "There are no pun words in the sentence."
+  },
+  {
+    "id": "hom_1047",
+    "text": "She was only a Librarian's daughter, but she was checked out from cover to cover.",
+    "output": true,
+    "explanation": "The pun word 'checked out' supports two plausible interpretations of being physically removed from a library and the phrase 'checked out' meaning being attracted or approved of by someone. In the given sentence, the words 'Librarian's daughter' relates to the first interpretation while 'from cover to cover' refers to the second interpretation of 'checked out'."
+  },
+  {
+    "id": "hom_778",
+    "text": "OLD AIR CONDITIONER REPAIRMEN never die, they just lose their cool.",
+    "output": true,
+    "explanation": "The pun word 'cool' supports two plausible interpretations of 'cool' meaning a temperature and 'cool' as in being calm or relaxed. In the given sentence, the words 'air conditioner repairmen' relate to 'cool' meaning a temperature while 'lose their' refers to the second interpretation of 'cool' meaning being calm or relaxed."
+  },
+  {
+    "id": "hom_1578",
+    "text": "For a long time, black holes were a dark secret.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous terms that can be interpreted in multiple ways."
+  },
+  {
+    "id": "hom_839",
+    "text": "Keyboard not connected. Think F1 to continue.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "hom_981",
+    "text": "I knew a woman who owned a taser, man was she stunning!",
+    "output": true,
+    "explanation": "The pun word 'stunning' supports two plausible interpretations of 'stunning' meaning both visually attractive and causing someone to be stunned or amazed. In the given sentence, the words 'woman' relates to 'stunning' meaning visually attractive while 'owned a taser' refers to the second interpretation of 'stunning' which means causing someone to be stunned or amazed."
+  },
+  {
+    "id": "hom_1065",
+    "text": "A rock band set up on the exchange floor. They wanted to play the stock market.",
+    "output": true,
+    "explanation": "The pun word 'stock' supports two plausible interpretations of 'stock' meaning a type of music and 'stock' as in stocks in the financial market. In the given sentence, the words 'rock band' relates to 'stock' meaning a type of music while 'play' refers to the second interpretation of 'stock' as in stocks in the financial market."
+  },
+  {
+    "id": "hom_719",
+    "text": "Someone who gossips to you will gossip about you.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations."
+  },
+  {
+    "id": "hom_1584",
+    "text": "Cooks have a lot of spice in their lives.",
+    "output": false,
+    "explanation": "The word 'spice' does not support two plausible interpretations that could be used to create a pun. The sentence is simply about cooks having a lot of variety or excitement in their lives."
+  },
+  {
+    "id": "hom_1688",
+    "text": "What's another word for Thesaurus?",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "hom_2070",
+    "text": "Objects under T-Shirt are larger than they appear.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_1024",
+    "text": "OLD ELECTRICIANS never die, they just can't make connections",
+    "output": true,
+    "explanation": "The pun word 'connections' supports two plausible interpretations of 'connections' meaning a link or bond and the ability to establish contact. In the given sentence, the words 'electricians' relates to 'connections' meaning a link or bond while 'never die' refers to the second interpretation of 'connections' meaning the ability to establish contact."
+  },
+  {
+    "id": "hom_899",
+    "text": "Gotta run... the cat's caught in the printer again!",
+    "output": true,
+    "explanation": "The pun word 'caught' supports two plausible interpretations of 'caught' meaning trapped and 'caught' as in past tense of catch. In the given sentence, the words 'cat' relates to 'caught' meaning trapped while 'printer' refers to the second interpretation of 'caught' as in past tense of catch. Both of these are distinct where one refers to a cat being trapped and the other refers to an action done in the past which is catching something."
+  },
+  {
+    "id": "hom_1243",
+    "text": "My name is Victor, and I'm a winner in everything I do.",
+    "output": false,
+    "explanation": "There are no pun words or ambiguous interpretations in the sentence."
+  },
+  {
+    "id": "hom_1576",
+    "text": "Time and tide wait for no man.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations of a word that could support multiple meanings."
+  },
+  {
+    "id": "hom_1954",
+    "text": "I went to an invisible fairground but didn't think it was very good. I just couldn't see the attraction.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "hom_1236",
+    "text": "When the pirate captain's ship ran aground he couldn't fathom why.",
+    "output": false,
+    "explanation": "The word 'fathom' does not support two plausible interpretations in this sentence. It only refers to the depth of water that a person can measure with their arms outstretched."
+  },
+  {
+    "id": "hom_2159",
+    "text": "If you don't know how to choose music ask a guitarist-they know how to pick.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous words that can be interpreted in multiple ways."
+  },
+  {
+    "id": "hom_321",
+    "text": "Seek water in the sea.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_699",
+    "text": "The man who impulsively got a cat despite his allergies later realized that it was a rash decision.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_1110",
+    "text": "OLD AUTO MECHANICS never die, they just retire.",
+    "output": true,
+    "explanation": "The pun word 'die' supports two plausible interpretations of 'die' meaning to cease living and 'die' as in the brand name of a car. In the given sentence, the words 'OLD AUTO MECHANICS' relates to the second interpretation of 'die' as in the brand name of a car while 'never die' refers to the first interpretation of 'die' meaning to cease living."
+  },
+  {
+    "id": "hom_576",
+    "text": "OLD SHOEMAKERS never die, they are just given the boot.",
+    "output": true,
+    "explanation": "The pun word 'boot' supports two plausible interpretations of 'boot' meaning a type of footwear and 'boot' as in being dismissed or expelled from a position. In the given sentence, the words 'shoemakers' relates to 'boot' meaning a type of footwear while 'given the boot' refers to the second interpretation of 'boot' as in being dismissed or expelled from a position."
+  },
+  {
+    "id": "hom_685",
+    "text": "Haste makes waste.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "hom_1151",
+    "text": "My friends and I played a game of football on a pile of quarry rock-we lost on aggregate.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguity that supports two plausible interpretations."
+  },
+  {
+    "id": "hom_635",
+    "text": "I might study something at a university that someone once told me about-there is a degree of ambiguity there.",
+    "output": true,
+    "explanation": "The pun word 'degree' supports two plausible interpretations of 'degree' meaning an academic level and 'degree' as in the angle between two lines. In the given sentence, the words 'study', 'university', 'something', 'at', 'told', and 'about' relate to the first interpretation of 'degree' as an academic level. The word 'ambiguity' relates to the second interpretation of 'degree' as in the angle between two lines."
+  },
+  {
+    "id": "hom_1766",
+    "text": "OLD FIREFIGHTERS never die they just go to blazes.",
+    "output": true,
+    "explanation": "In this sentence, the pun word 'blazes' supports two plausible interpretations of 'blazes' meaning a fire and 'blaze's' meaning fame or reputation. The words 'firefighters' relate to 'blazes' where they are involved in fighting fires while 'never die' refers to the second interpretation of 'blaze's' meaning fame or reputation."
+  },
+  {
+    "id": "hom_806",
+    "text": "Faraday was charged up with the idea.",
+    "output": false,
+    "explanation": "The word 'charged' does not support two plausible interpretations of 'charged' meaning to be filled with energy or electricity and 'charge' meaning a fee. There are no other words in the sentence that realize both interpretations, hence the sentence is not a pun."
+  },
+  {
+    "id": "hom_967",
+    "text": "No pain, no gain.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_385",
+    "text": "50 percent of something is better than one hundred percent of nothing.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations."
+  },
+  {
+    "id": "hom_1227",
+    "text": "His model airplane hobby really took off.",
+    "output": false,
+    "explanation": "The word 'took off' does not support any plausible interpretations that would create a pun in the given sentence."
+  },
+  {
+    "id": "hom_168",
+    "text": "You're so vain / I bet you think this tagline's about you",
+    "output": true,
+    "explanation": "The pun word 'vain' supports two plausible interpretations of 'vain' meaning self-centered and 'vein' meaning a blood vessel. In the given sentence, the words 'You're so' relates to 'vain' meaning self-centered while 'I bet you think this tagline's about you' refers to the second interpretation of 'vein' meaning a blood vessel."
+  },
+  {
+    "id": "hom_1123",
+    "text": "My friend asked me to carve a sculpture out of a large rock. It was the hardest thing I've ever had to make!",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations."
+  },
+  {
+    "id": "hom_788",
+    "text": "Changing a tire on that crazy Houston freeway was a wrenching experience.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or phrases."
+  },
+  {
+    "id": "hom_1420",
+    "text": "We did it twice last night, she relayed.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous words that can be interpreted in multiple ways."
+  },
+  {
+    "id": "hom_311",
+    "text": "Cometh the hour cometh the man.",
+    "output": false,
+    "explanation": "The phrase 'Cometh the hour cometh the man' is a proverbial saying and does not contain any pun words."
+  },
+  {
+    "id": "hom_486",
+    "text": "The harm caused by sibling rivalry is relative.",
+    "output": false,
+    "explanation": "There are no pun words or ambiguous interpretations in the sentence."
+  },
+  {
+    "id": "hom_111",
+    "text": "Garbage in, garbage out.",
+    "output": false,
+    "explanation": "The phrase 'garbage in, garbage out' is an idiomatic expression that means the quality of a system's output depends on the quality of its input. There are no pun words or ambiguous interpretations in this sentence."
+  },
+  {
+    "id": "hom_38",
+    "text": "OLD STATISTICIANS never die, they just get broken down by age, sex and marital status.",
+    "output": true,
+    "explanation": "The pun word 'die' supports two plausible interpretations of 'die' as in the cessation of life and 'die' as in a type of printing ink. In the given sentence, the words 'never die' relate to the first interpretation of 'die' meaning cessation of life while 'broken down by age, sex and marital status' refers to the second interpretation of 'die' as in a type of printing ink."
+  },
+  {
+    "id": "hom_1709",
+    "text": "A will is a relative thing.",
+    "output": false,
+    "explanation": "The word 'will' does not have any ambiguity in this sentence."
+  },
+  {
+    "id": "hom_1931",
+    "text": "An idea is not responsible for fools who believe in it.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "hom_820",
+    "text": "Elephants will toil all day, and they work for peanuts.",
+    "output": true,
+    "explanation": "The pun word 'peanuts' supports two plausible interpretations of 'peanuts' as a type of nut and 'peanuts' as payment for work. In the given sentence, the words 'Elephants will toil all day' relates to the first interpretation of 'peanuts' meaning a type of nut while 'they work for peanuts' refers to the second interpretation of 'peanuts' meaning payment for work."
+  },
+  {
+    "id": "hom_1045",
+    "text": "The man found something to catch fish, which was a net gain.",
+    "output": true,
+    "explanation": "In this sentence, 'net gain' is the pun word. The word 'net' can be interpreted as a fishing net and also as a zero sum gain. Both interpretations are realized by the words in the sentence."
+  },
+  {
+    "id": "hom_1125",
+    "text": "They who would be young when they are old must be old when they are young.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous words that support two plausible interpretations."
+  },
+  {
+    "id": "hom_1998",
+    "text": "Age and treachery can always overcome youth and skill.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "hom_876",
+    "text": "Old electricians never die, they just keep plugging away.",
+    "output": true,
+    "explanation": "The pun word 'plugging' supports two plausible interpretations of 'plugging' meaning to continue working hard and 'plugging' as in the action of inserting a plug into a socket. In the given sentence, the word 'electricians' relates to 'plugging' meaning to continue working hard while the word 'away' refers to the second interpretation of 'plugging' as in the action of inserting a plug into a socket."
+  },
+  {
+    "id": "hom_1960",
+    "text": "Watson and Crick did the twist all night.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations."
+  },
+  {
+    "id": "hom_256",
+    "text": "My name is Wade and I'm in swimming pool maintenance.",
+    "output": false,
+    "explanation": "There are no pun words or ambiguous interpretations in the sentence."
+  },
+  {
+    "id": "hom_204",
+    "text": "''I have to check the score on this exam again ,'' Tom remarked.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_228",
+    "text": "We\u2019ve got children\u2019s church because we know how to kid around",
+    "output": true,
+    "explanation": "The pun word 'kid' supports two plausible interpretations of 'kid' meaning a child and 'kid' as in the action of teasing or joking. In the given sentence, the words 'children\u2019s church' relates to 'kid' meaning a child while 'know how to' refers to the second interpretation of 'kid' meaning the action of teasing or joking."
+  },
+  {
+    "id": "hom_449",
+    "text": "She was only a Cattleman's daughter, but she couldn't keep her calves together.",
+    "output": true,
+    "explanation": "The pun word 'calves' supports two plausible interpretations of 'calves' meaning young cattle and 'calves' as a slang term for legs. In the given sentence, the words 'Cattleman's daughter' relates to 'calves' meaning young cattle while 'couldn't keep her' refers to the second interpretation of 'calves' as a slang term for legs."
+  },
+  {
+    "id": "hom_1915",
+    "text": "The fertiliser business is a growing industry.",
+    "output": false,
+    "explanation": "There are no pun words or ambiguous interpretations in the sentence."
+  },
+  {
+    "id": "hom_186",
+    "text": "Her exam was on the human skeleton, so she decided to bone up.",
+    "output": true,
+    "explanation": "The pun word 'bone' supports two plausible interpretations of 'bone' meaning a part of the human body and 'boning up' meaning studying or improving knowledge on a subject. In the given sentence, the words 'skeleton' relates to 'bone' meaning a part of the human body while 'decided to bone up' refers to the second interpretation of 'boning up' meaning studying."
+  },
+  {
+    "id": "hom_1604",
+    "text": "My name is Sherry. I work in a vineyard.",
+    "output": false,
+    "explanation": "There are no pun words in the sentence."
+  },
+  {
+    "id": "hom_1746",
+    "text": "Many a mickle makes a muckle.",
+    "output": false,
+    "explanation": "The phrase 'mickle' can be interpreted as 'a lot' or 'many', but there is no other word in the sentence that supports this duality. The word 'muckle' does not have a clear second interpretation to form a pun."
+  },
+  {
+    "id": "hom_549",
+    "text": "Baseball is known for its pitched battles.",
+    "output": false,
+    "explanation": "The word 'battles' does not support any ambiguity or pun interpretation in the context of this sentence."
+  },
+  {
+    "id": "hom_1328",
+    "text": "OLD LIBRARIANS never die, they just check out.",
+    "output": true,
+    "explanation": "The pun word 'check out' supports two plausible interpretations of 'check out' meaning to leave a library and 'check out' meaning to evaluate or assess. In the given sentence, the words 'OLD LIBRARIANS' relates to the first interpretation of 'check out' meaning to leave a library while the word 'never' refers to the second interpretation of 'check out' meaning to evaluate or assess."
+  },
+  {
+    "id": "hom_691",
+    "text": "The meat truck took a long time to deliver because of the Jerky ride.",
+    "output": true,
+    "explanation": "In this sentence, 'meat' and 'Jerky' are pun words. The word 'meat' can be interpreted as food made from animal flesh or a vehicle for transporting goods. Similarly, the word 'Jerky' can be interpreted as a dried, salted meat product or a state of being shaken violently. Both interpretations are realized in the sentence where 'meat truck' refers to a vehicle used for delivering meat and 'Jerky ride' refers to a shaky ride experienced by the meat truck."
+  },
+  {
+    "id": "hom_782",
+    "text": "PRESS To test. < click > RELEASE to detonate.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_1372",
+    "text": "OLD JUDGES never die, they just cease to try",
+    "output": true,
+    "explanation": "The pun word 'try' supports two plausible interpretations of 'try' meaning to attempt and 'tire' meaning to exhaust. In the given sentence, the words 'old judges' relates to 'try' while 'cease to' refers to the second interpretation of 'tire'. Both of these are distinct where one refers to old judges attempting something while the other refers to them ceasing to be active or exhausted."
+  },
+  {
+    "id": "hom_1877",
+    "text": "The baseball pitcher's retirement was at the end of a wonderful ERA.",
+    "output": true,
+    "explanation": "In the sentence 'The baseball pitcher's retirement was at the end of a wonderful ERA', the pun word is 'ERA'. The word 'ERA' can be interpreted as both an acronym for 'Environmental Protection Agency' and as a term in baseball, which refers to a player's earned run average. In this sentence, the word 'retirement' relates to the first interpretation of 'ERA', while the word 'wonderful' supports the second interpretation of 'ERA'."
+  },
+  {
+    "id": "hom_99",
+    "text": "OLD DOOR FRAMERS never die, they just become unhinged.",
+    "output": true,
+    "explanation": "The pun word 'unhinged' supports two plausible interpretations of 'unhinged' meaning both mentally deranged and physically unattached from its hinges. In the given sentence, the words 'OLD DOOR FRAMERS' relates to 'unhinged' while 'never die' refers to the second interpretation of 'unhinged' meaning physically unattached from its hinges."
+  },
+  {
+    "id": "hom_1850",
+    "text": "''I don't work here on a regular basis ,'' said Tom casually.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations."
+  },
+  {
+    "id": "hom_1346",
+    "text": "My name is Rusty. I undercoat cars.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "hom_1269",
+    "text": "OLD GANGSTERS never die, they just go to the underworld..",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations."
+  },
+  {
+    "id": "hom_1558",
+    "text": "The painter was hospitalized due to too many strokes.",
+    "output": true,
+    "explanation": "In this sentence, the pun word 'strokes' supports two plausible interpretations of 'strokes' meaning a brush stroke and 'strokes' meaning a single unit of time. The words 'painter' relates to 'brush stroke' while 'hospitalized due to too many' refers to the second interpretation of 'strokes' meaning a single unit of time. Both of these are distinct where one refers to the painter's work and the other refers to an excessive amount of time spent in the hospital."
+  },
+  {
+    "id": "hom_2218",
+    "text": "Love is not finding someone to live with ; it's finding someone whom you can't live without.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations."
+  },
+  {
+    "id": "hom_1387",
+    "text": "Then there was the occasion I spotted a health-oriented cafe displaying a sign reading'' California Shakes.'' Obviously, I thought.",
+    "output": true,
+    "explanation": "The pun word 'California Shakes' supports two plausible interpretations of 'shakes' meaning earthquakes and 'shakes' as in a beverage. In the given sentence, the words 'health-oriented cafe' relates to 'shakes' meaning a beverage while 'Obviously, I thought' refers to the second interpretation of 'earthquakes'. Both of these are distinct where one refers to a health-oriented cafe serving shakes and the other refers to an observation made by the speaker about the sign."
+  },
+  {
+    "id": "hom_1098",
+    "text": "Keep your friends close, but your enemies closer.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous words that support multiple interpretations."
+  },
+  {
+    "id": "hom_233",
+    "text": "There was a massive outcry against the plan to build a power line across a nature preserve. The public couldn't bear the tension.",
+    "output": true,
+    "explanation": "The pun word 'bear' supports two plausible interpretations of 'bear' meaning an animal and 'bear' as in enduring or tolerating. In the given sentence, the words 'public' relates to 'bear' meaning an animal while 'couldn't bear' refers to the second interpretation of 'bear' as in enduring or tolerating. Both of these are distinct where one refers to people who are animals and the other refers to the action of enduring or tolerating a situation."
+  },
+  {
+    "id": "hom_109",
+    "text": "If you operate a drill press you have a boring job.",
+    "output": false,
+    "explanation": "The word 'boring' does not support two plausible interpretations in the given sentence."
+  },
+  {
+    "id": "hom_102",
+    "text": "The ignorant always adore what they cannot understand.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_1467",
+    "text": "Anything not nailed down is a cat toy.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous words that can be interpreted in multiple ways."
+  },
+  {
+    "id": "hom_1971",
+    "text": "Due to inclement weather, the sandwich shop wrapped up early Tuesday night.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or phrases."
+  },
+  {
+    "id": "hom_125",
+    "text": "A noun and a verb were dating but they broke up because the noun was too possessive.",
+    "output": true,
+    "explanation": "The pun word 'noun' supports two plausible interpretations of 'noun' as in a person or thing and 'noun' as a grammatical term. In the given sentence, the words 'dating' relates to the first interpretation of 'noun' meaning a person while 'broke up' refers to the second interpretation of 'noun' as a grammatical term. Both of these are distinct where one refers to a person in a relationship and the other refers to a grammatical concept."
+  },
+  {
+    "id": "hom_14",
+    "text": "''There's room for one more ,'' Tom admitted.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations."
+  },
+  {
+    "id": "hom_702",
+    "text": "Walk softly, carry a big stick.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_2043",
+    "text": "Misspelled?Impossible. My modem is error correcting.",
+    "output": false,
+    "explanation": "There are no pun words in the sentence."
+  },
+  {
+    "id": "hom_2036",
+    "text": "The rabbi became a professional golfer because he was good at making the cut.",
+    "output": true,
+    "explanation": "In this sentence, the pun word 'cut' supports two plausible interpretations of 'cut' meaning to reduce or remove and 'cut' as in a stroke in golf. The words 'rabbi' relates to 'making the cut' while 'good at' refers to being skilled at reducing or removing something. Both of these are distinct where one refers to a religious leader who is good at cutting things down and the other refers to a golfer who is good at making cuts in golf."
+  },
+  {
+    "id": "hom_461",
+    "text": "That government is best which governs least.",
+    "output": false,
+    "explanation": "There are no pun words or ambiguous interpretations in the sentence."
+  },
+  {
+    "id": "hom_1720",
+    "text": "To some-marriage is a word... to others-a sentence.",
+    "output": false,
+    "explanation": "There are no pun words in the sentence."
+  },
+  {
+    "id": "hom_381",
+    "text": "OLD GOLFERS never die, they just lose their drive.",
+    "output": true,
+    "explanation": "The pun word 'drive' supports two plausible interpretations of 'drive' meaning a motivation or will to do something and 'drive' as in the act of driving a golf ball. In the given sentence, the words 'old golfers' relates to 'drive' meaning a motivation or will to do something while the word 'lose' refers to the second interpretation of 'drive' as in the act of driving a golf ball."
+  },
+  {
+    "id": "hom_143",
+    "text": "A drowning man will clutch at a straw.",
+    "output": true,
+    "explanation": "The pun word 'straw' supports two plausible interpretations of 'straw' meaning a dry stalk used for making material and 'straw' as in a last resort or means of survival. In the given sentence, the words 'drowning man' relates to 'straw' meaning a last resort while 'clutch at' refers to the first interpretation of 'straw' as in a dry stalk used for making material."
+  },
+  {
+    "id": "hom_1379",
+    "text": "The hardest thing for a person to keep is his opinion",
+    "output": false,
+    "explanation": "There are no pun words in the sentence."
+  },
+  {
+    "id": "hom_2176",
+    "text": "For the orthodontist visit, the boy had to brace himself.",
+    "output": true,
+    "explanation": "The pun word 'brace' supports two plausible interpretations of 'brace' meaning a device used to align teeth and 'brace' meaning prepare oneself for something difficult or challenging. In the given sentence, the words 'orthodontist visit' relates to 'brace' meaning a device used to align teeth while 'had to' refers to the second interpretation of 'brace' meaning preparing oneself for something difficult or challenging."
+  },
+  {
+    "id": "hom_530",
+    "text": "Laugh and the world laughs with you, cry and you cry alone.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun word or ambiguous words that support two plausible interpretations."
+  },
+  {
+    "id": "hom_1849",
+    "text": "Arguments about the weather will eventually blow over.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations."
+  },
+  {
+    "id": "hom_1377",
+    "text": "When they bought a water bed, the couple started to drift apart.",
+    "output": false,
+    "explanation": "The word 'water' does not support two plausible interpretations in this sentence. There are no other words in the sentence that realize both interpretations, hence the sentence is not a pun."
+  },
+  {
+    "id": "hom_264",
+    "text": "Monday is a hard way to spend 1 / 7 of your life.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "hom_388",
+    "text": "The photograph that I took of the sandstorm turned out grainy.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_667",
+    "text": "During his lifetime, the composer Bach was a noted success.",
+    "output": false,
+    "explanation": "The word 'Bach' does not have ambiguity here where it supports two plausible interpretations of 'Bach'. There are no other words in the sentence that realize both interpretations, hence the sentence is not a pun."
+  },
+  {
+    "id": "hom_2142",
+    "text": "Employers like their mechanics to be geared up.",
+    "output": false,
+    "explanation": "The word 'geared' does not support two plausible interpretations that would form a pun in the given sentence."
+  },
+  {
+    "id": "hom_1242",
+    "text": "If it screams, it's not food, yet....",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_989",
+    "text": "If you think guests really enjoy your home movies, you are probably projecting.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous words that support multiple interpretations."
+  },
+  {
+    "id": "hom_1851",
+    "text": "OLD FROGS never die, but they do croak.",
+    "output": true,
+    "explanation": "The pun word 'croak' supports two plausible interpretations of 'croak' meaning to make a particular sound and to declare something definitively. In the given sentence, the words 'OLD FROGS' relate to the first interpretation of 'croaking' as in the sound made by frogs. The second interpretation is realized by the word 'never', which declares that old frogs do not die."
+  },
+  {
+    "id": "hom_1222",
+    "text": "The portrait artist made extra money as a census taker. He was good at canvasing people.",
+    "output": true,
+    "explanation": "In the given sentence, 'census taker' and 'canvasing people' are puns. The word 'census' supports two plausible interpretations of census as in a process of counting the population and canvas as in a large piece of cloth or tapestry. Similarly, 'canvasing' also supports two plausible interpretations of canvasing as in the act of approaching people for support (as in political campaigns) and canvasing as in covering with a canvas. Both these interpretations are realized by the words 'census taker' and 'canvasing people'."
+  },
+  {
+    "id": "hom_2063",
+    "text": "I love to eat eggs at the crack of dawn.",
+    "output": false,
+    "explanation": "The word 'crack' does not support two plausible interpretations in this sentence. It only refers to the sound made by breaking something, which is unrelated to the other words in the sentence."
+  },
+  {
+    "id": "hom_2150",
+    "text": "Pick your friends, but not to pieces",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "hom_188",
+    "text": "The first duck wouldn't go in the water. The other duck said'' What are you, chicken?''.",
+    "output": true,
+    "explanation": "In this sentence, the word 'chicken' is used as a pun. It can be interpreted as both a type of bird and a slang term for someone who is afraid or lacks courage. In the given context, it refers to the first duck not wanting to go into the water."
+  },
+  {
+    "id": "hom_1106",
+    "text": "Reason does not come before years.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_1976",
+    "text": "A dog gave birth to puppies near the road and was ticketed for littering.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations."
+  },
+  {
+    "id": "hom_1327",
+    "text": "The valuable dog was still missing, believed stolen, however the police announced they have a lead.",
+    "output": false,
+    "explanation": "There are no pun words in the sentence."
+  },
+  {
+    "id": "hom_2091",
+    "text": "My name is Dusty, I run a cleaning service.",
+    "output": false,
+    "explanation": "There are no pun words in the sentence."
+  },
+  {
+    "id": "hom_800",
+    "text": "An office with many people and few electrical outlets could be in for a power struggle.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous terms that support multiple interpretations."
+  },
+  {
+    "id": "hom_364",
+    "text": "Five brothers wanted to buy a horse, so they all had to pony up.",
+    "output": true,
+    "explanation": "The pun word 'pony' supports two plausible interpretations of 'pony' meaning a small horse and 'pony' as a colloquial term for contributing money. In the given sentence, the words 'brothers' relate to 'pony' in the sense of a small horse while 'had to' refers to the second interpretation of 'pony' as in contributing money."
+  },
+  {
+    "id": "hom_1485",
+    "text": "A man given a watch at his retirement said'it's about time'.",
+    "output": true,
+    "explanation": "The pun word 'time' supports two plausible interpretations of 'time' as in the unit of measurement and 'time' as in a period of life. In the given sentence, the phrase 'given a watch at his retirement' relates to the first interpretation of 'time' meaning a period of life while the word 'said' refers to the second interpretation of 'time' meaning a unit of measurement. Both of these are distinct where one refers to a period of life and the other refers to a statement made during that period."
+  },
+  {
+    "id": "hom_1148",
+    "text": "One night a banking tycoon fell overboard from his yacht. He was saved because he could float a loan.",
+    "output": true,
+    "explanation": "The pun word 'float' supports two plausible interpretations of 'float' meaning to stay on the surface of water and 'float' as in to offer or provide something (in this case a loan). In the given sentence, the words 'banking tycoon' relates to 'float a loan' while 'fell overboard from his yacht' refers to the first interpretation of 'float' meaning to stay on the surface of water."
+  },
+  {
+    "id": "hom_1058",
+    "text": "My mailman should be a comedian, his delivery is perfect!",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguity in the word 'delivery'."
+  },
+  {
+    "id": "hom_1573",
+    "text": "People in the desert have dry humor.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "hom_857",
+    "text": "I've never killed a deer before but I'll take a shot at it.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "hom_973",
+    "text": "People who make necklaces may get beady eyes.",
+    "output": true,
+    "explanation": "The pun word 'beady' supports two plausible interpretations of 'beady' meaning small and round (like a bead) and 'beady' meaning having sharp, narrowed eyes. In the given sentence, the words 'eyes' relates to the second interpretation of 'beady' meaning having sharp, narrowed eyes."
+  },
+  {
+    "id": "hom_4",
+    "text": "A ditch digger was entrenched in his career.",
+    "output": true,
+    "explanation": "In this sentence, 'entrenched' is a pun word that supports two plausible interpretations of 'entrenched' meaning both to be deeply involved or established in one's work and to dig trenches. The word 'digger' relates to the second interpretation of 'digging trenches'. Both these interpretations are distinct where one refers to being deeply involved in a career while the other refers to an action of digging trenches."
+  },
+  {
+    "id": "hom_1876",
+    "text": "OLD BASEBALLS never die they just get pitched.",
+    "output": true,
+    "explanation": "The pun word 'pitched' supports two plausible interpretations of 'pitched' meaning thrown in baseball and 'pitched' meaning a type of beer. In the given sentence, the words 'old baseballs' relate to the first interpretation of 'baseballs' being used in the sport while 'never die' refers to the second interpretation of 'die' as in the end of life. Both of these are distinct where one refers to the lifespan of sports equipment and the other refers to the end of a person's life."
+  },
+  {
+    "id": "hom_229",
+    "text": "What it boils down to is this : eggs taste good.",
+    "output": false,
+    "explanation": "There are no pun words in the sentence."
+  },
+  {
+    "id": "hom_753",
+    "text": "I never understood why people liked to play soft ball. It's a very underhanded thing to do.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous word interpretations."
+  },
+  {
+    "id": "hom_2170",
+    "text": "The guitarist passed out on stage, he must have rocked himself to sleep.",
+    "output": true,
+    "explanation": "In this sentence, the pun word 'rocked' supports two plausible interpretations of 'rocked' meaning to play a musical instrument (guitarist) and 'rocked' meaning to move violently back and forth (himself to sleep). The words 'guitarist' relates to the first interpretation while 'himself to sleep' refers to the second interpretation."
+  },
+  {
+    "id": "hom_940",
+    "text": "It's not that the man did not know how to juggle, he just didn't have the balls to do it.",
+    "output": true,
+    "explanation": "The pun word 'balls' supports two plausible interpretations of 'balls' meaning testicles and 'balls' as in objects used for juggling. In the given sentence, the words 'juggle' relates to 'balls' meaning objects used for juggling while 'did not have the balls to do it' refers to the second interpretation of 'balls' meaning testicles."
+  },
+  {
+    "id": "hom_1303",
+    "text": "Never put off till tomorrow what can be done today.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_1044",
+    "text": "I was struggling to figure out how lightning works then it struck me.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous terms that support multiple interpretations."
+  },
+  {
+    "id": "hom_2077",
+    "text": "A jelly truck and a biscuit truck collided yesterday-police are a trifle concerned.",
+    "output": true,
+    "explanation": "The pun word 'truck' supports two plausible interpretations of 'truck' meaning a large motor vehicle and 'truck' meaning a group of people gathered together for a specific purpose. In the given sentence, the words 'jelly' relates to the first interpretation of 'truck' as in a jelly truck while 'biscuit' refers to the second interpretation of 'truck' as in a biscuit truck. Both of these are distinct where one refers to a vehicle carrying jelly and the other refers to a group of people gathered together for a specific purpose which is police."
+  },
+  {
+    "id": "hom_29",
+    "text": "My name is Sandy, I just hang around the beach.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations."
+  },
+  {
+    "id": "hom_740",
+    "text": "An army officer is a position that some people shoot for.",
+    "output": true,
+    "explanation": "The pun word 'shoot' supports two plausible interpretations of 'shoot' meaning to aim and fire at something and 'shoot for' meaning to aspire or strive for something. In the given sentence, the words 'position' relates to 'shoot for' meaning to aspire or strive for something while 'some people' refers to the first interpretation of 'shoot' meaning to aim and fire at something."
+  },
+  {
+    "id": "hom_294",
+    "text": "OLD BLASTING TECHNICIANS never die, they just lose their spark.",
+    "output": true,
+    "explanation": "The pun word 'spark' supports two plausible interpretations of 'spark' meaning a small flame and 'spark' as in an electric discharge. In the given sentence, the words 'technicians' relates to 'spark' meaning a small flame while 'lose their' refers to the second interpretation of 'spark' as in an electric discharge. Both of these are distinct where one refers to the loss of a technical skill and the other refers to the end of a person's life."
+  },
+  {
+    "id": "hom_305",
+    "text": "If a town's people have low IQs is the population dense?",
+    "output": false,
+    "explanation": "There are no pun words in the sentence."
+  },
+  {
+    "id": "hom_58",
+    "text": "When he kicked the invoice, it didn't mean he wanted to foot the bill.",
+    "output": true,
+    "explanation": "The pun word 'kicked' supports two plausible interpretations of 'kick' meaning an action performed by a person and 'kick' meaning to pay for something. In the given sentence, the words 'he wanted to foot the bill' relates to the second interpretation of 'kick' meaning to pay for something."
+  },
+  {
+    "id": "hom_2098",
+    "text": "She said she had nothing to wear. I smiled.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous words that can be interpreted in multiple ways."
+  },
+  {
+    "id": "hom_1609",
+    "text": "If they ever have a contest for the best looking mannequin, there will be stiff competition.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous words that support two plausible interpretations."
+  },
+  {
+    "id": "hom_586",
+    "text": "A tatoo artist has designs on his clients.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun word or ambiguity that supports multiple interpretations."
+  },
+  {
+    "id": "hom_538",
+    "text": "A tattle tale pig is a squealer.",
+    "output": true,
+    "explanation": "The pun word 'squealer' supports two plausible interpretations of 'squealer' meaning a person who tells tales and 'squealer' as in the sound made by pigs. In the given sentence, the words 'tattle tale pig' relates to 'squealer' meaning a person who tells tales while the word 'is' refers to the second interpretation of 'squealer' as in the sound made by pigs."
+  },
+  {
+    "id": "hom_1049",
+    "text": "Some business graphs are full of legend.",
+    "output": false,
+    "explanation": "The word 'legend' does not have any ambiguity in the given sentence where it supports two plausible interpretations of a story or a person known for their achievements. There are no other words in the sentence that realize both interpretations, hence the sentence is not a pun."
+  },
+  {
+    "id": "hom_236",
+    "text": "Even though Catholics in space are weightless, do they have mass?",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_2143",
+    "text": "Home improvement. Take your family to church.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_801",
+    "text": "A man's best fortune or his worst is a wife.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun word that supports two plausible interpretations."
+  },
+  {
+    "id": "hom_492",
+    "text": "Once a drunkard always a drunkard.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations."
+  },
+  {
+    "id": "hom_1957",
+    "text": "OLD PROGRAMMERS never die, they just move to new addresses.",
+    "output": true,
+    "explanation": "The pun word 'addresses' supports two plausible interpretations of 'addresses' meaning a location and 'addresses' as in the plural form of 'address'. In the given sentence, the words 'old programmers' relate to 'addresses' meaning a location while 'move to new addresses' refers to the second interpretation of 'addresses' as in the plural form of 'address'. Both of these are distinct where one refers to a group of people and the other refers to multiple instances of an action."
+  },
+  {
+    "id": "hom_851",
+    "text": "OLD JANITORS never die they just get swept up.",
+    "output": true,
+    "explanation": "The pun word 'swept' supports two plausible interpretations of 'swept' meaning cleaned or removed and 'swept' as in past tense of the verb 'to sweep'. In the given sentence, the words 'janitors' relate to 'swept' meaning cleaned or removed while 'up' refers to the second interpretation of 'swept' as in past tense of the verb 'to sweep'. Both of these are distinct where one refers to janitors cleaning up and the other refers to janitors being swept away."
+  },
+  {
+    "id": "hom_2225",
+    "text": "Have an adequate day.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "hom_1204",
+    "text": "An ounce of discretion is worth a pound of wit.",
+    "output": false,
+    "explanation": "The sentence does not contain any ambiguous word that supports multiple interpretations."
+  },
+  {
+    "id": "hom_62",
+    "text": "Careless stair dancers are heading for a heavy landing.",
+    "output": true,
+    "explanation": "The pun word 'stair' supports two plausible interpretations of 'stair' meaning a set of steps and 'stare' meaning to look fixedly at someone or something. In the given sentence, the words 'careless' relates to 'stair' while 'dancers' refers to the second interpretation of 'stare'. Both of these are distinct where one refers to people dancing on stairs while the other refers to a group of people staring."
+  },
+  {
+    "id": "hom_1267",
+    "text": "To teach someone how to build a compass you have to be good at giving directions.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or phrases."
+  },
+  {
+    "id": "hom_592",
+    "text": "Plagiarism is the sincerest form of flattery.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "hom_490",
+    "text": "A library should have several floors because it is a multi story building.",
+    "output": false,
+    "explanation": "There are no pun words in the sentence."
+  },
+  {
+    "id": "hom_1953",
+    "text": "He sold candy and chocolate. A lot of girls were sweet on him.",
+    "output": true,
+    "explanation": "The pun word 'sweet' supports two plausible interpretations of 'sweet' meaning both a type of candy and a term used to describe someone who is attractive or charming. In the given sentence, the words 'candy', 'chocolate', and 'girls' relate to the first interpretation of 'sweet' as in sweet treats. The word 'on him' refers to the second interpretation of 'sweet' meaning someone who is attractive or charming."
+  },
+  {
+    "id": "hom_2026",
+    "text": "I'm NOT stubborn!You can't convince me otherwise!!",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "hom_1354",
+    "text": "The man who worked at the watch factory was very funny. He stood about all day making faces.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_483",
+    "text": "OLD COUPON CLIPPERS never die, they just expire.",
+    "output": true,
+    "explanation": "The pun word 'clippers' supports two plausible interpretations of 'clippers' meaning a coupon clipper and 'clippers' meaning hair clippers. In the given sentence, the words 'never die' relate to the first interpretation of 'clippers' as coupon clippers while 'expire' refers to the second interpretation of 'clippers' as hair clippers."
+  },
+  {
+    "id": "hom_994",
+    "text": "Why did the termites eat the wooden barrel?To stave off hunger.",
+    "output": false,
+    "explanation": "The word 'barrel' does not support two plausible interpretations that could be used to create a pun in this sentence."
+  },
+  {
+    "id": "hom_636",
+    "text": "When ancient wall sculptors were finished it was a relief.",
+    "output": false,
+    "explanation": "The word 'relief' does not support two plausible interpretations in the given sentence. The term 'relief' is used to describe the feeling of comfort or relaxation after a difficult situation, which is the only interpretation that fits in this context."
+  },
+  {
+    "id": "hom_1388",
+    "text": "Of two evils choose the least.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "hom_1037",
+    "text": "OLD POLICEMEN never die they just cop out.",
+    "output": true,
+    "explanation": "The pun word 'cop' supports two plausible interpretations of 'cop' meaning a police officer and 'cop' as in to give up or quit. In the given sentence, the words 'old policemen' relate to the first interpretation of 'police officers', while the second interpretation is realized by the phrase 'never die they just cop out'. Both of these are distinct where one refers to the profession of being a police officer and the other refers to quitting or giving up."
+  },
+  {
+    "id": "hom_1794",
+    "text": "Biscuits and speeches are better when made with shortening.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_1842",
+    "text": "Give credit where credit is due.",
+    "output": false,
+    "explanation": "The phrase 'give credit where credit is due' does not contain any pun words or ambiguous interpretations."
+  },
+  {
+    "id": "hom_466",
+    "text": "To test a man's character, give him power.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations."
+  },
+  {
+    "id": "hom_968",
+    "text": "Jumping to conclusions is bad exercise",
+    "output": false,
+    "explanation": "There are no pun words in the sentence."
+  },
+  {
+    "id": "hom_815",
+    "text": "When a duck is feeling down he might just be happy.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous words that can support two plausible interpretations."
+  },
+  {
+    "id": "hom_1686",
+    "text": "The best way to stop a charging bull is to take away his credit card.",
+    "output": false,
+    "explanation": "There are no pun words in the sentence."
+  },
+  {
+    "id": "hom_389",
+    "text": "The owner of the hair salon had to make cuts on his staff.",
+    "output": false,
+    "explanation": "In this sentence, there is no pun word that supports multiple interpretations. The word 'cuts' does not have any other plausible interpretation in the context of the sentence."
+  },
+  {
+    "id": "hom_1401",
+    "text": "When I had my PlayStation stolen, my family were there to console me.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words where a single word can be interpreted in multiple ways."
+  },
+  {
+    "id": "hom_2033",
+    "text": "They said he drank 2 bottles of whisky a day, but it wasn't true. He had to scotch those rumours right away.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or phrases."
+  },
+  {
+    "id": "hom_1231",
+    "text": "Have you ever wondered why baseball players get girlfriends?They're great at hitting it off.",
+    "output": true,
+    "explanation": "In the given sentence, the pun word 'hit' supports two plausible interpretations of 'hit' meaning to strike with force and 'hit' as in making a successful connection or impression. The words 'baseball players' relate to the first interpretation of 'hitting' referring to striking a ball while 'get girlfriends' refers to the second interpretation of 'hitting off' meaning making a successful connection or impression on someone."
+  },
+  {
+    "id": "hom_1494",
+    "text": "If it looks like a duck, swims like a duck, and quacks like a duck, then it probably is a duck.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "hom_2050",
+    "text": "Working for the IRS is a hard job because it is so taxing.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "hom_1408",
+    "text": "If a lawyer speaks for too long there will be an extended sentence.",
+    "output": true,
+    "explanation": "The pun word 'sentence' supports two plausible interpretations of 'sentence' as in a statement or judgment made by a court and 'sentence' as in a string of words that forms a complete idea. In the given sentence, the word 'lawyer' relates to 'sentence' meaning a statement or judgment made by a court while 'extended' refers to the second interpretation of 'sentence' meaning a string of words."
+  },
+  {
+    "id": "hom_513",
+    "text": "I couldn't quite remember how to throw a boomerang, but eventually it came back to me.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or double meanings."
+  },
+  {
+    "id": "hom_741",
+    "text": "The electrician got his supplies at the outlet store.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_976",
+    "text": "Doctor, Doctor I feel like a pair of curtains-Well pull yourself together then. Next.",
+    "output": true,
+    "explanation": "The pun word 'curtains' supports two plausible interpretations of 'curtains' meaning window coverings and 'pairs' meaning a set of two. In the given sentence, the words 'Doctor' relates to 'curtains' while 'feel like' refers to the second interpretation of 'pairs'. Both of these are distinct where one refers to a person feeling like something and the other refers to a set of two things."
+  },
+  {
+    "id": "hom_1369",
+    "text": "I nailed my wood-shop test.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_1489",
+    "text": "Shame take him that shame thinketh.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous terms."
+  },
+  {
+    "id": "hom_100",
+    "text": "I was against the construction of tennis courts in the park as I thought they would cause too much racket.",
+    "output": false,
+    "explanation": "The word 'racket' does not support two plausible interpretations that could be used to create a pun. The word 'racket' in the sentence refers only to the noise made by sports equipment."
+  },
+  {
+    "id": "hom_1349",
+    "text": "A teacher used his index finger to ask a lot of pointed questions.",
+    "output": true,
+    "explanation": "The pun word 'pointed' supports two plausible interpretations of 'pointed' meaning having a sharp tip and 'pointed' as in asking something directly or sharply. In the given sentence, the words 'teacher' relates to 'pointed' meaning having a sharp tip while 'index finger' refers to the second interpretation of 'pointed' as in asking something directly or sharply."
+  },
+  {
+    "id": "hom_2046",
+    "text": "Armadillo : A mouse built to government specs.",
+    "output": false,
+    "explanation": "The word 'armadillo' does not have any ambiguity in this sentence where it supports two plausible interpretations of a word with different meanings. There are no other words in the sentence that realize both interpretations, hence the sentence is not a pun."
+  },
+  {
+    "id": "hom_66",
+    "text": "Riker to Holodeck :\"Woman, 23, hot. \"",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations."
+  },
+  {
+    "id": "hom_1808",
+    "text": "A balding man and his hair are soon parted.",
+    "output": true,
+    "explanation": "The pun word 'parted' supports two plausible interpretations of 'parted' meaning separated or divided and 'parted' as in the past tense of 'to part'. In the given sentence, the words 'balding man' relates to 'parted' meaning separated or divided while 'his hair' refers to the second interpretation of 'parted' as in the past tense of 'to part'. Both of these are distinct where one refers to a balding man and his separated hair while the other refers to an action done in the past which is parting his hair."
+  },
+  {
+    "id": "hom_1597",
+    "text": "Enjoy the present day, trusting little to what tomorrow may bring.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_1042",
+    "text": "Edison thought it would be an illuminating experience.",
+    "output": false,
+    "explanation": "The word 'illuminating' does not support two plausible interpretations that could form a pun in this sentence."
+  },
+  {
+    "id": "hom_410",
+    "text": "If all goes well, you've overlooked something!",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_896",
+    "text": "Daddy, how come my magnet won't pick up these disks?",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations."
+  },
+  {
+    "id": "hom_359",
+    "text": "I travel all over America, Tom stated.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_1848",
+    "text": "Old photographers never die, they're just out of the picture for a while.",
+    "output": true,
+    "explanation": "The pun word 'picture' supports two plausible interpretations of 'picture' as in a photograph and 'picture' as in an image or representation. In the given sentence, the words 'old photographers' relates to 'picture' meaning a photograph while 'out of the picture for a while' refers to the second interpretation of 'picture' meaning an image or representation."
+  },
+  {
+    "id": "hom_1707",
+    "text": "Two silk worms had a race. They ended up in a tie.",
+    "output": true,
+    "explanation": "The pun word 'worms' supports two plausible interpretations of 'worms' meaning silk worms and 'worms' meaning earthworms. In the given sentence, the words 'race' relates to the first interpretation of 'silk worms' while 'ended up in a tie' refers to the second interpretation of 'earthworms'. Both of these are distinct where one refers to a race between silk worms and the other refers to an outcome of a competition involving earthworms."
+  },
+  {
+    "id": "hom_318",
+    "text": "I suspected our new house guest was a terrorist. He asked to sleep on a blow up mattress.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous words that support two plausible interpretations."
+  },
+  {
+    "id": "hom_1753",
+    "text": "What did the triangle say to the circle?You're so pointless.",
+    "output": true,
+    "explanation": "The pun word 'pointless' supports two plausible interpretations of 'point' as in a geometric point and 'pointless' meaning having no purpose or being silly. In the given sentence, the words 'triangle' relates to 'point' while 'You're so' refers to the second interpretation of 'pointless' meaning having no purpose or being silly."
+  },
+  {
+    "id": "hom_895",
+    "text": "I had some back trouble, but it's all behind me now.",
+    "output": true,
+    "explanation": "In this sentence, the pun word 'back' supports two plausible interpretations of 'back' meaning a part of the human body and 'back' meaning in the past or before. The words 'trouble' relates to the first interpretation of 'back' as a part of the human body while 'it's all behind me now' refers to the second interpretation of 'back' meaning in the past or before. Both of these are distinct where one refers to a physical condition and the other refers to a change in time."
+  },
+  {
+    "id": "hom_1526",
+    "text": "OLD GRAVEDIGGERS never die, they just get buried in their work",
+    "output": true,
+    "explanation": "In this sentence, the pun word 'diggers' can be interpreted as both grave diggers and workers who dig. The phrase 'never die' refers to the first interpretation of grave diggers, while the phrase 'they just get buried in their work' refers to the second interpretation of workers who dig. Both interpretations are realized through the same pun word 'diggers', making this a pun."
+  },
+  {
+    "id": "hom_189",
+    "text": "To golf at your favorite course may require a long drive.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguity that supports multiple interpretations."
+  },
+  {
+    "id": "hom_766",
+    "text": "She was only a Dairyman's daughter, but what a calf",
+    "output": true,
+    "explanation": "The pun word 'calf' supports two plausible interpretations of 'calf' meaning a young cow and 'calf' meaning a son or offspring. In the given sentence, the words 'Dairyman's daughter' relates to 'calf' meaning a young cow while 'but what a calf' refers to the second interpretation of 'calf' meaning a son or offspring."
+  },
+  {
+    "id": "hom_2019",
+    "text": "He'd never gone hunting but decided to give it a shot.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations."
+  },
+  {
+    "id": "hom_448",
+    "text": "The worth of a thing is what it will bring.",
+    "output": false,
+    "explanation": "There are no pun words or ambiguous interpretations in the sentence."
+  },
+  {
+    "id": "hom_2165",
+    "text": "When the tornado went through town it was quite a blow.",
+    "output": false,
+    "explanation": "The word 'blow' does not support two plausible interpretations in this sentence. It only refers to the physical force of wind."
+  },
+  {
+    "id": "hom_1450",
+    "text": "Old electricians never die, they just get discharged.",
+    "output": true,
+    "explanation": "The pun word 'discharged' supports two plausible interpretations of 'discharged' meaning to be released from a job and 'discharged' meaning to release electrical energy. In the given sentence, the words 'electricians' relates to 'discharged' meaning to be released from a job while 'never die' refers to the second interpretation of 'discharged' meaning to release electrical energy."
+  },
+  {
+    "id": "hom_1381",
+    "text": "A young nurse was nervous about giving vaccinations but gave it her best shot.",
+    "output": true,
+    "explanation": "The pun word 'shot' supports two plausible interpretations of 'shot' meaning a single attempt or effort and 'shot' as in an injection. In the given sentence, the words 'nurse' relates to 'shot' meaning a single attempt or effort while 'gave it her best shot' refers to the second interpretation of 'shot' as in an injection."
+  },
+  {
+    "id": "hom_1560",
+    "text": "When asked by a passenger how high he would get, the pilot replied ,'I don't do drugs. '",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_698",
+    "text": "Life after death for evil doers has always been a hot topic.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_1208",
+    "text": "You may use this opinion for a two week trial period.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "hom_1128",
+    "text": "That new mystery novel has a killer start to it.",
+    "output": false,
+    "explanation": "The word 'killer' does not support two plausible interpretations in the context of the sentence. It is used as an adjective to describe the start of the novel."
+  },
+  {
+    "id": "hom_180",
+    "text": "Ne'er cast a clout till May be out.",
+    "output": false,
+    "explanation": "The phrase 'cast a clout' is an old English expression that means to remove or discard something, in this case, warm clothing. The word 'clout' does not have any other plausible interpretations that can be used to form a pun. Therefore, the sentence is not a pun."
+  },
+  {
+    "id": "hom_1",
+    "text": "They hid from the gunman in a sauna where they could sweat it out.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations."
+  },
+  {
+    "id": "hom_2129",
+    "text": "A train load of paint derailed. Nearby businesses were put in the red.",
+    "output": true,
+    "explanation": "The pun word 'red' supports two plausible interpretations of 'red' meaning a color and 'red' meaning financial loss. In the given sentence, the words 'derailed' relates to the first interpretation of 'red' meaning a color while 'nearby businesses were put in the red' refers to the second interpretation of 'red' meaning financial loss."
+  },
+  {
+    "id": "hom_785",
+    "text": "Did you hear about the bivalve they called in to interrogate for that big murder investigation?Apparently, he's clammed up.",
+    "output": true,
+    "explanation": "The pun word 'clammed up' supports two plausible interpretations of 'clam' meaning a bivalve mollusk and 'clammed up' meaning to remain silent. In the given sentence, the words 'bivalve' relates to 'clam' while 'interrogate' refers to the second interpretation of 'clammed up' as in being interrogated by the police."
+  },
+  {
+    "id": "hom_1666",
+    "text": "Do you have any parting words?- How about comb and brush?",
+    "output": true,
+    "explanation": "The pun word 'comb' supports two plausible interpretations of 'comb' meaning a device for grooming hair and 'come' as in to approach or move towards. In the given sentence, the words 'parting words' relate to 'comb' meaning a device for grooming hair while 'how about' refers to the second interpretation of 'come' as in to approach or move towards."
+  },
+  {
+    "id": "hom_426",
+    "text": "Librarians are always going by the book.",
+    "output": false,
+    "explanation": "The word 'book' does not support two plausible interpretations in this sentence. The word 'by' relates to 'going', and 'the book' refers to a physical object which is a library rule."
+  },
+  {
+    "id": "hom_1661",
+    "text": "He bought a donkey because he thought he might get a kick out of it.",
+    "output": true,
+    "explanation": "The pun word 'kick' supports two plausible interpretations of 'kick' meaning to give a physical push or strike and 'kick' as in an amusement or enjoyment. In the given sentence, the words 'bought' relates to the first interpretation of 'kick' meaning a physical push or strike while 'out of it' refers to the second interpretation of 'kick' meaning an amusement or enjoyment."
+  },
+  {
+    "id": "hom_1019",
+    "text": "He stomped on his old watch because he had time to kill.",
+    "output": true,
+    "explanation": "The pun word 'time' supports two plausible interpretations of 'time' meaning a measure of duration and 'time' as in the past. In the given sentence, the words 'old watch' relates to 'time' meaning a measure of duration while 'kill' refers to the second interpretation of 'time' as in the past. Both of these are distinct where one refers to an old watch that measures time and the other refers to the past."
+  }
+]

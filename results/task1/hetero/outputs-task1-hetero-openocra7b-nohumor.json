@@ -1,0 +1,2672 @@
+[
+  {
+    "id": "het_857",
+    "text": "Those whose child is going through a'phase'may wish they had a phaser.",
+    "output": true,
+    "explanation": "The pun word 'phase' supports two plausible interpretations of 'phase' meaning a stage in development and 'phaser' which is a weapon used in Star Trek series. In the given sentence, the words 'child', 'going through', 'wish', 'had' relate to the first interpretation of 'phase' as a stage in development while 'they' refers to the second interpretation of 'phaser'."
+  },
+  {
+    "id": "het_368",
+    "text": "Bureaucrats cut red tape-- lengthwise.",
+    "output": true,
+    "explanation": "The pun word 'tape' supports two plausible interpretations of 'tape' meaning a strip of adhesive material and 'tape' meaning a rule or regulation. In the given sentence, the words 'bureaucrats' relates to 'tape' as in a rule or regulation while 'cut' refers to the action of removing or reducing these rules or regulations. Both of these are distinct where one refers to officials dealing with such rules and the other refers to an action done to reduce them."
+  },
+  {
+    "id": "het_1204",
+    "text": "If they say you look good in glasses that would be an optical allusion.",
+    "output": true,
+    "explanation": "The pun word 'allusion' supports two plausible interpretations of 'allusion' meaning a reference to something and 'illusion' meaning a deceptive or misleading appearance. In the given sentence, the words 'optical' relates to 'allusion' while 'glasses' refers to the second interpretation of 'illusion'. Both of these are distinct where one refers to an optical illusion created by glasses and the other refers to an allusion made about someone looking good in glasses."
+  },
+  {
+    "id": "het_1043",
+    "text": "Nearing the end of his sentence, the convicted Wall Street wizard, feeling both oddly safe in his spartan confinement but not quite penitent for his overzealous trading misdeeds, feared and anticipated his release, nightly dreaming of his long cherished hard sell.",
+    "output": false,
+    "explanation": "There are no pun words in the sentence."
+  },
+  {
+    "id": "het_1098",
+    "text": "A logger went to his doctor because of a problem with the lumbar.",
+    "output": true,
+    "explanation": "The pun word 'lumbar' supports two plausible interpretations of 'lumbar' meaning lower back region and 'lumber' meaning wood or timber. In the given sentence, the words 'logger' relates to 'lumber' while 'doctor' refers to the first interpretation of 'lumbar' as in a medical condition related to the lower back."
+  },
+  {
+    "id": "het_1634",
+    "text": "In ancient times, seagoing vessels were much more fuel efficient. They got thousands of miles to the galleon.",
+    "output": true,
+    "explanation": "The pun word 'galleon' supports two plausible interpretations of 'galleon' as a type of ship and 'galon' meaning a unit of length (mile). In the given sentence, the words 'seagoing vessels' relate to 'galleon' while 'thousands of miles' refers to the second interpretation of 'galon'. Both of these are distinct where one refers to a type of ship while the other refers to a measure of distance."
+  },
+  {
+    "id": "het_1190",
+    "text": "Do you play the guitar?, Tom asked callously.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_1442",
+    "text": "When it comes to drinks, citrus fruit juices are always in the limelight.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun word or ambiguous words that support multiple interpretations."
+  },
+  {
+    "id": "het_895",
+    "text": "You should massage a cow's back before putting it out to posture.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous words that support multiple interpretations."
+  },
+  {
+    "id": "het_155",
+    "text": "If screwups were dollars, I'd be a millionaire!!",
+    "output": true,
+    "explanation": "The pun word 'screwups' supports two plausible interpretations of 'screwups' meaning mistakes and 'screw ups' referring to the physical act of screwing up something. In the given sentence, the words 'If' relates to 'screwups' meaning mistakes while 'dollars' refers to the second interpretation of 'screw ups' as in the physical act of screwing up something."
+  },
+  {
+    "id": "het_873",
+    "text": "If you buy quality, you only cry once.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_774",
+    "text": "Good riding at two anchors, men have told, for if the one fails, the other may hold.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "het_1638",
+    "text": "Mothers everywhere want their children to give peas a chance.",
+    "output": true,
+    "explanation": "The pun word 'peas' supports two plausible interpretations of 'peas' as in the green vegetable and 'peace' as in a state of harmony or the absence of conflict. In the given sentence, the words 'Mothers everywhere' relate to 'peas' meaning a green vegetable while 'give' refers to the second interpretation of 'peace'. Both of these are distinct where one refers to mothers wanting their children to eat peas and the other refers to mothers wanting their children to promote peace."
+  },
+  {
+    "id": "het_821",
+    "text": "The dentist decided he was going to try a new path to fame and fortune, and this time he would choose a different root.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_17",
+    "text": "I deny everything, said Tom knowingly.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations."
+  },
+  {
+    "id": "het_584",
+    "text": "''I haven't had my photographs developed yet ,'' said Tom negatively.",
+    "output": false,
+    "explanation": "There are no pun words in the sentence."
+  },
+  {
+    "id": "het_1569",
+    "text": "A cloth maker's daughter told him she was too young to dye.",
+    "output": true,
+    "explanation": "The pun word 'dye' supports two plausible interpretations of 'dye' meaning a coloring agent and 'die' as in the past tense of 'to die'. In the given sentence, the words 'cloth maker's daughter' relates to 'dye' while 'told him she was too young' refers to the second interpretation of 'die' as in the past tense of 'to die'. Both of these are distinct where one refers to a cloth maker's daughter who is involved in dyeing and the other refers to an action done by the daughter which is telling that she is too young to have died."
+  },
+  {
+    "id": "het_1212",
+    "text": "' Volts'- the dance you perform after an electric shock.",
+    "output": true,
+    "explanation": "The pun word 'Volts' supports two plausible interpretations of 'volts' meaning a unit of electric current and 'volts' as a homophone for 'bolts', which is another dance move. In the given sentence, the words 'dance you perform' relate to 'volts' meaning a unit of electric current while 'after an electric shock' refers to the second interpretation of 'bolts' meaning a dance move."
+  },
+  {
+    "id": "het_1687",
+    "text": "A pickle maker fell into one of the vats at work. At hospital it was determined he had a brine injury.",
+    "output": true,
+    "explanation": "The pun word 'brine' supports two plausible interpretations of 'brine' meaning a salty solution and 'brain' meaning the organ in the head. In the given sentence, the words 'pickle maker' relates to 'brine' while 'injury' refers to the second interpretation of 'brain'. Both of these are distinct where one refers to a pickle maker who works with brine and the other refers to an injury that affects the brain."
+  },
+  {
+    "id": "het_937",
+    "text": "He who makes false teeth is an indentured labourer.",
+    "output": true,
+    "explanation": "The pun word 'teeth' supports two plausible interpretations of 'teeth' meaning a set of hard, enamel-covered structures in the mouth and 'teeth' as an adjective for something that is difficult to do or endure. In the given sentence, the words 'who makes' relate to the first interpretation of 'teeth' meaning a set of hard, enamel-covered structures in the mouth while 'labourer' refers to the second interpretation of 'teeth' as an adjective for something that is difficult to do or endure."
+  },
+  {
+    "id": "het_402",
+    "text": "Blessed are the meek, for they make great scapegoats.",
+    "output": true,
+    "explanation": "The pun word 'meek' supports two plausible interpretations of 'meek' meaning a gentle and humble person and 'meek' as in the sound made by goats. In the given sentence, the words 'blessed', 'are', 'the', 'for', 'they', 'make', 'great', 'scapegoats' relate to the first interpretation of 'meek' meaning a gentle and humble person while the word 'goats' relates to the second interpretation of 'meek' as in the sound made by goats. Both of these are distinct where one refers to a quality of a person and the other refers to an animal."
+  },
+  {
+    "id": "het_315",
+    "text": "Some people who cut hair can be quite barbarous.",
+    "output": false,
+    "explanation": "The word 'hair' does have ambiguity here where it supports two plausible interpretations of hair as in the human hair and hair as in the hair on a person's head. However, there are no other words in the sentence that realize both interpretations, hence the sentence is not a pun."
+  },
+  {
+    "id": "het_583",
+    "text": "Someone led me to believe that graphite was discovered in Pennsylvania.",
+    "output": false,
+    "explanation": "The word 'graphite' does not have any ambiguity in the sentence where it supports two plausible interpretations of graphite as a type of carbon and graphite as a pencil lead. There are no other words in the sentence that realize both interpretations, hence the sentence is not a pun."
+  },
+  {
+    "id": "het_57",
+    "text": "Better an egg today than a hen tomorrow.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun word that supports multiple interpretations."
+  },
+  {
+    "id": "het_1473",
+    "text": "Looting a drugstore is called Pillaging.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun word or ambiguous word that supports multiple interpretations."
+  },
+  {
+    "id": "het_1104",
+    "text": "I keep reading'The Lord of the Rings'over and over. I guess it's just force of hobbit.",
+    "output": true,
+    "explanation": "In this sentence, 'force of hobbit' is a pun. The word 'hobbit' supports two plausible interpretations - one as a character from the book and another as a small creature with a round body, short arms and legs, etc. In the given sentence, the word 'force' relates to the second interpretation of 'hobbit' referring to an action or power exerted by the hobbits in the story."
+  },
+  {
+    "id": "het_392",
+    "text": "Who digs a trap for others ends up in it himself.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations of the same word."
+  },
+  {
+    "id": "het_1243",
+    "text": "Bees make money by celling their honey.",
+    "output": false,
+    "explanation": "The word 'celling' does not support two plausible interpretations of the word 'celling'. The sentence is not a pun."
+  },
+  {
+    "id": "het_1598",
+    "text": "Vampires are always looking for their necks victim.",
+    "output": true,
+    "explanation": "The pun word 'necks' supports two plausible interpretations of 'necks' meaning a part of the body and 'victims' meaning people who are harmed or killed by vampires. In the given sentence, the words 'Vampires' relates to 'necks' while 'looking for their' refers to the second interpretation of 'victims'. Both of these are distinct where one refers to a part of the body that vampires usually attack and the other refers to people who are harmed or killed by vampires."
+  },
+  {
+    "id": "het_126",
+    "text": "When gossip finally led to the landlady's arrest for murdering her tenants and scattering parts of their bodies around town, her only comment was ,'' Well, that's what comes of spreading roomers.''",
+    "output": true,
+    "explanation": "The pun word 'roomers' supports two plausible interpretations of 'roomers' meaning gossip and 'roomers' meaning tenants. In the given sentence, the words 'landlady' relates to 'tenants' while 'arrest' refers to the first interpretation of 'gossip'. Both of these are distinct where one refers to a landlady's tenants while the other refers to an action done in response to gossip which is arresting her."
+  },
+  {
+    "id": "het_1335",
+    "text": "A pun is its own reword.",
+    "output": true,
+    "explanation": "The sentence 'A pun is its own reword' is a pun because the word 'pun' can be interpreted as both a type of joke and a homophone of 'pen'. The word 'reword' supports two interpretations: one where it refers to changing the words in a sentence or phrase, and another where it refers to a type of writing instrument. In this case, 'pun' is reworded as 'pen', creating a pun."
+  },
+  {
+    "id": "het_1155",
+    "text": "He drove his car until the day of wreckoning.",
+    "output": false,
+    "explanation": "The word 'wreckoning' does not support two plausible interpretations that could be used to form a pun. The word 'wreck' is not present in the sentence and there are no other words that can be used to create a pun."
+  },
+  {
+    "id": "het_248",
+    "text": "''3. 14159265 ,'' Tom said piously.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_267",
+    "text": "I haven't developed my photographs yet, said Tom negatively.",
+    "output": true,
+    "explanation": "The pun word 'developed' supports two plausible interpretations of 'developed' meaning to process photographic film and 'developed' meaning fully grown or matured. In the given sentence, the words 'photographs' relates to 'developed' meaning to process photographic film while 'yet' refers to the second interpretation of 'developed' meaning not fully grown or matured."
+  },
+  {
+    "id": "het_1377",
+    "text": "No man is an island.",
+    "output": false,
+    "explanation": "There are no pun words in the sentence."
+  },
+  {
+    "id": "het_239",
+    "text": "A perfectly spherical pumpkin makes good pi.",
+    "output": false,
+    "explanation": "The word 'pi' does not support any plausible interpretations that could be used to create a pun in this sentence."
+  },
+  {
+    "id": "het_788",
+    "text": "The big new clock at city hall was the tock of the town.",
+    "output": true,
+    "explanation": "In this sentence, the word 'tock' supports two plausible interpretations as a noun meaning a ticking sound made by a clock and as a verb meaning to tick or make a ticking sound. The words 'big new clock at city hall' relate to the first interpretation of 'tock' as a noun, while 'the town' relates to the second interpretation of 'tock' as a verb."
+  },
+  {
+    "id": "het_839",
+    "text": "One might as well be hanged for a sheep as a lamb.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous terms that can support multiple interpretations."
+  },
+  {
+    "id": "het_1244",
+    "text": "A bunch of robins followed the priest wherever he went. Birds of a father flock together.",
+    "output": true,
+    "explanation": "The pun word 'robins' supports two plausible interpretations of 'robins' meaning birds and 'robins' meaning sons of a father (or offspring). In the given sentence, the words 'followed' relates to the first interpretation of 'birds' while 'father' refers to the second interpretation of 'robins' as sons. Both of these are distinct where one refers to the birds following the priest and the other refers to the father's offspring sticking together."
+  },
+  {
+    "id": "het_1329",
+    "text": "An argument over puppy selection is a pique of the litter.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations."
+  },
+  {
+    "id": "het_28",
+    "text": "The cobbler was asked how many shoes he had soled by a well",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_1339",
+    "text": "Time flies when you \u2019 re following the son",
+    "output": true,
+    "explanation": "The pun word 'flies' supports two plausible interpretations of 'flies' meaning insects and 'flies' as in time passes quickly. In the given sentence, the words 'Time' relates to 'flies' meaning insects while 'following' refers to the second interpretation of 'flies' as in time passes quickly."
+  },
+  {
+    "id": "het_260",
+    "text": "Some horses cause their owners a lot of woe.",
+    "output": false,
+    "explanation": "The word 'horses' does not support any ambiguity or pun in the sentence."
+  },
+  {
+    "id": "het_731",
+    "text": "When a problem or dilemma arises :'' As plumbers say, it's not drain surgery.''",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "het_1050",
+    "text": "A cat that swallowed a ball of wool had mittens.",
+    "output": false,
+    "explanation": "There are no pun words in the sentence."
+  },
+  {
+    "id": "het_1216",
+    "text": "Modern fashion designs are often presented with tongue in chic.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or phrases."
+  },
+  {
+    "id": "het_406",
+    "text": "''I wish I could remember the name of that card game ,'' said Tom wistfully.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_258",
+    "text": "OLD GOSSIPS never die they just lose their confidants",
+    "output": true,
+    "explanation": "The pun word 'confidants' supports two plausible interpretations of 'confidants' meaning trusted friends and 'confidence' meaning belief in oneself. In the given sentence, the words 'old gossips' relate to 'confidants' while 'lose their' refers to the second interpretation of 'confidence'. Both of these are distinct where one refers to old gossips losing their trusted friends while the other refers to a loss of belief in oneself."
+  },
+  {
+    "id": "het_1545",
+    "text": "A church fair is a bazaar experience.",
+    "output": false,
+    "explanation": "The word 'bazaar' does not support two plausible interpretations in the given sentence. The word 'church' and 'fair' do not relate to any other word in the sentence."
+  },
+  {
+    "id": "het_1102",
+    "text": "A good surgeon has an eagle's eye, a lion's heart, and a lady's hand.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_1475",
+    "text": "When Caesar entered the Senate all hail broke loose.",
+    "output": true,
+    "explanation": "The pun word 'hail' supports two plausible interpretations of 'hail' meaning a form of precipitation and 'hail' as an exclamation of approval or acclamation. In the given sentence, the words 'Caesar', 'entered', 'Senate' relate to the first interpretation of 'hail' meaning a form of precipitation while 'all' refers to the second interpretation of 'hail' as an exclamation of approval or acclamation."
+  },
+  {
+    "id": "het_1506",
+    "text": "OLD BATHING BEAUTIES never die, they just wade away.",
+    "output": true,
+    "explanation": "The pun word 'wade' supports two plausible interpretations of 'wade' meaning to walk through water and 'weigh' meaning to have a certain amount of weight. In the given sentence, the words 'die' relates to 'wade' while 'away' refers to the second interpretation of 'weigh'. Both of these are distinct where one refers to passing away and the other refers to having a certain amount of weight."
+  },
+  {
+    "id": "het_1387",
+    "text": "You should always use basil the day you buy it-as they say, herb today, gone tomorrow.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or phrases."
+  },
+  {
+    "id": "het_854",
+    "text": "I thought that the penny I was looking for would have belonged to a man, but I detected the cent of a woman.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "het_68",
+    "text": "Sufficient unto the day is the evil thereof.",
+    "output": false,
+    "explanation": "There are no pun words or ambiguous words in the sentence."
+  },
+  {
+    "id": "het_1779",
+    "text": "I wonder how much an anagram weighs?",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "het_705",
+    "text": "My name is Gail. I'm a meteorologist",
+    "output": false,
+    "explanation": "There are no pun words in the sentence."
+  },
+  {
+    "id": "het_656",
+    "text": "He stared at his belly button so much, he was promoted to navel officer.",
+    "output": true,
+    "explanation": "The pun word 'navel' supports two plausible interpretations of 'navel' meaning a naval officer and 'belly button'. In the given sentence, the words 'stared at his belly button' relates to 'belly button' while 'promoted to navel officer' refers to the second interpretation of 'navel' as in a naval officer. Both of these are distinct where one refers to a body part and the other refers to a profession."
+  },
+  {
+    "id": "het_1726",
+    "text": "The statistician attended the dance stag. He didn't have any data.",
+    "output": true,
+    "explanation": "In this sentence, the pun word is 'data'. The word 'data' can be interpreted as both a plural form of 'datum', which refers to a piece of information or fact, and as a homophone for 'date', which refers to a particular point in time. In the given sentence, the words 'statistician' relates to 'data' where it refers to a person who works with data, while 'attended' refers to the second interpretation of 'date' where it refers to an event or occasion."
+  },
+  {
+    "id": "het_864",
+    "text": "''I've mailed the letter ,'' Tom assented.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_977",
+    "text": "When some people open their mouth they put their feat in.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_1062",
+    "text": "I get my large circumference from too much pi.",
+    "output": true,
+    "explanation": "The pun word 'pi' supports two plausible interpretations of 'pi' as in the mathematical constant and 'pie' as a dessert. In the given sentence, the words 'large circumference' relate to 'pi' as in the mathematical constant while 'from too much' refers to the second interpretation of 'pie' as a dessert."
+  },
+  {
+    "id": "het_1516",
+    "text": "How do they get the deer to cross at the signs?",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_1135",
+    "text": "It's a long lane that has no turning.",
+    "output": false,
+    "explanation": "The sentence does not contain any ambiguous word that supports multiple interpretations."
+  },
+  {
+    "id": "het_32",
+    "text": "\" I drank WHAT?!?!\"- Socrates",
+    "output": false,
+    "explanation": "The word 'drank' does not have any ambiguity in this sentence. There are no other words in the sentence that realize both interpretations, hence the sentence is not a pun."
+  },
+  {
+    "id": "het_1225",
+    "text": "The bullfighter's display of timidity left macho to be desired.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_64",
+    "text": "''I've been listening to the Brandenburg Concertos ,'' Tom barked.",
+    "output": true,
+    "explanation": "The pun word 'barked' supports two plausible interpretations of 'barked' meaning to make a noise like a dog and 'barked' meaning to shout or speak loudly. In the given sentence, the words 'Tom' relates to 'barked' meaning to make a noise like a dog while 'listening' refers to the second interpretation of 'barked' meaning to shout or speak loudly."
+  },
+  {
+    "id": "het_1284",
+    "text": "''A dog bit me ,'' said Tom rabidly.",
+    "output": true,
+    "explanation": "In this sentence, the word 'rabidly' is a pun because it can be interpreted as both an adverb meaning 'in a furious or violent manner' and also as an adjective meaning 'having rabies'. The sentence uses the word 'dog', which is associated with the first interpretation of 'rabidly' while the word 'Tom' relates to the second interpretation of 'rabidly'."
+  },
+  {
+    "id": "het_1301",
+    "text": "Romance isn't a science-it's a heart.",
+    "output": false,
+    "explanation": "The word 'heart' in the sentence does not support two plausible interpretations that could be used to form a pun."
+  },
+  {
+    "id": "het_858",
+    "text": "When one door closes, another door opens.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "het_147",
+    "text": "Dentist's famous last words :\"You won't feel a thing... \"",
+    "output": true,
+    "explanation": "The pun word 'thing' supports two plausible interpretations of 'thing' meaning an object and 'feeling' as in sensations or emotions. In the given sentence, the words 'famous last words' relate to 'thing' while 'won't feel a thing' refers to the second interpretation of 'feeling'. Both of these are distinct where one refers to a dentist's prediction about an object and the other refers to a patient not experiencing any discomfort during the dental procedure."
+  },
+  {
+    "id": "het_1059",
+    "text": "The best defence is a good offence.",
+    "output": false,
+    "explanation": "There are no pun words or ambiguous interpretations in the sentence."
+  },
+  {
+    "id": "het_887",
+    "text": "The cheque is in the post, Tom assented.",
+    "output": false,
+    "explanation": "There are no pun words in this sentence."
+  },
+  {
+    "id": "het_1724",
+    "text": "After getting pranked by his friends and getting hit with a basket, Aron knew they had a wickerd sense of humour.",
+    "output": true,
+    "explanation": "The pun word 'wickerd' supports two plausible interpretations of 'wickerd' meaning clever or tricky and 'wicker' meaning a type of basket material. In the given sentence, the words 'pranked', 'basket' relate to 'wicker' while 'sense of humour' refers to the first interpretation of 'wickerd'. Both of these are distinct where one refers to a clever or tricky sense of humor and the other refers to a type of basket material used in pranks."
+  },
+  {
+    "id": "het_103",
+    "text": "You go to heaven... God sneezes... What do you say?",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "het_1291",
+    "text": "The eight chicken farmers jumped in their rowing shell and put their cox up in front.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_550",
+    "text": "When making butter there is little margarine for error.",
+    "output": true,
+    "explanation": "The pun word 'margarine' supports two plausible interpretations of 'margarine' as a type of butter substitute and 'margin' as in the limit or range. In the given sentence, the words 'making' relates to 'margarine' while 'error' refers to the second interpretation of 'margin'. Both of these are distinct where one refers to making margarine and the other refers to a small allowance for mistakes."
+  },
+  {
+    "id": "het_468",
+    "text": "My sofa was repaired, but I was surprised to find an item on the bill for upholstery tacks.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_984",
+    "text": "That gas pump must be sick. It doesn't fill well.",
+    "output": true,
+    "explanation": "The pun word 'fill' supports two plausible interpretations of 'fill' meaning to cause something to become full and 'fill' as in the action of filling up a car with gas. In the given sentence, the words 'gas pump' relates to 'fill' meaning to cause something to become full while 'doesn't fill well' refers to the second interpretation of 'fill' as in the action of filling up a car with gas."
+  },
+  {
+    "id": "het_769",
+    "text": "Traveling on a flying carpet is a rugged experience.",
+    "output": false,
+    "explanation": "The word 'rug' in the sentence does not support two plausible interpretations of 'rug' meaning a floor covering and 'rug' meaning a small carpet. The word 'carpet' relates to the second interpretation of 'rug' as a small carpet but there is no other word that realizes both interpretations, hence the sentence is not a pun."
+  },
+  {
+    "id": "het_123",
+    "text": "I used to do rock climbing as a youth, but I was much boulder back then.",
+    "output": true,
+    "explanation": "The pun word 'boulder' supports two plausible interpretations of 'boulder' meaning a large stone and 'bolder' meaning more courageous or confident. In the given sentence, the words 'youth' relates to 'boulder' while 'back then' refers to the second interpretation of 'bolder'. Both of these are distinct where one refers to the person's physical strength and the other refers to their confidence during their youth."
+  },
+  {
+    "id": "het_629",
+    "text": "Two mining companies merged and became alloys.",
+    "output": false,
+    "explanation": "The word 'alloys' does not support any ambiguity or pun in this sentence."
+  },
+  {
+    "id": "het_393",
+    "text": "For meat some people eat lamb and mutton else.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun word."
+  },
+  {
+    "id": "het_827",
+    "text": "When the cattlemen's association sponsored a track and field competition, followed by a barbecue, the commemorative T-shirt read ,'' We loved the meet.''",
+    "output": true,
+    "explanation": "The pun word 'meet' supports two plausible interpretations of 'meet' as in a gathering or meeting and 'meat' as in food. In the given sentence, the words 'cattlemen's association' relates to 'meet' meaning a gathering while 'loved' refers to the second interpretation of 'meat' which is food. Both of these are distinct where one refers to a gathering organized by cattlemen and the other refers to the food that was loved at the event."
+  },
+  {
+    "id": "het_1585",
+    "text": "Junk-stuff we throw away. Stuff-junk we keep.",
+    "output": true,
+    "explanation": "The sentence is a pun because the words 'junk' and 'stuff' can be interpreted in two different ways. The first interpretation of 'junk' refers to waste or rubbish, while the second interpretation refers to a type of music. Similarly, the word 'stuff' can refer to items or objects, or it can mean to fill or occupy space. In this sentence, 'junk-stuff' and 'stuff-junk' are used in such a way that they support both interpretations."
+  },
+  {
+    "id": "het_480",
+    "text": "A crow in a telephone booth had no money so he had to make a collect caw.",
+    "output": true,
+    "explanation": "The pun word 'caw' supports two plausible interpretations of 'caw' meaning the sound made by a crow and 'cow' which is an animal. In the given sentence, the words 'telephone booth' relates to 'caw' meaning the sound made by a crow while 'collect caw' refers to the second interpretation of 'cow'. Both of these are distinct where one refers to a telephone conversation with a crow and the other refers to a cow making a sound."
+  },
+  {
+    "id": "het_365",
+    "text": "I was going to study the work of Sigmund Freud, but I was too Jung to understand it.",
+    "output": true,
+    "explanation": "The pun word 'Jung' supports two plausible interpretations of 'Jung' as in Carl Gustav Jung and 'young'. In the given sentence, the words 'too' relates to the second interpretation of 'young', referring to the speaker being too young to understand the work of Sigmund Freud."
+  },
+  {
+    "id": "het_207",
+    "text": "Politeness costs nothing and gains everything.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations."
+  },
+  {
+    "id": "het_973",
+    "text": "He doesn't talk much does he?He's just a little horse.",
+    "output": true,
+    "explanation": "The pun word 'horse' supports two plausible interpretations of 'horse' meaning an animal and 'hoarse' meaning having a harsh or rough voice. In the given sentence, the words 'doesn't talk much' relates to 'hoarse' while 'little' refers to the first interpretation of 'horse' as a small animal."
+  },
+  {
+    "id": "het_206",
+    "text": "A paramedic got a new job as a chauffeur : an ambiance driver.",
+    "output": true,
+    "explanation": "The pun word 'ambiance' supports two plausible interpretations of 'ambiance' meaning atmosphere and 'ambulance' meaning a vehicle used in emergency medical services. In the given sentence, the words 'paramedic' relates to 'ambulance' while 'chauffeur' refers to the second interpretation of 'ambiance'. Both of these are distinct where one refers to a person who drives an ambulance and the other refers to a pleasant atmosphere."
+  },
+  {
+    "id": "het_1022",
+    "text": "Noah wasn't the first off the ark. He came forth.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations."
+  },
+  {
+    "id": "het_1038",
+    "text": "Most samurai refused to shave. They were bushi.",
+    "output": false,
+    "explanation": "The word 'bushi' does not support any pun interpretations in the given sentence."
+  },
+  {
+    "id": "het_881",
+    "text": "An hourglass is a waist of time.",
+    "output": true,
+    "explanation": "The pun word 'waist' supports two plausible interpretations of 'waist' meaning the narrow part of the human body and 'waist' as in 'hourglass'. In the given sentence, the words 'hourglass' relates to 'waist' meaning the narrow part of the human body while 'a waist of time' refers to the second interpretation of 'waist' as in 'hourglass'. Both of these are distinct where one refers to a body part and the other refers to an object."
+  },
+  {
+    "id": "het_55",
+    "text": "After burning a batch of cookies a baker felt very crummy.",
+    "output": false,
+    "explanation": "The word 'crummy' does not support multiple interpretations that could be used to create a pun in this sentence."
+  },
+  {
+    "id": "het_1070",
+    "text": "''I won't finish in fifth place ,'' Tom held forth.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_1534",
+    "text": "But honey, I wouldn't be up so late on a faster machine!",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations."
+  },
+  {
+    "id": "het_1186",
+    "text": "''Stop, horse!Stop!'' cried Tom woefully.",
+    "output": false,
+    "explanation": "The word 'horse' does not support two plausible interpretations in the given sentence. The word 'stop' is repeated twice but it doesn't relate to any other word in the sentence."
+  },
+  {
+    "id": "het_203",
+    "text": "Those who have icicles keep a stiff upper drip.",
+    "output": true,
+    "explanation": "The pun word 'drip' supports two plausible interpretations of 'drip' meaning a small drop of water and 'trip' meaning a short journey or stumble. In the given sentence, the words 'stiff upper drip' relate to both interpretations where 'icicles' refer to a person who is cold and 'keep a stiff upper drip' refers to maintaining a composed demeanor despite being cold."
+  },
+  {
+    "id": "het_1325",
+    "text": "A good name is the best of all treasures.",
+    "output": false,
+    "explanation": "There are no pun words in the sentence."
+  },
+  {
+    "id": "het_1512",
+    "text": "They were married by candle-light, but the marriage lasted only a wick.",
+    "output": true,
+    "explanation": "The pun word 'wick' supports two plausible interpretations of 'wick' meaning a thin strip used in candles and 'week' meaning a period of seven days. In the given sentence, the words 'married by candle-light' relate to 'wick' while 'lasted only a' refers to the second interpretation of 'week'. Both of these are distinct where one refers to a marriage event with candles and the other refers to the duration of the marriage."
+  },
+  {
+    "id": "het_1430",
+    "text": "Without temptation there is no victory.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations."
+  },
+  {
+    "id": "het_1765",
+    "text": "Hospitals that buy in bulk get a valium discount.",
+    "output": false,
+    "explanation": "The word 'valium' does not support two plausible interpretations of the sentence. It refers to a specific drug and there are no other words in the sentence that realize both interpretations, hence the sentence is not a pun."
+  },
+  {
+    "id": "het_933",
+    "text": "Some moss took a lichen to a tree.",
+    "output": true,
+    "explanation": "The pun word 'lichen' supports two plausible interpretations of 'lichen' meaning an organism that grows on trees and 'like in' meaning similar to. In the given sentence, the words 'moss', 'took a liking to' relate to the first interpretation of 'lichen' as an organism that grows on trees while 'tree' refers to the second interpretation of 'like in' which is similar to a tree."
+  },
+  {
+    "id": "het_1292",
+    "text": "The sun was bright on a dry, cloudless morning, but later it waned.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_651",
+    "text": "''Let's take a vacation in the south of France ,'' said Tom nicely.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_1777",
+    "text": "' Come see my fishpond', she said coyly.",
+    "output": false,
+    "explanation": "The word 'fishpond' does not support two plausible interpretations of a pun. There are no other words in the sentence that realize both interpretations, hence the sentence is not a pun."
+  },
+  {
+    "id": "het_1336",
+    "text": "The nuclear physicist took a vacation for a fission trip.",
+    "output": true,
+    "explanation": "In the given sentence, the pun word 'fission' supports two plausible interpretations of 'fission' meaning a process in nuclear physics and 'fission' as a division or splitting. In this case, the word 'trip' relates to the second interpretation of 'fission' as a journey or excursion. Both of these are distinct where one refers to a scientific process while the other refers to an action done for leisure which is taking a vacation."
+  },
+  {
+    "id": "het_1546",
+    "text": "The tired playgoers decided to bypass the new production of'' Othello'' despite the good reviews ; having just returned from a long trip, they didn't feel like seeing any moor of Venice.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or phrases."
+  },
+  {
+    "id": "het_928",
+    "text": "The electricity was off and they couldn't found out watt was the problem.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_631",
+    "text": "''Has my magazine arrived?'' Tom asked periodically.",
+    "output": false,
+    "explanation": "The word 'magazine' does not support two plausible interpretations in the given sentence. There are no other words in the sentence that realize both interpretations, hence the sentence is not a pun."
+  },
+  {
+    "id": "het_922",
+    "text": "3. 142 Tom enumerated piously.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_1033",
+    "text": "It was such a big piece of gold, he didn't know what to assay.",
+    "output": true,
+    "explanation": "The pun word 'assay' supports two plausible interpretations of 'assay' meaning an analysis or test and 'assay' as a homophone for 'as I'. In the given sentence, the words 'such a big piece of gold' relates to 'assay' meaning an analysis or test while 'didn't know what to' refers to the second interpretation of 'as I'. Both of these are distinct where one refers to an analysis of gold and the other refers to a person not knowing what to do."
+  },
+  {
+    "id": "het_1632",
+    "text": "Praise the day at sunset.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_620",
+    "text": "No viruses detected. Must be a pair of Nanites.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "het_1086",
+    "text": "She said she wasn't pregnant but contractions speak louder then words.",
+    "output": true,
+    "explanation": "The pun word 'contractions' supports two plausible interpretations of 'contractions' meaning both the process of giving birth and the act of shortening or contracting. In the given sentence, the words 'said she wasn't pregnant' relate to the first interpretation of 'contractions' meaning the process of giving birth while 'speak louder than words' refers to the second interpretation of 'contractions' meaning the act of shortening or contracting."
+  },
+  {
+    "id": "het_355",
+    "text": "Burn not your house to rid it of the mouse.",
+    "output": true,
+    "explanation": "The pun word 'house' supports two plausible interpretations of 'house' meaning a building and 'hoarse' meaning having a rough or harsh voice. In the given sentence, the words 'burn not your' relates to 'house' meaning a building while 'mouse' refers to the second interpretation of 'hoarse'. Both of these are distinct where one refers to a house on fire and the other refers to an action done to remove a mouse."
+  },
+  {
+    "id": "het_1494",
+    "text": "Have a ride in my new ambulance, said Tom hospitably.",
+    "output": true,
+    "explanation": "The pun word 'ambulance' supports two plausible interpretations of 'ambulance' meaning an emergency vehicle and 'ambush' meaning a surprise attack. In the given sentence, the words 'ride' relates to the first interpretation of 'ambulance' while 'new' refers to the second interpretation of 'ambush'. Both of these are distinct where one refers to a ride in an ambulance and the other refers to a new surprise attack."
+  },
+  {
+    "id": "het_1110",
+    "text": "She was only a Coal dealer's daughter, but, oh, where she had bin.",
+    "output": true,
+    "explanation": "The pun word 'bin' supports two plausible interpretations of 'bin' meaning a container and 'bin' as in the past tense of 'be'. In the given sentence, the words 'where she had bin' refers to the past tense of 'be' while 'Coal dealer's daughter' refers to a person who is related to a coal dealer. Both of these are distinct where one refers to the past action of the subject and the other refers to her family background."
+  },
+  {
+    "id": "het_274",
+    "text": "Some days you get the bear, other days the bear gets you.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "het_1143",
+    "text": "At a pet store :'buy one dog, get one flea'.",
+    "output": true,
+    "explanation": "The pun word 'flea' supports two plausible interpretations of 'flea' meaning a small insect and 'free' meaning not costing anything. In the given sentence, the words 'buy one dog' relates to 'flea' while 'get one flea' refers to the second interpretation of 'free'. Both of these are distinct where one refers to purchasing a dog and the other refers to getting something for free."
+  },
+  {
+    "id": "het_572",
+    "text": "Bought friends are not friends indeed.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations."
+  },
+  {
+    "id": "het_983",
+    "text": "Faith doesn \u2019 t fall apart at the seems",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations."
+  },
+  {
+    "id": "het_733",
+    "text": "Patience is a virtue heavy in wait",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "het_1684",
+    "text": "Every little helps.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_1646",
+    "text": "80 percent of life is showing up.",
+    "output": false,
+    "explanation": "There are no pun words or ambiguous interpretations in the sentence."
+  },
+  {
+    "id": "het_1200",
+    "text": "The candle-making machine broke down when someone threw a spanner in the wax.",
+    "output": true,
+    "explanation": "In this sentence, the pun word is 'spanner'. The word 'spanner' can be interpreted as both a tool used to fix or adjust machines and a person who disrupts something. In the given sentence, the words 'threw a spanner in the wax' refers to disrupting the process of making candles by introducing an unexpected element (a person). Both interpretations are distinct where one refers to a tool used for fixing machines while the other refers to a person causing disruption."
+  },
+  {
+    "id": "het_466",
+    "text": "A bird with a headache might just migrane south.",
+    "output": true,
+    "explanation": "The pun word 'migrane' supports two plausible interpretations of 'migrane' meaning a severe headache and 'migrain' meaning to move from one place to another in a specific direction. In the given sentence, the words 'bird' relates to 'migrane' while 'might just migrane south' refers to the second interpretation of 'migrain' which means moving or going towards the south."
+  },
+  {
+    "id": "het_409",
+    "text": "Russia was slow to recover after WW2 because it kept Stalin around.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_765",
+    "text": "The cd salesman said ,'' The classical music section is right over there ,'' as he smoothed his pencil-thin mustache and spread another handful of Brylcreem on his hair.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or phrases that support multiple interpretations."
+  },
+  {
+    "id": "het_98",
+    "text": "All are not thieves that dogs bark at.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguity in the meaning of a word."
+  },
+  {
+    "id": "het_960",
+    "text": "I came, I saw, I confused.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_696",
+    "text": "I can keep a secret, it's the people I tell who can't.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous terms that support multiple interpretations."
+  },
+  {
+    "id": "het_849",
+    "text": "Britain is a wet place since the queen has had a long reign.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous terms that support multiple interpretations."
+  },
+  {
+    "id": "het_451",
+    "text": "The race horse went lame early. It was the first out of its gait.",
+    "output": true,
+    "explanation": "In this sentence, the pun word is 'gait'. The word 'gait' can be interpreted as a way of walking or running (referring to the horse's movement) and also as a type of race in which horses participate. In the given sentence, the words 'race horse' relate to 'gait' meaning a way of walking or running while 'first out of its gait' refers to the horse being first in a gait race."
+  },
+  {
+    "id": "het_1774",
+    "text": "In a billiard hall life can be pretty rough at the wrong end of the queue.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "het_472",
+    "text": "My name is Russell, I'm a cattle thief",
+    "output": false,
+    "explanation": "The word 'cattle' does not have any ambiguity in the sentence where it supports two plausible interpretations of 'cattle'. There are no other words in the sentence that realize both interpretations, hence the sentence is not a pun."
+  },
+  {
+    "id": "het_722",
+    "text": "The son can warm you forever",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_182",
+    "text": "He that stays in the valley will not get over the hill.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or phrases."
+  },
+  {
+    "id": "het_137",
+    "text": "When I phoned my friend yesterday we mainly talked about the weather and our upcomimg exams, and we both agreed that the poring was sickening.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous terms which support multiple interpretations."
+  },
+  {
+    "id": "het_240",
+    "text": "The invisible cows were herd but not seen.",
+    "output": true,
+    "explanation": "In this sentence, 'herd' is the pun word that supports two plausible interpretations: 'heard', which refers to listening or understanding and 'herd', which refers to a group of cows. The words 'invisible' relates to 'not seen' while 'cows' relates to 'herd'. Both these realizations are distinct where one refers to the inability to see a group of cows and the other refers to the act of listening or understanding."
+  },
+  {
+    "id": "het_734",
+    "text": "No man can serve two masters.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_52",
+    "text": "Guns don't kill people. Bullets kill people.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations."
+  },
+  {
+    "id": "het_1460",
+    "text": "Scaldophobia : Fear the toilet will flush while showering.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations."
+  },
+  {
+    "id": "het_1327",
+    "text": "''Do you buy and sell stolen goods?'' asked Tom offensively.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous terms that can be interpreted in multiple ways."
+  },
+  {
+    "id": "het_871",
+    "text": "Lions don't have to worry about every little detail in life... just the mane thing.",
+    "output": true,
+    "explanation": "The pun word 'mane' supports two plausible interpretations of 'mane' meaning a lion's mane and 'main' meaning important or principal. In the given sentence, the words 'lions' relates to 'mane' while 'don't have to worry about every little detail in life... just the mane thing' refers to the second interpretation of 'main' meaning important or principal."
+  },
+  {
+    "id": "het_215",
+    "text": "My name is Manuel, I write instruction books.",
+    "output": false,
+    "explanation": "There are no pun words or ambiguous interpretations in the sentence."
+  },
+  {
+    "id": "het_1481",
+    "text": "''You resemble a goat ,'' said Tom satirically.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_59",
+    "text": "When it got stuck in the mud my car had to be toad.",
+    "output": true,
+    "explanation": "The pun word 'toad' supports two plausible interpretations of 'toad' meaning a type of amphibian and 'tow' meaning to pull or carry. In the given sentence, the words 'car' relates to 'toad' while 'had to be' refers to the second interpretation of 'tow'. Both of these are distinct where one refers to a car being stuck in the mud and the other refers to the action of pulling or carrying the car."
+  },
+  {
+    "id": "het_173",
+    "text": "Poets are born, but orators are trained.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "het_161",
+    "text": "I may have my faults, but being wrong ain't one of them.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous words that can be interpreted in multiple ways."
+  },
+  {
+    "id": "het_349",
+    "text": "No need of words, trust deeds.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_1138",
+    "text": "Insulting an East Indian chef will bring you bad Korma.",
+    "output": true,
+    "explanation": "The pun word 'Korma' supports two plausible interpretations of 'korma' meaning a type of dish and 'karmic' meaning related to the principle of karma. In the given sentence, the words 'insulting' relates to 'karmic' while 'bring you bad' refers to the first interpretation of 'korma'. Both of these are distinct where one refers to a consequence of an action and the other refers to a type of dish."
+  },
+  {
+    "id": "het_278",
+    "text": "''Congratulations ; you graduated ,'' said Tom diplomatically.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations of words."
+  },
+  {
+    "id": "het_1124",
+    "text": "I'd love to, but my favorite commercial is on TV.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "het_652",
+    "text": "On the way to the church our car broke down. I desperately tried to find some succor to help us resume our journey.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_140",
+    "text": "It's amazing what two or more sinners can achieve together with synergy.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "het_1032",
+    "text": "''You must be my host ,'' Tom guessed.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_279",
+    "text": "Never mind the star, get those camels off my lawn!",
+    "output": true,
+    "explanation": "The pun word 'star' supports two plausible interpretations of 'star' meaning a celestial body and 'star' as in a celebrity. In the given sentence, the words 'Never mind' relates to 'star' meaning a celestial body while 'get those camels off my lawn!' refers to the second interpretation of 'star' as in a celebrity."
+  },
+  {
+    "id": "het_848",
+    "text": "I wanted to be a clarinettist but I couldn't reed music.",
+    "output": true,
+    "explanation": "The pun word 'reed' supports two plausible interpretations of 'reed' meaning a type of plant and 'read' meaning to understand or interpret. In the given sentence, the words 'wanted', 'clarinettist', and 'music' relate to the first interpretation of 'reed' as a plant used in clarinets. The word 'couldn't' refers to the second interpretation of 'read' meaning to understand or interpret music."
+  },
+  {
+    "id": "het_427",
+    "text": "I went out for a run this morning and tripped over, I could have been wearing the wrong size shoes, I haven't seen the footage yet.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_566",
+    "text": "Computer programs for gambling need beta testing.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_681",
+    "text": "She was small, slender with doe like eyes.'' Oh, my deer ,'' he whispered.",
+    "output": true,
+    "explanation": "In the sentence 'Oh, my deer,' the pun word 'deer' supports two plausible interpretations of 'deer' meaning a four-legged mammal and 'dear' meaning someone who is loved or liked. In this context, 'my deer' refers to the animal while 'oh, my dear' refers to someone being liked or loved."
+  },
+  {
+    "id": "het_314",
+    "text": "Be the soul supporter of your children.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_477",
+    "text": "What you seize is what you get.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous words that can be interpreted in multiple ways."
+  },
+  {
+    "id": "het_844",
+    "text": "If you say you have bad skin, I'd say that was a pore excuse.",
+    "output": true,
+    "explanation": "The pun word 'pore' supports two plausible interpretations of 'pore' meaning a small opening in the skin and 'pour' meaning to flow or pour out. In the given sentence, the words 'bad skin' relates to 'pore' while 'excuse' refers to the second interpretation of 'pour'. Both of these are distinct where one refers to bad skin condition while the other refers to an attempt to justify something."
+  },
+  {
+    "id": "het_909",
+    "text": "In a bakery buns usually play a small role.",
+    "output": false,
+    "explanation": "The word 'buns' does have ambiguity here where it supports two plausible interpretations of buns as in pastries and buns as in the buttocks. However, there are no other words in the sentence that realize both interpretations, hence the sentence is not a pun."
+  },
+  {
+    "id": "het_306",
+    "text": "''I think I've broken my leg'', reported Tom lamely.",
+    "output": true,
+    "explanation": "The pun word 'lamely' supports two plausible interpretations of 'lamely' meaning both a way of walking with an injured or deformed limb and the adverb form of lame (not funny). In the given sentence, the words 'Tom' relates to 'leg' while 'reported' refers to the second interpretation of 'lamely' as an adverb. Both of these are distinct where one refers to a person with an injured leg and the other refers to the manner in which Tom reported his condition."
+  },
+  {
+    "id": "het_61",
+    "text": "When in doubt, do nothing.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations."
+  },
+  {
+    "id": "het_1476",
+    "text": "The book about Teflon contained no frictional characters.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_975",
+    "text": "Where there is a will, there is a way.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous words that support multiple interpretations."
+  },
+  {
+    "id": "het_640",
+    "text": "Those who find bargain antiques like to junk for joy.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations."
+  },
+  {
+    "id": "het_333",
+    "text": "When priests have a good idea they are supposed to parish the thought.",
+    "output": true,
+    "explanation": "The pun word 'parish' supports two plausible interpretations of 'parish' meaning a religious community and 'parish' as a verb meaning to abandon or reject. In the given sentence, the words 'priests' relates to 'parish' meaning a religious community while 'have a good idea they are supposed to' refers to the second interpretation of 'parish' as a verb meaning to abandon or reject."
+  },
+  {
+    "id": "het_1185",
+    "text": "In middle east outdoor markets you can find bazaar items for sale.",
+    "output": false,
+    "explanation": "The word 'bazaar' does not have ambiguity here where it supports two plausible interpretations of 'bazaar'. There are no other words in the sentence that realize both interpretations, hence the sentence is not a pun."
+  },
+  {
+    "id": "het_313",
+    "text": "The vendor at the Arab market resented how I haggled and told me to take a haik.",
+    "output": true,
+    "explanation": "In this sentence, the word 'haik' is a pun as it can be interpreted in two ways - either as a misspelled or mispronounced version of 'hike', which is a noun meaning a walk or journey on foot, or as 'hair', which is a noun referring to the growing part of the skin. The sentence implies that the vendor was upset with the way you haggled and suggested you take a walk or journey (hike) instead."
+  },
+  {
+    "id": "het_878",
+    "text": "I'm dangerous when I know what I'm doing.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_1005",
+    "text": "I met some cult members who worshiped soup serving utensils. I said ,'Oh ye of ladle faith. '",
+    "output": true,
+    "explanation": "The pun word 'ladle' supports two plausible interpretations of 'ladle' meaning a type of spoon used for serving soup and 'laddie' meaning a young boy or man. In the given sentence, the words 'ye' relates to 'ladle' while 'faith' refers to the second interpretation of 'laddie'. Both of these are distinct where one refers to a group of people who believe in something while the other refers to an address to a young person."
+  },
+  {
+    "id": "het_1061",
+    "text": "''I've struck oil!'' said Tom crudely.",
+    "output": true,
+    "explanation": "The pun word 'oil' supports two plausible interpretations of 'oil' meaning a black viscous liquid and 'oil' as in the action of rubbing or massaging. In the given sentence, the words 'struck' relates to the first interpretation of 'oil' meaning a black viscous liquid while 'Tom crudely' refers to the second interpretation of 'oil' as in the action of rubbing or massaging."
+  },
+  {
+    "id": "het_1333",
+    "text": "Your nose is in the scenter of your face.",
+    "output": false,
+    "explanation": "The word 'scenter' does not support any plausible interpretations that could be considered a pun."
+  },
+  {
+    "id": "het_154",
+    "text": "There's nothing to stop me putting things in tins, said Tom cannily.",
+    "output": true,
+    "explanation": "In the given sentence, the pun word 'tins' supports two plausible interpretations of 'tins' meaning a container and 'tins' as a short form of 'tinnitus', which is a medical condition characterized by the perception of sound in the absence of an external source. The words 'putting things in' relate to the first interpretation of 'tins' as a container, while 'stop me putting things in' refers to the second interpretation of 'tins' as a short form of 'tinnitus'. Both of these are distinct where one is about storing items and the other is about a medical condition."
+  },
+  {
+    "id": "het_613",
+    "text": "A man is known by the company he keeps.",
+    "output": false,
+    "explanation": "There are no pun words or ambiguous interpretations in the sentence."
+  },
+  {
+    "id": "het_648",
+    "text": "Whatever you do, act wisely, and consider the end.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_1505",
+    "text": "Sweet potatoes?I yam impressed!",
+    "output": true,
+    "explanation": "The pun word 'yam' supports two plausible interpretations of 'yam' as a starchy vegetable and 'I am' as a phrase. In the given sentence, the words 'Sweet potatoes?' relate to 'yam' while 'impressed!' refers to the second interpretation of 'I am'. Both of these are distinct where one refers to a type of vegetable while the other refers to an expression of admiration."
+  },
+  {
+    "id": "het_968",
+    "text": "He that sows the wind shall reap the whirlwind.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "het_1344",
+    "text": "\" All my hidden skills are undiscovered.\"- Clinton",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_370",
+    "text": "Pablo and Jose waited for a signal from Pilar to join her in the Church Tower, but neither responded to the chiming because they didn't know for whom the belle was tolling.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or phrases."
+  },
+  {
+    "id": "het_62",
+    "text": "She wanted the large estate quite badly but, she dared not mansion it to her frugal husband.",
+    "output": true,
+    "explanation": "The pun word 'mansion' supports two plausible interpretations of 'mansion' meaning a large house and 'mansions' as in plural nouns for estates or properties. In the given sentence, the words 'wanted', 'large estate', 'quite badly' relate to the first interpretation of 'mansion' meaning a large house while 'dared not' refers to the second interpretation of 'mansions' as in plural nouns for estates or properties."
+  },
+  {
+    "id": "het_244",
+    "text": "The overweight fighter pilot was grounded for violating the rules of engorgement.",
+    "output": true,
+    "explanation": "In this sentence, the pun word 'grounded' supports two plausible interpretations. The first interpretation is as a state of being unable to fly due to overweight (which is the context in which it is used). The second interpretation is as a state of being forbidden from flying due to rule violation (which is also the context in this sentence). Both these interpretations are realized by the same word 'grounded' making it a pun."
+  },
+  {
+    "id": "het_1116",
+    "text": "Balls!Tom said roundly.",
+    "output": false,
+    "explanation": "The word 'balls' does not support any plausible interpretations that could be considered as a pun in this sentence."
+  },
+  {
+    "id": "het_476",
+    "text": "Can you repeat the part after'Listen very carefully'?",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_1728",
+    "text": "Old white blood cells lymph around the body.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun word or ambiguous word that supports multiple interpretations."
+  },
+  {
+    "id": "het_666",
+    "text": "The Spaniard's wife was always up before the Don.",
+    "output": true,
+    "explanation": "In this sentence, the pun word is 'Don'. The word 'Don' can be interpreted as a Spanish title or a male given name. In the context of the sentence, it refers to the Spaniard's husband. The wife is always up before her husband, which creates a humorous double entendre."
+  },
+  {
+    "id": "het_47",
+    "text": "The ultimate liquid measure is the supreme quart.",
+    "output": true,
+    "explanation": "In this sentence, 'supreme' can be interpreted as both a high degree of something (e.g., authority) and a unit of measurement (e.g., a supreme, which is equal to 2 quarts). The word 'quart' supports two plausible interpretations: a unit of liquid measure and the musical term for four beats. In this sentence, 'ultimate' refers to the highest degree or level of something, while 'liquid measure' relates to the first interpretation of 'quart' as a unit of measurement."
+  },
+  {
+    "id": "het_665",
+    "text": "I like the latest horror movie so much that I've arranged a private screaming.",
+    "output": true,
+    "explanation": "The pun word 'screaming' supports two plausible interpretations of 'screaming' meaning an act of expressing strong emotion and 'screening' meaning to view or examine closely. In the given sentence, the words 'latest horror movie' relates to 'screaming' while 'arranged a private' refers to the second interpretation of 'screening'. Both of these are distinct where one refers to an act of expressing strong emotion due to a horror movie and the other refers to organizing a personal viewing session."
+  },
+  {
+    "id": "het_302",
+    "text": "The Jedi Knight traded in his light saber for a light dagger. He had gone over to the dirk side.",
+    "output": true,
+    "explanation": "In this sentence, 'light saber' and 'light dagger' are pun words that support two plausible interpretations of 'saber' as a weapon and 'dagger' as a type of dagger. The word 'dirk side' also supports the same interpretation where 'dirk' is another term for a type of dagger. Hence, this sentence is a pun."
+  },
+  {
+    "id": "het_954",
+    "text": "The discovery of how to make steel was ironic.",
+    "output": false,
+    "explanation": "The word 'ironic' does not support two plausible interpretations that would create a pun in the sentence."
+  },
+  {
+    "id": "het_775",
+    "text": "Water leaking through wallboard is usually a ceiling problem.",
+    "output": false,
+    "explanation": "There are no pun words or ambiguous interpretations in the sentence."
+  },
+  {
+    "id": "het_1683",
+    "text": "My brother told me that serpentine is what you use to get paint off a boa constrictor.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations."
+  },
+  {
+    "id": "het_1729",
+    "text": "Happy Halloween!Tom said gravely.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_1174",
+    "text": "I'm not a crook, Nixon said resignedly.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations."
+  },
+  {
+    "id": "het_537",
+    "text": "The hotel regrets that you do not find your rooms satisfactory ; I will send up our sweet manager right away.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_843",
+    "text": "Two lovers who had been apart for some time were reunited on a foggy day. One whispered to the other'I mist you'.",
+    "output": true,
+    "explanation": "The pun word 'mist' supports two plausible interpretations of 'mist' meaning a type of cloud and 'miss' meaning to be without someone. In the given sentence, the words 'lovers' relate to 'miss' while 'whispered' refers to the first interpretation of 'mist'. Both of these are distinct where one refers to the feeling of missing someone and the other refers to a type of cloud."
+  },
+  {
+    "id": "het_357",
+    "text": "I had to pay to get into the annual local carnival. But that was the county fare.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguity in word interpretations."
+  },
+  {
+    "id": "het_369",
+    "text": "This is the Netherlands, Tom stated flatly.",
+    "output": false,
+    "explanation": "There are no pun words or ambiguous interpretations in the sentence."
+  },
+  {
+    "id": "het_1189",
+    "text": "Know thyself.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_1134",
+    "text": "I didn't want to buy leather shoes, but eventually I was suede.",
+    "output": true,
+    "explanation": "The pun word 'suede' supports two plausible interpretations of 'suede' meaning a type of fabric and 'sued' as in past tense of the verb 'to sue'. In the given sentence, the words 'didn't want to buy leather shoes' relates to 'suede' while 'eventually I was suede' refers to the second interpretation of 'sued' meaning past tense of the verb 'to sue'. Both of these are distinct where one refers to a preference for fabric and the other refers to a legal action."
+  },
+  {
+    "id": "het_130",
+    "text": "I don't have a solution but I really admire the problem.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_1456",
+    "text": "The soup was so bad it was gruel and unusual punishment.",
+    "output": true,
+    "explanation": "In this sentence, 'gruel' can be interpreted as a type of thin porridge or as a homophone for the word 'rule'. Similarly, 'unusual punishment' can be understood as an atypical form of discipline. The pun here lies in the double meaning of the word 'gruel', which supports two plausible interpretations."
+  },
+  {
+    "id": "het_1270",
+    "text": "Repetition is the mother of memory.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations."
+  },
+  {
+    "id": "het_1542",
+    "text": "If you believe restaurants always overcook steaks, then you probably order them rarely.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_326",
+    "text": "She was so thrifty she could smell a bargain a mall away.",
+    "output": true,
+    "explanation": "The pun word 'mall' supports two plausible interpretations of 'mall' meaning a shopping center and 'mall' as in the fur of an animal. In the given sentence, the words 'thrifty' relates to 'mall' meaning a shopping center while 'smell a bargain' refers to the second interpretation of 'mall' as in the fur of an animal."
+  },
+  {
+    "id": "het_1731",
+    "text": "A cannibal's favourite game is'swallow the leader'.",
+    "output": true,
+    "explanation": "The pun word 'leader' supports two plausible interpretations of 'leader' meaning a person in charge and 'leader' as in the front part of a fish. In the given sentence, the words 'cannibal' relates to 'swallow' while 'the leader' refers to both meanings of 'leader'. The first interpretation refers to a cannibal swallowing a person in charge, and the second interpretation refers to a cannibal swallowing the front part of a fish."
+  },
+  {
+    "id": "het_1300",
+    "text": "I used to enjoy kabuki theatre, but now I prefer noh drama.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous words that can be interpreted in two different ways."
+  },
+  {
+    "id": "het_1467",
+    "text": "The Ennui Society elected a new chairman of the bored.",
+    "output": true,
+    "explanation": "In this sentence, the word 'bored' is a pun because it can be interpreted as both a state of being weary or uninterested (as in 'ennui') and a group of people. The sentence implies that the new chairman was elected from within the Ennui Society, which is a group of people who are bored."
+  },
+  {
+    "id": "het_1343",
+    "text": "It's easier to ask forgiveness than permission.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous words that support multiple interpretations."
+  },
+  {
+    "id": "het_1386",
+    "text": "He who hesitates is bossed.",
+    "output": false,
+    "explanation": "The word 'bossed' does not have any ambiguity or pun potential in this sentence."
+  },
+  {
+    "id": "het_294",
+    "text": "I love your old worn-out jacket covered with all those slogans, but I can't read the frays at the end of the sleeves.",
+    "output": true,
+    "explanation": "The pun word 'frails' supports two plausible interpretations of 'frails' meaning weak or fragile and 'frays' meaning the edges of a fabric that have unraveled. In the given sentence, the words 'can't read' relate to 'frails' while 'the end of the sleeves' refers to the second interpretation of 'frays'. Both of these are distinct where one refers to the fragility of the jacket and the other refers to the unraveled edges of the sleeves."
+  },
+  {
+    "id": "het_1431",
+    "text": "''The policeman charged me twenty bucks for speeding ,'' said Tom finally.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_750",
+    "text": "Failure is the path of least persistence.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations."
+  },
+  {
+    "id": "het_304",
+    "text": "What goes up must come down.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_1680",
+    "text": "All is fish that comes to the net.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "het_558",
+    "text": "''This steamroller is amazing ,'' said Tom flatteringly.",
+    "output": false,
+    "explanation": "The word 'steamroller' does not support any ambiguity or pun in the sentence."
+  },
+  {
+    "id": "het_802",
+    "text": "The garden club visited the nursery and found themselves in a hosta environment.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_674",
+    "text": "While attempting to decipher complicated technical instructions :'' It's all Geek to me.''",
+    "output": true,
+    "explanation": "The pun word 'geek' supports two plausible interpretations of 'geek' as a person who is interested in or skilled at technical subjects and 'geek' as a slang term for someone who is difficult to understand. In the given sentence, the phrase 'It's all Geek to me' refers to the second interpretation where the speaker finds the technical instructions difficult to understand."
+  },
+  {
+    "id": "het_358",
+    "text": "A successful diet is the triumph of mind over platter.",
+    "output": true,
+    "explanation": "The pun word 'platter' supports two plausible interpretations of 'platter' meaning a large flat dish and 'plate' meaning a flat dish or a flat surface. In the given sentence, the words 'triumph', 'mind' relate to the first interpretation of 'platter' while 'over' refers to the second interpretation of 'plate'. Both of these are distinct where one refers to triumph over a large flat dish and the other refers to triumph over a flat surface."
+  },
+  {
+    "id": "het_1178",
+    "text": "I am the Marlboro Man of Borg. I ( cough ) will assim-( choke, wheeze )..",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_1443",
+    "text": "We believe in separation of church and hate",
+    "output": true,
+    "explanation": "The pun word 'church' supports two plausible interpretations of 'church' meaning a place of worship and 'hate' as an emotion. In the given sentence, the words 'believe' relates to 'church' meaning a place of worship while 'separation' refers to the second interpretation of 'hate' as an emotion."
+  },
+  {
+    "id": "het_1744",
+    "text": "''What are these berries?'' Tom rasped.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_728",
+    "text": "If you believe in telekinesis, please raise my hand.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations."
+  },
+  {
+    "id": "het_372",
+    "text": "Never lie to your doctor.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_178",
+    "text": "Ignorance is bliss.",
+    "output": false,
+    "explanation": "There are no pun words or ambiguous interpretations in the sentence."
+  },
+  {
+    "id": "het_673",
+    "text": "If you're in a hole, stop digging.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_866",
+    "text": "A lot of big delivery companies are always trying to courier favour.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun word or ambiguity that supports two plausible interpretations."
+  },
+  {
+    "id": "het_1267",
+    "text": "He is my friend that succoreth me, not he that pitieth me.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "het_1014",
+    "text": "He only knew how to drive a fork lift in reverse. He was the backup man.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations."
+  },
+  {
+    "id": "het_604",
+    "text": "A problem shared is a problem halved.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "het_564",
+    "text": "In times like these the value of Chinese currency should make Americans pay attention. Instead, too many of us just yuan.",
+    "output": true,
+    "explanation": "The pun word 'yuan' supports two plausible interpretations of 'yuan' meaning a unit of Chinese currency and 'yuan' as in the homophone 'you own'. In the given sentence, the phrase 'Instead, too many of us just yuan.' realizes both interpretations where it refers to Americans not paying attention to the value of Chinese currency (unit of Chinese currency) and also a play on words suggesting that they are ignoring their own possessions or belongings (you own)."
+  },
+  {
+    "id": "het_713",
+    "text": "Hot water Heaters : hot water needs heating?",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations."
+  },
+  {
+    "id": "het_285",
+    "text": "The Keystone Kops were frequently criticized for excessive use of farce.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_1464",
+    "text": "My name is Dustin. I'm a school custodian",
+    "output": false,
+    "explanation": "There are no pun words in the sentence."
+  },
+  {
+    "id": "het_1733",
+    "text": "Avoid the pleasure which will bite tomorrow.",
+    "output": false,
+    "explanation": "The word 'pleasure' does not support two plausible interpretations in this sentence."
+  },
+  {
+    "id": "het_751",
+    "text": "Old programmers never die, they just can't C as well.",
+    "output": true,
+    "explanation": "The pun word 'C' supports two plausible interpretations of 'C' meaning the programming language 'C' and 'see'. In the given sentence, the words 'old programmers' relate to 'C' as in the programming language while 'can't' refers to the second interpretation of 'see' which is an action that can be performed by old programmers."
+  },
+  {
+    "id": "het_1647",
+    "text": "When a skunk walked in, the judge said ,'odor in the court'.",
+    "output": true,
+    "explanation": "The pun word 'odor' supports two plausible interpretations of 'odor' meaning smell and 'order' meaning instruction. In the given sentence, the words 'judge' relates to 'order' while 'in the court' refers to the first interpretation of 'odor' meaning smell. Both of these are distinct where one refers to a judge giving an instruction and the other refers to the smell in the court."
+  },
+  {
+    "id": "het_1588",
+    "text": "My bid for this contract aims to please, said Tom tenderly.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations."
+  },
+  {
+    "id": "het_548",
+    "text": "A test-tube baby has a womb with a view.",
+    "output": true,
+    "explanation": "The pun word 'womb' supports two plausible interpretations of 'womb' meaning the female reproductive organ and 'home' meaning a place where one lives. In the given sentence, the words 'test-tube baby' relates to 'womb' while 'view' refers to the second interpretation of 'home'. Both of these are distinct where one refers to a baby being born in an artificial environment and the other refers to having a nice view from a home."
+  },
+  {
+    "id": "het_494",
+    "text": "The fine print is usually a clause for suspicion.",
+    "output": false,
+    "explanation": "There are no pun words or ambiguous interpretations in the sentence."
+  },
+  {
+    "id": "het_324",
+    "text": "Two wrongs can make a riot.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "het_1305",
+    "text": "The first scientists who studied fog were mistified.",
+    "output": true,
+    "explanation": "In this sentence, the word 'mistified' is a pun. It can be interpreted as both 'misunderstood' and 'confused by the mist'. The word 'scientists' relates to the first interpretation of studying fog while the second interpretation of 'mist' refers to the confusion caused by it."
+  },
+  {
+    "id": "het_449",
+    "text": "Piano players are considered to be Baldwin they lose their hair.",
+    "output": true,
+    "explanation": "The pun word 'Baldwin' supports two plausible interpretations of 'Baldwin' as a piano brand and 'baldwin' meaning a person with no hair. In the given sentence, the words 'piano players' relate to 'Baldwin' as in a piano brand while 'lose their hair' refers to the second interpretation of 'baldwin' meaning a person with no hair."
+  },
+  {
+    "id": "het_511",
+    "text": "I may look busy, but I'm just confused!",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_254",
+    "text": "The Vatican's supplier of duck eggs is elected by sacred balut.",
+    "output": true,
+    "explanation": "In this sentence, the pun word 'balut' supports two plausible interpretations. The first interpretation is 'balut', which is a Filipino street food made from fertilized duck eggs. The second interpretation is 'ballot', which refers to a piece of paper used in voting or election. The sentence implies that the supplier of duck eggs for the Vatican is elected by a vote, using the word balut with two meanings."
+  },
+  {
+    "id": "het_113",
+    "text": "The self-conscious shipbuilder tried to recruit extremely sycophantic sailors to compliment her newly designed destroyer.",
+    "output": true,
+    "explanation": "In the given sentence, the pun word 'shipbuilder' supports two plausible interpretations of 'ship' meaning a vessel and 'ship' meaning a person who builds ships. The word 'recruit' refers to the second interpretation of 'sailors' meaning people who serve on a ship while the first interpretation of 'sailors' is used in the context of 'extremely sycophantic sailors'. Both of these are distinct where one refers to a person who builds ships and the other refers to an action done for serving on a vessel."
+  },
+  {
+    "id": "het_1024",
+    "text": "Can you read music?the bandleader asked notably.",
+    "output": false,
+    "explanation": "The word 'read' does not have any ambiguity here where it supports two plausible interpretations of 'read' as in the ability to understand written text and 'red' as a color. There are no other words in the sentence that realize both interpretations, hence the sentence is not a pun."
+  },
+  {
+    "id": "het_1129",
+    "text": "A six foot poet stanza very tall.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_56",
+    "text": "The boating store had its best sail ever.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_92",
+    "text": "OLD BUTCHERS never die, they only meat their fate.",
+    "output": true,
+    "explanation": "The pun word 'meat' supports two plausible interpretations of 'meat' meaning food and 'meet' meaning to come together or encounter. In the given sentence, the words 'old butchers' relates to 'meat' meaning food while 'never die' refers to the second interpretation of 'meet' meaning to encounter death."
+  },
+  {
+    "id": "het_1628",
+    "text": "Adam ate the apple, and our teeth still ache.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations."
+  },
+  {
+    "id": "het_1341",
+    "text": "It's a cracked pitcher that goes longest to the well.",
+    "output": false,
+    "explanation": "The word 'cracked' does not support two plausible interpretations of 'cracked' as in broken and 'crack' as in a small fissure or cleft. There are no other words in the sentence that realize both interpretations, hence the sentence is not a pun."
+  },
+  {
+    "id": "het_252",
+    "text": "''I prefer trout to salmon ,'' Tom said officiously.",
+    "output": true,
+    "explanation": "In the sentence, the word 'officious' is a pun. It can be interpreted as both meaning someone who unnecessarily meddles in other people's affairs and a type of fish. The word 'prefer' relates to the first interpretation of 'officious' while the word 'Tom said' refers to the second interpretation, which is a type of fish."
+  },
+  {
+    "id": "het_553",
+    "text": "The cost of a galvanized hull is enough to zinc a ship.",
+    "output": true,
+    "explanation": "In this sentence, the pun word 'zinc' supports two plausible interpretations of 'zinc' meaning a metal and 'zinc' meaning to coat with zinc. The words 'cost', 'galvanized hull', and 'enough' relate to the first interpretation of 'zinc' as a metal, while the word 'to' refers to the second interpretation of 'zinc' meaning to coat with zinc."
+  },
+  {
+    "id": "het_1382",
+    "text": "What is a duck's favorite game to play?Billiards.",
+    "output": true,
+    "explanation": "The pun word 'duck' supports two plausible interpretations of 'duck' meaning a waterfowl and 'duck' as in the verb 'to duck'. In the given sentence, the words 'favorite game to play' relate to the first interpretation of 'duck' as a waterfowl while 'Billiards' refers to the second interpretation of 'duck' as in the verb 'to duck'."
+  },
+  {
+    "id": "het_1615",
+    "text": "They took soft drinks off the menu just to sprite people.",
+    "output": true,
+    "explanation": "The pun word 'sprite' supports two plausible interpretations of 'sprite' meaning a type of soft drink and 'spirit' meaning a non-corporeal being or essence. In the given sentence, the words 'took off the menu' relates to 'soft drinks' while 'just to sprite people' refers to the second interpretation of 'spirit' which means influencing or affecting people."
+  },
+  {
+    "id": "het_101",
+    "text": "''Boy, that's a bright star ,'' said Tom seriously.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_1360",
+    "text": "Sin and bear it",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_177",
+    "text": "You should never take rocks for granite.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "het_1564",
+    "text": "The nail that sticks up will be hammered down.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_766",
+    "text": "Insanity is doing the same thing over and over, expecting different results.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations."
+  },
+  {
+    "id": "het_679",
+    "text": "Constant dropping wears away the stone.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguity that supports multiple interpretations."
+  },
+  {
+    "id": "het_945",
+    "text": "Some music stores are in a CD part of town.",
+    "output": false,
+    "explanation": "The word 'CD' does not support two plausible interpretations that would create a pun in the sentence."
+  },
+  {
+    "id": "het_226",
+    "text": "Blood is thicker than water.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations."
+  },
+  {
+    "id": "het_1682",
+    "text": "Talk is cheap-- supply exceeds demand!",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations of a word that could be used to create a pun."
+  },
+  {
+    "id": "het_515",
+    "text": "Diplomacy : Saying\"Nice doggie\"until you can find a rock",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous words that support multiple interpretations."
+  },
+  {
+    "id": "het_120",
+    "text": "This is your brain. Postscript on brain your is This.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "het_1306",
+    "text": "paranoia : believing this tagline is about you.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguity that supports multiple interpretations."
+  },
+  {
+    "id": "het_698",
+    "text": "OLD FARMERS never die, they just spade away.",
+    "output": true,
+    "explanation": "The pun word 'spade' supports two plausible interpretations of 'spade' meaning a gardening tool and 'spade' as an old man's face. In the given sentence, the words 'old farmers' relates to 'spade' meaning a gardening tool while 'never die' refers to the second interpretation of 'spade' as an old man's face."
+  },
+  {
+    "id": "het_1011",
+    "text": "The cartoon animator felt imprisoned by his job. He could not free himself from his cel.",
+    "output": true,
+    "explanation": "In the given sentence, 'cel' is a pun word that supports two plausible interpretations of 'cel' meaning a cell in a prison and 'cel' as short for celluloid, which is a type of plastic used in making animation cels. The words 'animator', 'imprisoned', 'felt', 'job', 'free', 'himself', and 'from' relate to the first interpretation of 'cell' meaning a prison cell. The word 'cel' relates to the second interpretation of 'celluloid'. Both interpretations are distinct where one refers to an animator's job and the other refers to a type of material used in animation."
+  },
+  {
+    "id": "het_346",
+    "text": "Gallup and Harris are poller opposites.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous terms that can be interpreted in multiple ways."
+  },
+  {
+    "id": "het_1573",
+    "text": "Death is life's way of telling you you've been fired.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous terms that support multiple interpretations."
+  },
+  {
+    "id": "het_235",
+    "text": "The thief broke into the music store and stole the lute.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_194",
+    "text": "Truckers like houses with long haulways.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_914",
+    "text": "Life is fragile, handle with prayer",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous terms that support multiple interpretations."
+  },
+  {
+    "id": "het_707",
+    "text": "I used to jog, but the ice kept falling out of my glass.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous terms that can be interpreted in multiple ways."
+  },
+  {
+    "id": "het_192",
+    "text": "Enter any 11-digit prime number to continue",
+    "output": true,
+    "explanation": "The pun word 'prime' supports two plausible interpretations of 'prime' meaning a number that is divisible only by itself and one and 'prime' meaning a person or thing that is excellent of its kind. In the given sentence, the words 'prime number' relates to the first interpretation of 'prime' as in a mathematical term while '11-digit' refers to the second interpretation of 'prime' as in an excellent or superior quality."
+  },
+  {
+    "id": "het_930",
+    "text": "Cane sugar can't be beet.",
+    "output": true,
+    "explanation": "The pun word 'beet' supports two plausible interpretations of 'beet' as a type of vegetable and 'beat' as in to overcome or surpass. In the given sentence, the words 'Cane sugar can't be' relate to the first interpretation of 'beet' meaning a type of vegetable while 'beet' refers to the second interpretation of 'beat' as in to overcome or surpass."
+  },
+  {
+    "id": "het_30",
+    "text": "Features should be discovered, not documented!",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_1145",
+    "text": "Men leap over where the hedge is lower.",
+    "output": false,
+    "explanation": "The word 'hedge' does not support two plausible interpretations in this sentence. It only refers to a barrier or fence."
+  },
+  {
+    "id": "het_1755",
+    "text": "The mime wanted to say something, but he wasn't aloud.",
+    "output": true,
+    "explanation": "In this sentence, the word 'aloud' is a pun because it can be interpreted in two ways: as an adjective meaning able to be heard (which fits with the context of the mime wanting to say something) and as a homophone of 'allowed', which refers to permission. The ambiguity of the word 'aloud' supports both interpretations, making this sentence a pun."
+  },
+  {
+    "id": "het_354",
+    "text": "Kennebunkport was George Bush's maine vacation spot.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous words that can be interpreted in multiple ways."
+  },
+  {
+    "id": "het_658",
+    "text": "Women were meant to be loved, not understood.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_663",
+    "text": "Staying at the trendy, new hotel was the inn thing to do.",
+    "output": false,
+    "explanation": "The word 'inn' in this sentence does not support two plausible interpretations that would create a pun. It only refers to a place where people can stay overnight."
+  },
+  {
+    "id": "het_1433",
+    "text": "''This is mutiny!'' said Tom bountifully.",
+    "output": false,
+    "explanation": "There are no pun words in the sentence."
+  },
+  {
+    "id": "het_204",
+    "text": "I learned that the antelopes were coming when I heard the gnus.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous words that can be interpreted in more than one way."
+  },
+  {
+    "id": "het_1234",
+    "text": "What everybody says must be true.",
+    "output": false,
+    "explanation": "The sentence does not contain any ambiguous word that supports multiple interpretations."
+  },
+  {
+    "id": "het_1438",
+    "text": "On organic farms they till it like it is.",
+    "output": false,
+    "explanation": "There are no pun words or ambiguous words in the sentence."
+  },
+  {
+    "id": "het_520",
+    "text": "What did the nice girl say when her date invited her home to see his stamp collection?'Philately will get you nowhere'.",
+    "output": true,
+    "explanation": "The pun word 'philately' supports two plausible interpretations of 'philately' meaning the hobby of collecting stamps and 'physically' meaning in a physical way. In the given sentence, the words 'nice girl' relate to 'physically' while 'invited her home' refers to the first interpretation of 'philately' which is the hobby of collecting stamps."
+  },
+  {
+    "id": "het_1581",
+    "text": "Mathematicians are sum worshippers.",
+    "output": false,
+    "explanation": "The word 'sum' does not support two plausible interpretations in this sentence. It only refers to the mathematical concept of addition. There is no other word in the sentence that realizes another interpretation of 'sum', hence the sentence is not a pun."
+  },
+  {
+    "id": "het_738",
+    "text": "Life is ten percent what happens to you and ninety percent how you respond to it.",
+    "output": false,
+    "explanation": "There are no pun words in the sentence."
+  },
+  {
+    "id": "het_386",
+    "text": "There's a repair shop for baroque musical instruments.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous words that support multiple interpretations."
+  },
+  {
+    "id": "het_142",
+    "text": "''We have no oranges ,'' Tom said fruitlessly.",
+    "output": true,
+    "explanation": "The pun word 'oranges' supports two plausible interpretations of 'oranges' as a type of fruit and 'oranges' as the number zero. In the given sentence, the words 'have no' relate to the second interpretation of 'oranges' meaning zero while 'Tom said fruitlessly' refers to the first interpretation of 'oranges' as a type of fruit."
+  },
+  {
+    "id": "het_1198",
+    "text": "Lead by example.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_552",
+    "text": "The triangular computer monitor business was just a big pyramid screen.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_1488",
+    "text": "I've been called a rare commodity. I wonder if that makes me silver or gold?I guess I could be either ore.",
+    "output": true,
+    "explanation": "The pun word 'ore' supports two plausible interpretations of 'rare commodity' and 'either'. In the given sentence, 'rare' relates to 'rare commodity' while 'either' refers to the second interpretation of 'ore' meaning a metal. Both of these are distinct where one refers to a rare commodity and the other refers to a type of metal."
+  },
+  {
+    "id": "het_778",
+    "text": "Keep your own counsel.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_562",
+    "text": "Some rappers are good but others are Ludacris.",
+    "output": true,
+    "explanation": "The pun word 'Ludacris' is a play on the name of the rapper Ludacris and the word 'ludicrous'. The sentence implies that some rappers are good while others are so bad they are ludicrous."
+  },
+  {
+    "id": "het_1118",
+    "text": "c-h-r-c-h, were missing u",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "het_167",
+    "text": "A reconciled friend is a double enemy.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous words that support multiple interpretations."
+  },
+  {
+    "id": "het_234",
+    "text": "OLD DOCTORS never die they just lose their patience.",
+    "output": true,
+    "explanation": "The pun word 'doctors' supports two plausible interpretations of doctors as in medical professionals and doctors as in liquid substances that can be used to treat ailments. In the given sentence, the words 'old', 'never', 'die', 'lose', and 'patience' relate to both interpretations of doctors. The first interpretation refers to old medical professionals who lose their patience while the second interpretation refers to old liquid substances that can be used to treat ailments."
+  },
+  {
+    "id": "het_1067",
+    "text": "A reformed arsonist was in confession. He began ,'' Bless me Father for I have singed.''",
+    "output": true,
+    "explanation": "In the sentence 'Bless me Father for I have singed', the word 'singed' can be interpreted as both a past tense of the verb 'to singe' (meaning to scorch or burn slightly) and as a pun on the phrase 'sinned'. The pun is created by replacing the expected word 'sinned' with 'singed', which changes the meaning but maintains the rhyme scheme."
+  },
+  {
+    "id": "het_987",
+    "text": "Even covered in salad dressing my lettuce looked bare, so I put some cloves on it.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations of a word that could be used to create a pun."
+  },
+  {
+    "id": "het_1657",
+    "text": "We've taken over the government, the general cooed.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations."
+  },
+  {
+    "id": "het_519",
+    "text": "Company's coming, Tom guessed.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations."
+  },
+  {
+    "id": "het_1423",
+    "text": "One item contributed was a picture of a pretty, kimono-clad girl ; it bore the inscription :'' Maid in Japan''.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words. The phrase 'Maid in Japan' could be interpreted as a play on words but it is not a pun because the word 'maid' refers to a female servant and 'Japan' refers to a country."
+  },
+  {
+    "id": "het_767",
+    "text": "If you want someone to keep a secret, keep it yourself.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_979",
+    "text": "When a cow laughs, does milk come up its nose?",
+    "output": true,
+    "explanation": "The pun word 'laughs' supports two plausible interpretations of 'laughs' meaning to express amusement and 'laughs' as a verb referring to the sound made by a cow. In the given sentence, the words 'cow' relates to 'laughs' meaning the sound made by a cow while 'milk' refers to the second interpretation of 'laughs' meaning to express amusement."
+  },
+  {
+    "id": "het_1622",
+    "text": "Data got into so much trouble, her parents sent her packeting.",
+    "output": true,
+    "explanation": "The pun word 'packeting' supports two plausible interpretations of 'packeting' meaning a form of punishment and 'packet' meaning a unit of data. In the given sentence, the words 'parents' relates to 'packeting' while 'data' refers to the second interpretation of 'packet'. Both of these are distinct where one refers to a form of punishment and the other refers to a unit of data."
+  },
+  {
+    "id": "het_1355",
+    "text": "A lawyer's opinion is worth nothing unless paid for.",
+    "output": false,
+    "explanation": "There are no pun words or ambiguous interpretations in the sentence."
+  },
+  {
+    "id": "het_919",
+    "text": "Penny wise, pound foolish.",
+    "output": false,
+    "explanation": "The phrase 'penny wise, pound foolish' is an idiom which means being careful with small expenses while being careless with larger ones. It does not contain a pun word that supports two plausible interpretations."
+  },
+  {
+    "id": "het_1524",
+    "text": "Just pew it",
+    "output": false,
+    "explanation": "The word 'pew' does not support any plausible interpretations that would result in a pun."
+  },
+  {
+    "id": "het_420",
+    "text": "My two uncles bet who would get married first. Then one upped the ante.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations."
+  },
+  {
+    "id": "het_1750",
+    "text": "A hermit drove to town and was charged with recluse driving.",
+    "output": true,
+    "explanation": "The pun word 'recluse' supports two plausible interpretations of 'recluse' meaning a person who lives apart from society and 'recluse' meaning a person who drives in reverse. In the given sentence, the words 'hermit' relates to 'recluse' meaning a person who lives apart from society while 'charged with' refers to the second interpretation of 'recluse' meaning a person who drives in reverse."
+  },
+  {
+    "id": "het_714",
+    "text": "I'm a ditch digger, said Tom, trenchantly",
+    "output": false,
+    "explanation": "The word 'digger' does have ambiguity here where it supports two plausible interpretations of digger as in a person who digs and digger as in a mechanical excavator. However, the sentence does not provide any context to support both interpretations simultaneously. Hence, the sentence is not a pun."
+  },
+  {
+    "id": "het_1611",
+    "text": "He made so many mistakes that he had an err about him.",
+    "output": true,
+    "explanation": "The pun word 'err' supports two plausible interpretations of 'err' meaning a mistake and 'err' as in error message. In the given sentence, the words 'made mistakes' relates to 'mistakes' while 'had an err about him' refers to the second interpretation of 'error message'. Both of these are distinct where one refers to multiple errors made by someone while the other refers to a specific error message."
+  },
+  {
+    "id": "het_271",
+    "text": "Time is precious.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_1119",
+    "text": "My name is Neal. I lead prayer groups.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_1463",
+    "text": "Why was six afraid of seven?Because seven eight nine.",
+    "output": true,
+    "explanation": "The pun word 'eight' supports two plausible interpretations of 'eight' meaning the number and 'eight' meaning a weight. In the given sentence, the words 'Why was six afraid of seven?' relate to the first interpretation of 'eight' as a number while 'Because seven eight nine.' refers to the second interpretation of 'eight' as a weight."
+  },
+  {
+    "id": "het_1474",
+    "text": "You should lock up your wine in a cabernet.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations."
+  },
+  {
+    "id": "het_828",
+    "text": "You should never drink beyond the pint of no return.",
+    "output": true,
+    "explanation": "The pun word 'pint' supports two plausible interpretations of 'pint' meaning a unit of measurement for alcoholic beverages and 'point' meaning a decisive moment or stage. In the given sentence, the words 'beyond the pint' relates to the first interpretation of 'pint' as a unit of measurement for alcoholic beverages while 'of no return' refers to the second interpretation of 'point' as a decisive moment or stage."
+  },
+  {
+    "id": "het_24",
+    "text": "We welcome you with open psalms.",
+    "output": false,
+    "explanation": "The word 'psalms' does not support two plausible interpretations in the given sentence. It refers to a collection of religious songs or poems and there are no other words in the sentence that realize both interpretations."
+  },
+  {
+    "id": "het_1149",
+    "text": "Where vice goes before, vengeance follows after.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous words that can support multiple interpretations."
+  },
+  {
+    "id": "het_727",
+    "text": "''I admire East End gangsters ,'' said Tom crazily.",
+    "output": false,
+    "explanation": "The word 'End' in the sentence does not support two plausible interpretations of 'end' meaning a conclusion or termination and 'end' as in the geographical location. There are no other words in the sentence that realize both interpretations, hence the sentence is not a pun."
+  },
+  {
+    "id": "het_1065",
+    "text": "Kentucky Fried Chicken, looking to expand into the area of low-fat dining alternatives, has begun selling popcorn. Their new motto is ,'' Look for the kernel.''",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations that could be used to create a pun."
+  },
+  {
+    "id": "het_538",
+    "text": "I feel empty inside, Tom hollered.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguity that supports multiple interpretations."
+  },
+  {
+    "id": "het_1655",
+    "text": "Today is the first day of the rest of your life.",
+    "output": false,
+    "explanation": "There are no pun words in the sentence."
+  },
+  {
+    "id": "het_1412",
+    "text": "On cooking shows, there is little margarine of error.",
+    "output": true,
+    "explanation": "The pun word 'margarine' supports two plausible interpretations of 'margarine' as a type of butter substitute and 'margin' as in the small difference between two things. In the given sentence, the words 'cooking shows' relate to 'margarine' while 'error' refers to the second interpretation of 'margin'. Both of these are distinct where one refers to a cooking ingredient while the other refers to a small difference or tolerance."
+  },
+  {
+    "id": "het_1538",
+    "text": "''Eating uranium makes me feel funny ,'' said Tom radiantly.",
+    "output": true,
+    "explanation": "The pun word 'uranium' supports two plausible interpretations of 'uranium' as a chemical element and 'uranium' as a slang term for money. In the given sentence, the words 'eating' relates to 'uranium' as a chemical element while 'makes me feel funny' refers to the second interpretation of 'uranium' as a slang term for money."
+  },
+  {
+    "id": "het_758",
+    "text": "Two brothers fought over some sheet music but their mother wanted to keep the piece.",
+    "output": true,
+    "explanation": "The pun word 'sheet' supports two plausible interpretations of 'sheet' meaning a flat piece of material and 'sheet' as in a collection of written music. In the given sentence, the words 'brothers' relate to 'sheet' meaning a flat piece of material while 'mother' relates to 'sheet' as in a collection of written music."
+  },
+  {
+    "id": "het_160",
+    "text": "Smile, and the world smiles with you ; cry, and you cry alone.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_124",
+    "text": "Dateline London : Eccentric ornithologist travels to foreign land to teach pigeon English.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "het_643",
+    "text": "''I bought myself fifty hamburgers and I've only ten left ,'' said Tom with fortitude.",
+    "output": true,
+    "explanation": "The pun word 'hamburgers' supports two plausible interpretations of 'hamburgers' meaning a type of food and 'hambergers' meaning a type of city. In the given sentence, the words 'fifty' relates to 'hamburgers' while 'ten left' refers to the second interpretation of 'hambergers' as a city name. Both of these are distinct where one refers to the quantity of food consumed and the other refers to the number of cities left."
+  },
+  {
+    "id": "het_1662",
+    "text": "''I just bought a woollen sweater ,'' said Tom sheepishly.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations."
+  },
+  {
+    "id": "het_754",
+    "text": "OLD RANCHERS never die, they just breed their last.",
+    "output": true,
+    "explanation": "The pun word 'breed' supports two plausible interpretations of 'breed' meaning to produce offspring and 'read' as in the act of interpreting text. In the given sentence, the words 'old ranchers' relates to 'breed' while 'die' refers to the second interpretation of 'read'. Both of these are distinct where one refers to old ranchers producing offspring while the other refers to the action of reading."
+  },
+  {
+    "id": "het_1121",
+    "text": "Mind like a steel trap-rusted shut!",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_1714",
+    "text": "Southerners are quick on the drawl.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "het_1037",
+    "text": "I'll clean the chimney, said Tom, fluently",
+    "output": true,
+    "explanation": "The pun word 'fluently' supports two plausible interpretations of 'fluently' meaning speaking or writing with ease and 'flue' meaning a passage in a chimney. In the given sentence, the words 'chimney' relates to 'flue' while 'cleaning' refers to the first interpretation of 'fluently'. Both of these are distinct where one refers to cleaning a chimney and the other refers to speaking or writing with ease."
+  },
+  {
+    "id": "het_181",
+    "text": "''For what we are about to receive, may the Lord make us truly thankful ,'' said Tom gracefully.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_595",
+    "text": "Old chicken farmers never die, they just have a dozen aches.",
+    "output": true,
+    "explanation": "The pun word 'dozen' supports two plausible interpretations of 'dozen' meaning twelve and 'dose' meaning a quantity of medicine or treatment. In the given sentence, the words 'chicken farmers' relate to 'dozen' while 'aches' refers to the second interpretation of 'dose'. Both of these are distinct where one refers to the number of chickens and the other refers to a medical treatment for the pain."
+  },
+  {
+    "id": "het_896",
+    "text": "You can lead a horse to water but you can't make it drink.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguity that supports two plausible interpretations."
+  },
+  {
+    "id": "het_245",
+    "text": "There is luck in odd numbers.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "het_625",
+    "text": "The son shines on the righteous.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_1410",
+    "text": "Tweety of Borg : I tawt I attimilated a Puddy Tat!",
+    "output": true,
+    "explanation": "The pun word 'tawt' supports two plausible interpretations of 'tawt' meaning 'thought' and 'attimilated' meaning 'ate mimicked'. In the given sentence, the words 'Tweety' relates to 'Puddy Tat' while 'attimilated' refers to the second interpretation of 'ate mimicking' a Puddy Tat."
+  },
+  {
+    "id": "het_391",
+    "text": "''I can eat one hundred and forty-four ,'' Tom boasted grossly.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun word or ambiguous word that supports two plausible interpretations."
+  },
+  {
+    "id": "het_1558",
+    "text": "Our theft of raw gold from the mine site was a fiasco because, as we jumped into the getaway boat, we dropped the ore.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous words that can be interpreted in two different ways."
+  },
+  {
+    "id": "het_180",
+    "text": "Today is cancelled due to lack of interest!",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous words that support multiple interpretations."
+  },
+  {
+    "id": "het_1328",
+    "text": "That's no beagle ; that's a mongrel, Tom muttered.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "het_1237",
+    "text": "I heard about this new governing document that says people can only go to the bathroom one per day. It's called the Constipation.",
+    "output": true,
+    "explanation": "The pun word 'Constipation' supports two plausible interpretations of 'constitution' meaning a governing document and 'constipation' meaning difficulty in defecating. In the given sentence, the words 'governing document' relates to 'constitution' while 'people can only go to the bathroom one per day' refers to the second interpretation of 'constipation'. Both of these are distinct where one refers to a governing document and the other refers to a condition related to defecating."
+  },
+  {
+    "id": "het_1282",
+    "text": "The humorist's favorite sandwich was smoked tongue on wry.",
+    "output": true,
+    "explanation": "In this sentence, the pun word is 'wry'. The word 'wry' can be interpreted as both an adjective meaning twisted or distorted and a noun referring to a type of sandwich. In the given sentence, 'favorite sandwich' relates to 'wry' as a type of sandwich while 'on wry' refers to the second interpretation of 'wry' meaning twisted or distorted."
+  },
+  {
+    "id": "het_1617",
+    "text": "OLD PRAGUE RESIDENTS never die, they just Czech out.",
+    "output": true,
+    "explanation": "The pun word 'Czech' supports two plausible interpretations of 'Czech' as an adjective referring to the people and language of the Czech Republic and 'check out' meaning to leave or die. In the given sentence, the words 'residents' relate to 'Czech' while 'never die' refers to the second interpretation of 'check out' meaning to leave or die."
+  },
+  {
+    "id": "het_18",
+    "text": "The best things come in small packages.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_335",
+    "text": "As I revived her using mouth to mouth resuscitation, in spite of my lisp, I couldn't help noticing her beautiful breaths!",
+    "output": true,
+    "explanation": "The pun word 'breaths' supports two plausible interpretations. The first interpretation is the literal meaning of breaths as in respiration. The second interpretation is a play on words where 'breaths' can also mean beautiful, which relates to the phrase 'beautiful breaths'. Both these interpretations are realized by the sentence."
+  },
+  {
+    "id": "het_592",
+    "text": "The cast, after the scene in the forest, took their boughs.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_675",
+    "text": "It's a lengthy article on Japanese Sword Fighters but I can Samurais it for you.",
+    "output": true,
+    "explanation": "The pun word 'Samurais' supports two plausible interpretations of 'Samurai' meaning a Japanese warrior and 'samurais' meaning to cut or shorten. In the given sentence, the words 'article' relates to 'Samurai' while 'can' refers to the second interpretation of 'samurais' meaning to cut or shorten."
+  },
+  {
+    "id": "het_1667",
+    "text": "Don't bite off more than you can chew.",
+    "output": false,
+    "explanation": "The phrase 'bite off more than you can chew' is an idiomatic expression which means to take on more work or responsibility than one can handle. There are no pun words in the sentence."
+  },
+  {
+    "id": "het_257",
+    "text": "I've been listening to the Brandenberg Concertos, Tom barked.",
+    "output": true,
+    "explanation": "The pun word 'barked' supports two plausible interpretations of 'barked' meaning to make a noise like a dog and 'barked' meaning to shout or announce something. In the given sentence, the words 'listening' relates to 'Brandenberg Concertos' while 'Tom barked' refers to the second interpretation of 'barked' meaning to shout or announce something."
+  },
+  {
+    "id": "het_332",
+    "text": "Because they moved into an apartment, they didn't need to cut the grass any mow.",
+    "output": false,
+    "explanation": "In this sentence, the word 'mow' is related to the action of cutting grass but does not support another plausible interpretation that would create a pun."
+  },
+  {
+    "id": "het_575",
+    "text": "A police dog is often the scenter of a drug arrest.",
+    "output": false,
+    "explanation": "The word 'scenter' does not support two plausible interpretations that could be considered as a pun. The word 'scenter' seems to be a typo or misspelling of the word 'center', which is unrelated to any other words in the sentence."
+  },
+  {
+    "id": "het_243",
+    "text": "Use it or lose it.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_389",
+    "text": "The astronomer made a claim about a well-known star, but it wasn't sirius.",
+    "output": true,
+    "explanation": "In the given sentence, the pun word 'sirius' supports two plausible interpretations of 'sirius' as a brightest star in the sky and 'serious' meaning very important or grave. The word 'claim' relates to the first interpretation of 'sirius' while 'it wasn't' refers to the second interpretation of 'serious'. Both of these are distinct where one refers to a claim about a celestial body and the other refers to a situation that is not very serious or grave."
+  },
+  {
+    "id": "het_1260",
+    "text": "If a Monk throws a hissy fit, is it a temple tantrum?",
+    "output": true,
+    "explanation": "In this sentence, the pun word 'his' supports two plausible interpretations of 'his' meaning possession and 'hissy' meaning a type of fit. The words 'Monk' relates to 'his' while 'fit' refers to the second interpretation of 'hissy'. Both of these are distinct where one refers to a monk's possession while the other refers to an action done in anger which is throwing a hissy fit."
+  },
+  {
+    "id": "het_689",
+    "text": "A boy who instinctively waves at people has a natural hi.",
+    "output": true,
+    "explanation": "The pun word 'hi' supports two plausible interpretations of 'hi' meaning a greeting and 'I' as the pronoun. In the given sentence, the words 'boy' relates to 'hi' while 'waves' refers to the second interpretation of 'I'. Both of these are distinct where one refers to a boy who waves at people while the other refers to an action done by the boy himself."
+  },
+  {
+    "id": "het_1245",
+    "text": "Marry in haste, and repent at leisure.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous terms that support multiple interpretations."
+  },
+  {
+    "id": "het_45",
+    "text": "Fashion is something that goes in one era and out the other.",
+    "output": false,
+    "explanation": "There are no pun words in the sentence."
+  },
+  {
+    "id": "het_450",
+    "text": "My stereo's half-fixed, said Tom monotonously.",
+    "output": false,
+    "explanation": "The word 'stereo' does not have any ambiguity in this sentence and there are no other words that can support two plausible interpretations."
+  },
+  {
+    "id": "het_1589",
+    "text": "To stay out of debt, act your wage.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguity that supports multiple interpretations."
+  },
+  {
+    "id": "het_308",
+    "text": "We sternly warned the circus clown not to light the fuse while we were inside the cannon, but he did it anyway-- and it really made us soar.",
+    "output": true,
+    "explanation": "The pun word 'soar' supports two plausible interpretations of 'soar' meaning to rise rapidly in altitude and 'soar' as in being very successful or impressive. In the given sentence, the words 'circus clown' relates to 'soar' meaning to rise rapidly in altitude while 'it really made us soar' refers to the second interpretation of 'soar' as in being very successful or impressive. Both of these are distinct where one refers to a circus clown's action and the other refers to an outcome of the action."
+  },
+  {
+    "id": "het_1721",
+    "text": "Cheating on a test can put honorable students in conflict with their principals.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_174",
+    "text": "7 days without prayer makes 1 weak",
+    "output": true,
+    "explanation": "The pun word 'week' supports two plausible interpretations of 'week' meaning a period of seven days and 'weak' meaning lacking strength. In the given sentence, the words '7 days without prayer' relate to 'week' while 'makes 1 weak' refers to the second interpretation of 'weak'. Both of these are distinct where one refers to a week as in a period of time and the other refers to an outcome of being weak."
+  },
+  {
+    "id": "het_412",
+    "text": "''Why shouldn't I stir my coffee with a ballpoint pen?'' Tom bickered.",
+    "output": false,
+    "explanation": "The word 'bicker' does not support two plausible interpretations of the word 'bicker'. The sentence is not a pun."
+  },
+  {
+    "id": "het_375",
+    "text": "Arriving late, Senator Kennedy slipped on a banana peel and fell in a heap, resulting in a humerus break in the midst of the subcommittee's intense discussion.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous words that support multiple interpretations."
+  },
+  {
+    "id": "het_925",
+    "text": "The way to a man's heart is through his stomach.",
+    "output": false,
+    "explanation": "There are no pun words in the sentence."
+  },
+  {
+    "id": "het_221",
+    "text": "If you work in a bakery you may have to take on many roles.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_1313",
+    "text": "Fortune favors the brave.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_44",
+    "text": "''Why is this telephone flex always tangled?'' asked Tom coyly.",
+    "output": false,
+    "explanation": "The word 'telephone' does not have any ambiguity in the sentence and there are no other words that can support two plausible interpretations of 'telephone'. Hence, the sentence is not a pun."
+  },
+  {
+    "id": "het_1263",
+    "text": "Joy shared, joy doubled : sorrow shared, sorrow halved.",
+    "output": true,
+    "explanation": "The pun word 'joy' supports two plausible interpretations of 'joy' meaning happiness and 'joy' as a verb to share. In the given sentence, the words 'shared' relates to both interpretations of 'joy'. The first part of the sentence talks about sharing happiness which is doubled while the second part of the sentence talks about sharing sorrow which is halved."
+  },
+  {
+    "id": "het_664",
+    "text": "A guilty conscience needs no accuser.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_659",
+    "text": "Golden Rule : He who has the gold makes the rules.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_309",
+    "text": "''I have been reading Voltaire ,'' Tom admitted candidly.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_1477",
+    "text": "I'm not sure about Heisenberg, said Tom uncertainly.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_999",
+    "text": "Two wrongs don't make a right.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations."
+  },
+  {
+    "id": "het_918",
+    "text": "Hard words break no bones.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_1139",
+    "text": "When the cat is away, the mice will play.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous words that support multiple interpretations."
+  },
+  {
+    "id": "het_1229",
+    "text": "I don't like hanging out at the pancake house, that place gives me the crepes!",
+    "output": true,
+    "explanation": "The pun word 'crepes' supports two plausible interpretations of 'crepes' meaning a type of food and 'creeps' meaning an unpleasant person. In the given sentence, the words 'don't like' relate to 'crepes' while 'gives me the' refers to the second interpretation of 'creeps'. Both of these are distinct where one refers to not liking a type of food while the other refers to feeling uncomfortable around an unpleasant person."
+  },
+  {
+    "id": "het_1594",
+    "text": "The stern pirate captain's policy of forcing the worst members of his crew to walk the plank went swimmingly.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_1009",
+    "text": "How can you be so deaf with those huge ears?",
+    "output": false,
+    "explanation": "The word 'deaf' does not have any ambiguity in this sentence. The word 'ears' is related to the context of the sentence but it doesn't support two plausible interpretations that would make it a pun."
+  },
+  {
+    "id": "het_869",
+    "text": "''Someone bumped into me while I was brushing my teeth ,'' said Tom with a gleam in his eye.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous words that can be interpreted in multiple ways."
+  },
+  {
+    "id": "het_1299",
+    "text": "After Jimmy swallowed a live earthworm, he sat waiting with baited breath to see if he'd get sick.",
+    "output": true,
+    "explanation": "The pun word 'earthworm' supports two plausible interpretations of 'earthworm' meaning a type of worm and 'earthworm' meaning a person who works on the land. In the given sentence, the words 'Jimmy swallowed' relate to the first interpretation of 'earthworm' as a type of worm while 'waiting with baited breath' refers to the second interpretation of 'earthworm' as a person who works on the land."
+  },
+  {
+    "id": "het_903",
+    "text": "As Sir Galahad lifted the sacred chalice, the bottom fell out. He had indeed found the holey Grail.",
+    "output": true,
+    "explanation": "The pun word 'holy' supports two plausible interpretations of 'holy' meaning sacred and 'holey' meaning having holes. In the given sentence, the words 'Grail' relates to 'holy' while 'fell out' refers to the second interpretation of 'holey'. Both of these are distinct where one refers to the sacredness of the Grail while the other refers to the physical state of the chalice."
+  },
+  {
+    "id": "het_1595",
+    "text": "The magician who loved his chocolate could perform a lot of Twix.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_1709",
+    "text": "Shotgun wedding : A case of wife or death.",
+    "output": true,
+    "explanation": "The pun word 'shotgun' supports two plausible interpretations of 'shotgun' as a firearm and 'shotgun' as a vehicle for quick marriage. In the given sentence, the words 'wedding' relates to 'shotgun' meaning a firearm while 'wife or death' refers to the second interpretation of 'shotgun' as a vehicle for quick marriage."
+  },
+  {
+    "id": "het_1576",
+    "text": "To stay fit the priest exorcises.",
+    "output": false,
+    "explanation": "The word 'exorcises' does not support any plausible interpretations that could lead to a pun. The sentence is about a priest exercising, and there are no other words in the sentence that can be associated with another meaning."
+  },
+  {
+    "id": "het_416",
+    "text": "50 Shades of Grace",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_1250",
+    "text": "''That's nothing!'' said Tom naughtily.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_384",
+    "text": "There was a lot of equestrian paraphernalia at the bridle shower.",
+    "output": true,
+    "explanation": "The pun word 'equestrian' supports two plausible interpretations of 'equestrian' meaning related to horse riding and 'estate' meaning land or property. In the given sentence, the words 'bridle shower' relate to 'equestrian' while 'lot' refers to the second interpretation of 'estate'. Both of these are distinct where one refers to a lot of horse riding equipment and the other refers to a large amount of land."
+  },
+  {
+    "id": "het_366",
+    "text": "I'd really like to know whether her collapse was due to a serious illness or whether it was one of her usual feints.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_748",
+    "text": "I'm writing a book. I've got the page numbers done.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_501",
+    "text": "''I was the first to climb Mount Everest ,'' said Tom hilariously.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguity that supports two plausible interpretations."
+  },
+  {
+    "id": "het_40",
+    "text": "''Be still my hart'' she murmured, thinking how magnificent and stag-like he was.",
+    "output": false,
+    "explanation": "The word 'hart' in the sentence refers to a male deer and not to the heart. There is no pun word that supports two plausible interpretations."
+  },
+  {
+    "id": "het_1390",
+    "text": "Some orchestra conductors make their mark in the world of opera. They were in the right aria at the right time.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "het_1553",
+    "text": "A pet store had a bird contest with no perches necessary.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "het_1047",
+    "text": "My name is Rex. I own a junk yard.",
+    "output": false,
+    "explanation": "There are no pun words in the sentence."
+  },
+  {
+    "id": "het_327",
+    "text": "Any sufficiently advanced bug will become a feature.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "het_1222",
+    "text": "Coins are mint to be.",
+    "output": false,
+    "explanation": "The word 'mint' does not support two plausible interpretations in the given sentence."
+  },
+  {
+    "id": "het_1345",
+    "text": "When the fog burns off it won't be mist.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_448",
+    "text": "Governments absorb 100x their weight in excess liberties.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations."
+  },
+  {
+    "id": "het_290",
+    "text": "First Rule of Intelligent Tinkering-Save all parts",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_1520",
+    "text": "In the land of the blind, the one-eyed man is king.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous interpretations."
+  },
+  {
+    "id": "het_183",
+    "text": "Before the golfer finished drinking the iced, brewed beverage he dropped his tee on the cart path.",
+    "output": true,
+    "explanation": "The pun word 'dropped' can support two interpretations: dropping an object (like a tee) or losing control of something (like a golf swing). In this sentence, the words 'golfer', 'drinking', and 'iced brewed beverage' relate to the first interpretation while 'tee' and 'cart path' relate to the second. Both interpretations are distinct where one refers to an object being dropped and the other refers to losing control of a golf swing."
+  },
+  {
+    "id": "het_935",
+    "text": "''This Bud's for you ,'' said Tom lightly.",
+    "output": false,
+    "explanation": "The sentence does not contain any ambiguous word that supports multiple interpretations."
+  },
+  {
+    "id": "het_75",
+    "text": "When the florist was running behind in delivering the roses, he had to put the petal to the metal.",
+    "output": true,
+    "explanation": "The pun word 'petal' supports two plausible interpretations of 'petal' meaning a part of a flower and 'pedal' meaning an accelerator in a car. In the given sentence, the words 'florist' relates to 'petal' while 'putting to the metal' refers to the second interpretation of 'pedal'. Both of these are distinct where one refers to a florist's product while the other refers to an action done in urgency which is accelerating a car."
+  },
+  {
+    "id": "het_571",
+    "text": "The winter drive-by shooting was a slay ride.",
+    "output": true,
+    "explanation": "In this sentence, 'drive-by' can be interpreted as a noun referring to a car journey or an adjective describing the action of driving by. Similarly, 'slay' can be interpreted as a verb meaning to kill or a noun meaning a type of dance. The pun word 'ride' supports both interpretations: it refers to the act of driving by in the first interpretation and the type of ride (dance) in the second interpretation."
+  },
+  {
+    "id": "het_1582",
+    "text": "I was caught studying the periodic table in English class. It was an elementary mistake.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun word or ambiguous word that can be interpreted in two different ways."
+  },
+  {
+    "id": "het_508",
+    "text": "I need to go on a diet, said Tom wastefully.",
+    "output": true,
+    "explanation": "The pun word 'wastefully' supports two plausible interpretations of 'wastefully' meaning both unproductively and in relation to waste management. In the given sentence, the words 'I need to go on a diet' relate to the first interpretation of 'unproductively' while the word 'Tom' relates to the second interpretation of 'waste'. Both of these are distinct where one refers to Tom's unproductive behavior and the other refers to an action done in relation to waste."
+  },
+  {
+    "id": "het_1550",
+    "text": "We now return to your previously-scheduled topics.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_1513",
+    "text": "A short cut is the longest distance between two points.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "het_1196",
+    "text": "He that will thrive must first ask his wife.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "het_58",
+    "text": "When asked to picture the perfect modern defensive weapon the Claymore springs to mine.",
+    "output": false,
+    "explanation": "The word 'Claymore' does not have any ambiguity in this sentence and it only refers to a type of sword. There are no other words in the sentence that realize both interpretations, hence the sentence is not a pun."
+  },
+  {
+    "id": "het_512",
+    "text": "A man too busy to take care of his health is like a mechanic too busy to take care of his tools.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous words that support two plausible interpretations."
+  },
+  {
+    "id": "het_1056",
+    "text": "Today a truck hit my car. I wasn't hurt but I got the freight of my life.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words."
+  },
+  {
+    "id": "het_1468",
+    "text": "When I suffered a groin injury I became quite testy.",
+    "output": false,
+    "explanation": "The sentence does not contain any pun words or ambiguous words that can be interpreted in two different ways."
+  },
+  {
+    "id": "het_749",
+    "text": "A pie went for an audition for a part in a play. The casting agent told him he performed well, but it was more of a sausage roll.",
+    "output": true,
+    "explanation": "The pun word 'pie' supports two plausible interpretations of 'pie' meaning a baked dish and 'guy' meaning a male person. In the given sentence, the words 'went for an audition' relates to 'pie' while 'told him he performed well' refers to the second interpretation of 'guy'. Both of these are distinct where one refers to a pie going for an audition and the other refers to a casting agent telling a guy that he performed well."
+  },
+  {
+    "id": "het_863",
+    "text": "Do hotel managers get board with their jobs?",
+    "output": true,
+    "explanation": "The pun word 'board' supports two plausible interpretations of 'board' meaning a group that oversees an organization and 'board' as in the flat surface on which one writes or draws. In the given sentence, the words 'hotel managers' relate to 'board' meaning a group that oversees an organization while 'get board with their jobs' refers to the second interpretation of 'board' as in the flat surface on which one writes or draws."
+  },
+  {
+    "id": "het_445",
+    "text": "The nudist defended himself by citing his Constitutional right to bare arms.",
+    "output": true,
+    "explanation": "In the given sentence, the pun word 'bare' supports two plausible interpretations of 'bare' meaning naked and 'bare' meaning without any covering or protection. The words 'nudist' relates to the first interpretation of 'bare' meaning naked while 'arms' refers to the second interpretation of 'bare' meaning without any covering or protection."
+  },
+  {
+    "id": "het_530",
+    "text": "A tangled bell ringer tolled himself off.",
+    "output": true,
+    "explanation": "In this sentence, 'tangled' can be interpreted as both a state of being entwined or a type of hair. The word 'ringer' refers to someone who rings a bell and also a person who is very good at something. The word 'tolled' refers to the action of ringing a bell and also the action of tolling (as in charging) for something. Hence, the sentence contains multiple interpretations of the words used which makes it a pun."
+  },
+  {
+    "id": "het_614",
+    "text": "This, too, shall pass.",
+    "output": false,
+    "explanation": "The phrase 'this too shall pass' is an idiomatic expression that does not have any pun word or ambiguity in the sentence."
+  },
+  {
+    "id": "het_1154",
+    "text": "Don't have too many irons in the fire.",
+    "output": false,
+    "explanation": "The phrase 'irons in the fire' is an idiom meaning having several projects or tasks ongoing at the same time. The word 'iron' does not support two plausible interpretations of iron as a metal and another unrelated word. Therefore, the sentence is not a pun."
+  },
+  {
+    "id": "het_1272",
+    "text": "Procrastinators suffers from a hardening of the oughteries.",
+    "output": true,
+    "explanation": "The pun word 'oughteries' supports two plausible interpretations of 'oughteries' meaning both 'responsibilities' and 'arteries'. In the given sentence, the words 'procrastinators' relates to 'responsibilities' while 'hardening' refers to the second interpretation of 'arteries'. Both of these are distinct where one refers to a lack of fulfilling duties while the other refers to a medical condition."
+  },
+  {
+    "id": "het_1397",
+    "text": "My name is Shelly, I'm an expert on mollusks",
+    "output": false,
+    "explanation": "There are no pun words in the sentence."
+  },
+  {
+    "id": "het_837",
+    "text": "Drinking too much of a certain potent potable may require a leave of absinthe.",
+    "output": true,
+    "explanation": "The pun word 'potable' supports two plausible interpretations of 'potable' meaning drinkable and 'potable' meaning portable. In the given sentence, the words 'certain', 'potent', 'potable', 'require', 'leave', and 'absinthe' all relate to the first interpretation of 'potable' as in a drinkable substance. The second interpretation of 'potable' as in portable is realized by the word 'of'. Both these interpretations are distinct where one refers to a type of drink while the other refers to the ability to be carried."
+  },
+  {
+    "id": "het_413",
+    "text": "It's not a BUG, it's an undocumented feature!",
+    "output": true,
+    "explanation": "The pun word 'BUG' supports two plausible interpretations of 'BUG' as in a software error and 'bug' as in an insect. In the given sentence, the words 'It's not a' relates to 'BUG' meaning a software error while 'it's an undocumented feature' refers to the second interpretation of 'bug' meaning an insect."
+  },
+  {
+    "id": "het_344",
+    "text": "If jokes could be owned like land, then no good pun would go undeeded.",
+    "output": true,
+    "explanation": "The sentence is a pun because the word 'owned' can be interpreted as both 'owned' in the sense of possession and 'owed' in the sense of owing or being indebted to someone. The phrase 'no good pun would go undeeded' plays on this duality, suggesting that if jokes were property, they wouldn't go unclaimed."
+  },
+  {
+    "id": "het_760",
+    "text": "After being treated by an optometrist, the bird seed.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_1168",
+    "text": "When I was starving to death, my children gave me a raisin to keep on living.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_891",
+    "text": "Dr. Jekyll's more successful second formula turned him into a world-class sprinter rather than a violent psychopath, proving that you can run but you can't always Hyde.",
+    "output": true,
+    "explanation": "The pun word 'Hyde' supports two plausible interpretations of 'Hyde' meaning Dr. Jekyll's alter ego and 'hide' meaning to conceal or run away. In the given sentence, the words 'Dr. Jekyll' relates to 'Hyde' while 'run but you can't always' refers to the second interpretation of 'hide'. Both of these are distinct where one refers to Dr. Jekyll's alter ego and the other refers to an action done in a way that it cannot be hidden."
+  },
+  {
+    "id": "het_452",
+    "text": "First things first.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_826",
+    "text": "If you write bad things about me I am libel to sue you.",
+    "output": true,
+    "explanation": "The pun word 'libel' supports two plausible interpretations of 'libel' meaning a written defamation and 'library' meaning a collection of books or other materials. In the given sentence, the words 'bad things' relates to 'defamation' while 'sue you' refers to the second interpretation of 'library' as in taking legal action against someone."
+  },
+  {
+    "id": "het_1451",
+    "text": "Answers : $ 1. Correct answers : $ 5. Dumb looks : Free!",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  },
+  {
+    "id": "het_1763",
+    "text": "Treat yourself to one of our Sundays.",
+    "output": false,
+    "explanation": "There is no pun word in the sentence."
+  }
+]
