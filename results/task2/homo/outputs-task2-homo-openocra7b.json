@@ -178,8 +178,8 @@
     "text": "A manufacturer that made lamps gave their employees a light workload.",
     "pun_word": "light",
     "target_word": "light",
-    "source_sense": "manufacturer;made;lamps",
-    "target_sense": "gave;employees;workload"
+    "source_sense": "manufacturer;lamps",
+    "target_sense": "employees;workload"
   },
   {
     "text": "The trapeze artist had to buy his own safety equipment. Every Friday he drew his net wages.",
