@@ -9,8 +9,7 @@ import random
 load_dotenv()
 
 MODEL = 'models/mistral-7b-openorca.Q6_K.gguf'
-# API_MODEL = 'gpt-4-1106-preview'
-API_MODEL = 'gpt-3.5-turbo-1106'
+API_MODEL = 'gpt-4-1106-preview'
 
 prompt_openocra = f''' ### INSTRUCTION:
 You are to classify whether a given sentence is a pun based on the following criteria:
@@ -104,7 +103,7 @@ def perform_gpt(llm, sentence):
   response_format={ "type": "json_object" },
   temperature=0.2,
   messages=prompt,
-  timeout=5,
+  timeout=15,
   )
   parsedJson = json.loads(response.choices[0].message.content)
   return parsedJson
@@ -152,7 +151,6 @@ if sentence:
   if option == 'openocra-7b':
     result = perform_openocra(llm, prompt_openocra, sentence)
   else:
-    print('hit')
     result = perform_gpt(llm, sentence)
   if result:
     st.write(result)
