@@ -1,0 +1,7 @@
+pandas
+scikit-learn
+cohere
+tiktoken
+openai
+streamlit
+python-dotenv
